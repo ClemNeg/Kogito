@@ -1,8 +1,9 @@
 {
   "expo": {
-    "name": "QuiziTemp",
-    "slug": "QuiziTemp",
+    "name": "Kogito",
+    "slug": "quizi",
     "version": "1.0.0",
+    "runtimeVersion": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -16,15 +17,25 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.quizi.cg",
+      "versionCode": 4,
+      "softwareKeyboardLayoutMode": "resize",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true,
-      "predictiveBackGestureEnabled": false
+      "edgeToEdgeEnabled": false
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "./plugins/withOptionalCameraFeature.js"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "a32b9453-bcf6-4d4b-abfd-2525895de906"
+      }
     }
   }
 }

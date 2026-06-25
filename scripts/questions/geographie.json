@@ -1,0 +1,1181 @@
+{
+  "theme": "géographie",
+  "questions": [
+    {
+      "id": 1,
+      "niveau": 1,
+      "question": "Quelle est la capitale de la France ?",
+      "reponse": "Paris",
+      "variantes": [
+        "paris",
+        "Paris"
+      ],
+      "anecdote": "Paris est la capitale et la ville la plus peuplée de France. Fondée il y a plus de 2000 ans par les Gaulois Parisii, elle est aujourd'hui l'une des villes les plus visitées au monde avec plus de 30 millions de touristes par an."
+    },
+    {
+      "id": 2,
+      "niveau": 1,
+      "question": "Quel est le plus grand océan du monde ?",
+      "reponse": "Océan Pacifique",
+      "variantes": [
+        "Pacifique",
+        "océan pacifique",
+        "le Pacifique"
+      ],
+      "anecdote": "L'océan Pacifique couvre environ 165 millions de km², soit plus que toutes les terres émergées réunies. Son nom vient du latin 'mare pacificum' (mer paisible), donné par Magellan lors de sa circumnavigation en 1520."
+    },
+    {
+      "id": 3,
+      "niveau": 1,
+      "question": "Sur quel continent se trouve l'Égypte ?",
+      "reponse": "Afrique",
+      "variantes": [
+        "afrique",
+        "le continent africain"
+      ],
+      "anecdote": "L'Égypte est un pays transcontinental : la majeure partie de son territoire se trouve en Afrique du Nord, mais la péninsule du Sinaï est géographiquement rattachée à l'Asie. Le canal de Suez sépare les deux parties."
+    },
+    {
+      "id": 4,
+      "niveau": 1,
+      "question": "Quelle est la capitale de l'Espagne ?",
+      "reponse": "Madrid",
+      "variantes": [
+        "madrid"
+      ],
+      "anecdote": "Madrid est la capitale de l'Espagne et sa ville la plus peuplée avec 3,3 millions d'habitants. Située au centre géographique du pays à 667 m d'altitude, c'est l'une des capitales les plus hautes d'Europe."
+    },
+    {
+      "id": 5,
+      "niveau": 1,
+      "question": "Dans quel pays se trouve la tour Eiffel ?",
+      "reponse": "France",
+      "variantes": [
+        "france",
+        "en France",
+        "la France"
+      ],
+      "anecdote": "La tour Eiffel a été construite par Gustave Eiffel pour l'Exposition universelle de 1889 à Paris. Haute de 330 mètres, elle était la plus haute structure du monde jusqu'en 1930. Elle reçoit environ 7 millions de visiteurs par an."
+    },
+    {
+      "id": 6,
+      "niveau": 1,
+      "question": "Quel est le plus grand pays du monde en superficie ?",
+      "reponse": "Russie",
+      "variantes": [
+        "russie",
+        "la Russie",
+        "Fédération de Russie"
+      ],
+      "anecdote": "La Russie couvre 17,1 millions de km², soit environ 11% de la surface terrestre. Elle s'étend sur 11 fuseaux horaires, de l'Europe jusqu'à l'Asie du Pacifique. Son territoire est si vaste qu'il est à la fois jour et nuit en même temps."
+    },
+    {
+      "id": 7,
+      "niveau": 1,
+      "question": "Quelle est la capitale de l'Allemagne ?",
+      "reponse": "Berlin",
+      "variantes": [
+        "berlin"
+      ],
+      "anecdote": "Berlin est la capitale et la ville la plus peuplée d'Allemagne. Divisée en deux parties pendant la Guerre froide (1961-1989) par le Mur de Berlin, elle est aujourd'hui une métropole culturelle et artistique mondiale."
+    },
+    {
+      "id": 8,
+      "niveau": 1,
+      "question": "Quel est le plus grand désert chaud du monde ?",
+      "reponse": "Sahara",
+      "variantes": [
+        "le Sahara",
+        "désert du Sahara"
+      ],
+      "anecdote": "Le Sahara couvre environ 9,2 millions de km² en Afrique du Nord, soit la superficie des États-Unis. Contrairement aux idées reçues, seul 25% du Sahara est composé de dunes de sable (ergs) ; le reste est fait de roches et de gravier."
+    },
+    {
+      "id": 9,
+      "niveau": 1,
+      "question": "Sur quel continent se trouve le Brésil ?",
+      "reponse": "Amérique du Sud",
+      "variantes": [
+        "amérique du sud",
+        "Amérique du Sud",
+        "Amérique latine",
+        "amérique latine"
+      ],
+      "anecdote": "Le Brésil est le plus grand pays d'Amérique du Sud et le cinquième plus grand pays du monde. Il abrite environ 60% de la forêt amazonienne, le plus grand massif forestier tropical de la planète."
+    },
+    {
+      "id": 10,
+      "niveau": 1,
+      "question": "Quelle est la capitale du Royaume-Uni ?",
+      "reponse": "Londres",
+      "variantes": [
+        "londres",
+        "London"
+      ],
+      "anecdote": "Londres est l'une des plus grandes métropoles d'Europe avec 9 millions d'habitants. La Tamise la traverse d'est en ouest. Ville historique, elle accueille le Parlement britannique, Buckingham Palace et de nombreux musées gratuits."
+    },
+    {
+      "id": 11,
+      "niveau": 1,
+      "question": "Quel est le plus haut sommet du monde ?",
+      "reponse": "Mont Everest",
+      "variantes": [
+        "Everest",
+        "mont everest",
+        "l'Everest",
+        "Sagarmatha",
+        "Chomolungma"
+      ],
+      "anecdote": "Le mont Everest culmine à 8 848,86 m d'altitude, mesuré précisément en 2020. Situé dans l'Himalaya à la frontière entre le Népal et la Chine, il a été gravi pour la première fois par Edmund Hillary et Tensing Norgay le 29 mai 1953."
+    },
+    {
+      "id": 12,
+      "niveau": 1,
+      "question": "Quelle est la capitale de l'Italie ?",
+      "reponse": "Rome",
+      "variantes": [
+        "rome",
+        "Roma"
+      ],
+      "anecdote": "Rome, surnommée 'la Ville éternelle', est la capitale de l'Italie. Fondée selon la tradition en 753 av. J.-C., elle fut le centre de l'Empire romain. Elle abrite l'État du Vatican, le plus petit pays souverain du monde."
+    },
+    {
+      "id": 13,
+      "niveau": 1,
+      "question": "Quel fleuve traverse Paris ?",
+      "reponse": "La Seine",
+      "variantes": [
+        "Seine",
+        "la seine",
+        "le fleuve Seine"
+      ],
+      "anecdote": "La Seine prend sa source en Bourgogne à 471 m d'altitude et se jette dans la Manche après 775 km. À Paris, elle est traversée par plus de 30 ponts. La ville de Paris s'est développée autour de l'île de la Cité, au milieu de la Seine."
+    },
+    {
+      "id": 14,
+      "niveau": 1,
+      "question": "Quelle est la capitale de l'Australie ?",
+      "reponse": "Canberra",
+      "variantes": [
+        "canberra"
+      ],
+      "anecdote": "Canberra est la capitale de l'Australie, et non Sydney comme beaucoup le croient. Elle a été choisie comme compromis en 1908, car les deux grandes villes rivales, Sydney et Melbourne, ne voulaient pas que l'autre devienne la capitale."
+    },
+    {
+      "id": 15,
+      "niveau": 2,
+      "question": "Quel est le plus petit pays du monde ?",
+      "reponse": "Vatican",
+      "variantes": [
+        "le Vatican",
+        "Saint-Siège",
+        "Cité du Vatican",
+        "État de la Cité du Vatican"
+      ],
+      "anecdote": "Le Vatican couvre seulement 0,44 km² au cœur de Rome. C'est le siège de l'Église catholique romaine et la résidence du pape. Malgré sa minuscule superficie, il possède sa propre monnaie (l'euro), ses propres timbres et sa propre armée (la Garde suisse)."
+    },
+    {
+      "id": 16,
+      "niveau": 3,
+      "question": "Dans quel océan se trouve Madagascar ?",
+      "reponse": "Océan Indien",
+      "variantes": [
+        "Indien",
+        "océan indien",
+        "l'océan Indien"
+      ],
+      "anecdote": "Madagascar est la quatrième plus grande île du monde avec 587 000 km². Séparée de l'Afrique il y a environ 88 millions d'années, elle abrite une faune et une flore uniques : 90% de ses espèces végétales et animales sont endémiques, dont les fameux lémuriens."
+    },
+    {
+      "id": 17,
+      "niveau": 1,
+      "question": "Quelle est la capitale du Japon ?",
+      "reponse": "Tokyo",
+      "variantes": [
+        "tokyo",
+        "Tōkyō"
+      ],
+      "anecdote": "Tokyo est la capitale du Japon et l'une des agglomérations les plus peuplées du monde avec plus de 37 millions d'habitants dans sa région métropolitaine. Anciennement appelée Edo, elle est devenue la capitale impériale en 1869."
+    },
+    {
+      "id": 18,
+      "niveau": 3,
+      "question": "Quel est le plus grand lac d'Afrique ?",
+      "reponse": "Lac Victoria",
+      "variantes": [
+        "Victoria",
+        "le Victoria",
+        "lac victoria"
+      ],
+      "anecdote": "Le lac Victoria est le plus grand lac d'Afrique et le deuxième plus grand lac d'eau douce du monde par sa superficie (68 870 km²). Il est partagé entre l'Ouganda, la Tanzanie et le Kenya. C'est la principale source du Nil."
+    },
+    {
+      "id": 19,
+      "niveau": 2,
+      "question": "Quelle est la capitale du Canada ?",
+      "reponse": "Ottawa",
+      "variantes": [
+        "ottawa"
+      ],
+      "anecdote": "Ottawa est la capitale du Canada, et non Toronto ou Montréal comme certains le pensent. Choisie en 1857 par la reine Victoria, elle se situe en Ontario, près de la frontière avec le Québec. La ville est officiellement bilingue (français et anglais)."
+    },
+    {
+      "id": 20,
+      "niveau": 3,
+      "question": "Quel est le plus long fleuve d'Europe ?",
+      "reponse": "La Volga",
+      "variantes": [
+        "Volga",
+        "la volga",
+        "le fleuve Volga"
+      ],
+      "anecdote": "La Volga s'étend sur 3 690 km en Russie, de ses sources dans les collines du Valdaï jusqu'à la mer Caspienne. C'est le fleuve le plus important de Russie sur le plan économique et culturel, souvent appelé 'Mère Volga' par les Russes."
+    },
+    {
+      "id": 21,
+      "niveau": 1,
+      "question": "Quelle est la capitale du Brésil ?",
+      "reponse": "Brasilia",
+      "variantes": [
+        "brasilia",
+        "Brasília"
+      ],
+      "anecdote": "Brasilia a été construite de toutes pièces en seulement 41 mois et inaugurée en 1960. Conçue par l'urbaniste Lúcio Costa et l'architecte Oscar Niemeyer, sa forme rappelle un oiseau ou un avion vue du ciel. Elle est classée au patrimoine mondial de l'UNESCO."
+    },
+    {
+      "id": 22,
+      "niveau": 2,
+      "question": "Quel détroit sépare l'Europe de l'Afrique ?",
+      "reponse": "Détroit de Gibraltar",
+      "variantes": [
+        "Gibraltar",
+        "détroit de gibraltar",
+        "le Gibraltar"
+      ],
+      "anecdote": "Le détroit de Gibraltar, large de 14 km en son point le plus étroit, sépare l'Espagne du Maroc. Il relie l'océan Atlantique à la mer Méditerranée. Les 'colonnes d'Hercule' de la mythologie grecque désignent le rocher de Gibraltar et le mont Abila de l'autre côté."
+    },
+    {
+      "id": 23,
+      "niveau": 2,
+      "question": "Dans quel pays se trouve le Machu Picchu ?",
+      "reponse": "Pérou",
+      "variantes": [
+        "pérou",
+        "le Pérou"
+      ],
+      "anecdote": "Le Machu Picchu est une citadelle inca construite vers 1450 à 2 430 m d'altitude dans les Andes péruviennes. Abandonnée au XVIe siècle lors de la conquête espagnole, elle fut redécouverte en 1911 par l'explorateur américain Hiram Bingham. C'est l'une des 7 nouvelles merveilles du monde."
+    },
+    {
+      "id": 24,
+      "niveau": 2,
+      "question": "Quelle est la capitale de l'Argentine ?",
+      "reponse": "Buenos Aires",
+      "variantes": [
+        "buenos aires",
+        "Buenos-Aires"
+      ],
+      "anecdote": "Buenos Aires est la capitale de l'Argentine et la deuxième plus grande agglomération d'Amérique du Sud. Fondée en 1580 par les Espagnols, son nom signifie 'bons airs' ou 'vents favorables'. C'est le berceau du tango, danse et musique classée au patrimoine immatériel de l'UNESCO."
+    },
+    {
+      "id": 25,
+      "niveau": 4,
+      "question": "Quel est le lac le plus profond du monde ?",
+      "reponse": "Lac Baïkal",
+      "variantes": [
+        "Baïkal",
+        "lac baïkal",
+        "le Baïkal"
+      ],
+      "anecdote": "Le lac Baïkal en Sibérie est le lac le plus profond du monde avec 1 642 m de profondeur maximale. Il contient environ 20% de l'eau douce liquide non gelée de la planète. Vieux de 25 millions d'années, c'est aussi le plus ancien lac du monde."
+    },
+    {
+      "id": 26,
+      "niveau": 2,
+      "question": "Quelle est la capitale de l'Égypte ?",
+      "reponse": "Le Caire",
+      "variantes": [
+        "le caire",
+        "Cairo",
+        "Al-Qahira"
+      ],
+      "anecdote": "Le Caire est la capitale de l'Égypte et la ville la plus peuplée d'Afrique avec plus de 20 millions d'habitants dans son agglomération. Fondée en 969 apr. J.-C., elle est surnommée 'la Mère du Monde'. La ville de Gizeh, qui abrite les pyramides, en est une banlieue."
+    },
+    {
+      "id": 27,
+      "niveau": 2,
+      "question": "Dans quel pays se trouve la plus grande partie de la forêt amazonienne ?",
+      "reponse": "Brésil",
+      "variantes": [
+        "le brésil",
+        "Brésil"
+      ],
+      "anecdote": "Le Brésil abrite environ 60% de la forêt amazonienne, soit 3,3 millions de km² de forêt tropicale. L'Amazonie abrite environ 10% de toutes les espèces connues sur Terre, dont plus de 40 000 espèces de plantes, 1 300 espèces d'oiseaux et 3 000 espèces de poissons."
+    },
+    {
+      "id": 28,
+      "niveau": 2,
+      "question": "Quelle est la capitale de l'Inde ?",
+      "reponse": "New Delhi",
+      "variantes": [
+        "new delhi",
+        "Delhi",
+        "Nouvelle Delhi",
+        "New-Delhi"
+      ],
+      "anecdote": "New Delhi est la capitale de l'Inde depuis 1912, bien que Delhi soit souvent utilisée pour désigner l'ensemble de la région. Mumbai (Bombay) était auparavant la capitale de facto des Indes britanniques. L'Inde est le pays le plus peuplé du monde depuis 2023."
+    },
+    {
+      "id": 29,
+      "niveau": 3,
+      "question": "Quel est le plus grand désert froid du monde ?",
+      "reponse": "Antarctique",
+      "variantes": [
+        "l'Antarctique",
+        "antarctique",
+        "désert antarctique",
+        "le continent antarctique"
+      ],
+      "anecdote": "L'Antarctique est techniquement le plus grand désert du monde avec 14 millions de km², car il reçoit moins de 200 mm de précipitations par an. Le Sahara, bien que souvent cité comme le plus grand désert, est plus petit. L'Antarctique contient 70% des réserves mondiales d'eau douce sous forme de glace."
+    },
+    {
+      "id": 30,
+      "niveau": 2,
+      "question": "Quel est le plus long fleuve du monde ?",
+      "reponse": "Nil",
+      "variantes": [
+        "le Nil",
+        "nil",
+        "fleuve Nil"
+      ],
+      "anecdote": "Le Nil s'étend sur environ 6 650 km, de ses sources en Afrique centrale jusqu'à sa delta en Méditerranée. Il traverse 11 pays et a permis l'essor de la civilisation égyptienne antique. Certaines études récentes suggèrent que l'Amazone pourrait être plus long, mais le Nil reste traditionnellement reconnu comme le plus long."
+    },
+    {
+      "id": 31,
+      "niveau": 2,
+      "question": "Quelle chaîne de montagnes sépare l'Europe de l'Asie ?",
+      "reponse": "Monts Oural",
+      "variantes": [
+        "Oural",
+        "l'Oural",
+        "monts oural",
+        "chaîne de l'Oural"
+      ],
+      "anecdote": "Les monts Oural s'étendent sur 2 500 km du nord au sud, constituant la frontière naturelle conventionnelle entre l'Europe et l'Asie. Leurs sommets dépassent rarement 1 900 m, le point culminant étant le mont Narodnaya (1 895 m). La région est riche en minéraux et en ressources naturelles."
+    },
+    {
+      "id": 32,
+      "niveau": 3,
+      "question": "Quelle est la capitale de la Nouvelle-Zélande ?",
+      "reponse": "Wellington",
+      "variantes": [
+        "wellington"
+      ],
+      "anecdote": "Wellington est la capitale de la Nouvelle-Zélande, et non Auckland qui est pourtant la plus grande ville du pays. Située à la pointe sud de l'île du Nord, Wellington est réputée pour ses vents violents. C'est la capitale la plus méridionale du monde pour un pays non polaire."
+    },
+    {
+      "id": 33,
+      "niveau": 2,
+      "question": "Dans quel pays se trouve le parc national de Yellowstone ?",
+      "reponse": "États-Unis",
+      "variantes": [
+        "états-unis",
+        "USA",
+        "les États-Unis",
+        "Etats-Unis"
+      ],
+      "anecdote": "Yellowstone, créé en 1872, est le premier parc national du monde. Il s'étend principalement dans le Wyoming, avec des portions dans l'Idaho et le Montana. Le parc est assis sur un supervolcan actif et abrite le geyser Old Faithful, qui entre en éruption toutes les 90 minutes environ."
+    },
+    {
+      "id": 34,
+      "niveau": 2,
+      "question": "Quelle est la capitale du Pakistan ?",
+      "reponse": "Islamabad",
+      "variantes": [
+        "islamabad"
+      ],
+      "anecdote": "Islamabad est la capitale du Pakistan depuis 1967, remplaçant Karachi (puis Rawalpindi). Ville planifiée construite de toutes pièces, elle est l'une des villes les mieux planifiées d'Asie. Son nom signifie 'Cité de l'Islam' en ourdou et en persan."
+    },
+    {
+      "id": 35,
+      "niveau": 2,
+      "question": "Quel détroit sépare l'Alaska de la Russie ?",
+      "reponse": "Détroit de Béring",
+      "variantes": [
+        "Béring",
+        "Bering",
+        "détroit de Bering",
+        "détroit de béring"
+      ],
+      "anecdote": "Le détroit de Béring, large de 82 km en son point le plus étroit, sépare l'Alaska (États-Unis) de la Sibérie (Russie). À son niveau le plus étroit, les îles Diomède permettent de passer d'un pays à l'autre en moins de 4 km. Ce passage fut autrefois une route migratoire pour les premiers humains d'Amérique."
+    },
+    {
+      "id": 36,
+      "niveau": 2,
+      "question": "Quelle est la capitale de l'Iran ?",
+      "reponse": "Téhéran",
+      "variantes": [
+        "téhéran",
+        "Tehran",
+        "Teheran"
+      ],
+      "anecdote": "Téhéran est la capitale et la plus grande ville d'Iran avec 15 millions d'habitants dans son agglomération. Elle est devenue la capitale de la Perse en 1796 sous les Qajars. La ville est encerclée par la chaîne de l'Alborz au nord, où se trouve le mont Damavand (5 610 m), le plus haut sommet du Moyen-Orient."
+    },
+    {
+      "id": 37,
+      "niveau": 3,
+      "question": "Quel est le plus grand pays d'Afrique en superficie ?",
+      "reponse": "Algérie",
+      "variantes": [
+        "algérie",
+        "l'Algérie"
+      ],
+      "anecdote": "L'Algérie est le plus grand pays d'Afrique avec 2,38 millions de km². Plus de 80% de son territoire est recouvert par le Sahara. Avant l'indépendance du Soudan du Sud en 2011, le Soudan était le plus grand pays africain."
+    },
+    {
+      "id": 38,
+      "niveau": 2,
+      "question": "Quelle est la capitale de la Corée du Sud ?",
+      "reponse": "Séoul",
+      "variantes": [
+        "séoul",
+        "Seoul"
+      ],
+      "anecdote": "Séoul est la capitale de la Corée du Sud et l'une des plus grandes métropoles du monde avec 25 millions d'habitants dans son aire urbaine. Son nom signifie simplement 'capitale' en coréen. Elle a accueilli les Jeux olympiques en 1988, signalant l'entrée de la Corée du Sud sur la scène internationale."
+    },
+    {
+      "id": 39,
+      "niveau": 4,
+      "question": "Dans quel pays se trouve le lac Titicaca ?",
+      "reponse": "Bolivie et Pérou",
+      "variantes": [
+        "Bolivie",
+        "Pérou",
+        "bolivie et pérou",
+        "pérou et bolivie",
+        "entre la Bolivie et le Pérou"
+      ],
+      "anecdote": "Le lac Titicaca est partagé entre la Bolivie et le Pérou. Situé à 3 812 m d'altitude, c'est le lac navigable le plus haut du monde. Il abrite les îles flottantes des Uros, construites entièrement en roseaux de totora par les habitants indigènes."
+    },
+    {
+      "id": 40,
+      "niveau": 2,
+      "question": "Quel est le pays le plus peuplé du monde ?",
+      "reponse": "Inde",
+      "variantes": [
+        "inde",
+        "l'Inde"
+      ],
+      "anecdote": "L'Inde a dépassé la Chine en 2023 pour devenir le pays le plus peuplé du monde avec plus de 1,4 milliard d'habitants. Elle est la plus grande démocratie du monde. Sa croissance démographique est un enjeu économique et environnemental majeur du XXIe siècle."
+    },
+    {
+      "id": 41,
+      "niveau": 3,
+      "question": "Quelle est la capitale du Kazakhstan ?",
+      "reponse": "Astana",
+      "variantes": [
+        "astana",
+        "Nur-Sultan",
+        "Noursoultan"
+      ],
+      "anecdote": "La capitale du Kazakhstan a changé de nom plusieurs fois : Akmola, puis Astana ('capitale' en kazakh), puis Nur-Sultan en 2019 en hommage à l'ancien président Nazarbaïev, avant de redevenir Astana en 2022. Le Kazakhstan est le plus grand pays enclavé du monde."
+    },
+    {
+      "id": 42,
+      "niveau": 4,
+      "question": "Quel est le point le plus bas de la surface terrestre ?",
+      "reponse": "Mer Morte",
+      "variantes": [
+        "mer morte",
+        "la Mer Morte",
+        "rive de la Mer Morte"
+      ],
+      "anecdote": "La Mer Morte se trouve à 430 m en dessous du niveau de la mer, ce qui en fait le point le plus bas de la surface terrestre. Ses eaux sont 10 fois plus salées que l'océan, rendant la baignade impossible à moins de couler — on flotte naturellement. Elle est bordée par Israël, la Jordanie et la Palestine."
+    },
+    {
+      "id": 43,
+      "niveau": 3,
+      "question": "Dans quel pays se trouve le mont Kilimandjaro ?",
+      "reponse": "Tanzanie",
+      "variantes": [
+        "tanzanie",
+        "la Tanzanie"
+      ],
+      "anecdote": "Le mont Kilimandjaro (5 895 m) est le point culminant de l'Afrique et le plus haut volcan du continent. Ses trois cônes (Kibo, Mawenzi, Shira) sont visibles à des centaines de kilomètres. Malgré sa situation près de l'équateur, son sommet est recouvert de neiges éternelles, mais celles-ci reculent rapidement à cause du réchauffement climatique."
+    },
+    {
+      "id": 44,
+      "niveau": 4,
+      "question": "Quelle est la capitale du Myanmar (Birmanie) ?",
+      "reponse": "Naypyidaw",
+      "variantes": [
+        "naypyidaw",
+        "Nay Pyi Taw",
+        "Naypyitaw"
+      ],
+      "anecdote": "Naypyidaw est devenue la capitale du Myanmar en 2006, remplaçant Rangoun (Yangon). La ville a été construite de toutes pièces par la junte militaire pour des raisons stratégiques. Ses autoroutes à 20 voies sont souvent désertes, et la ville est régulièrement qualifiée de ville fantôme par les visiteurs."
+    },
+    {
+      "id": 45,
+      "niveau": 4,
+      "question": "Quelle est la seule mer sans côtes ?",
+      "reponse": "Mer des Sargasses",
+      "variantes": [
+        "mer des sargasses",
+        "Sargasses"
+      ],
+      "anecdote": "La mer des Sargasses, dans l'Atlantique Nord, est la seule mer délimitée non par des terres mais par des courants océaniques (dont le Gulf Stream). Elle doit son nom aux algues sargasses qui la recouvrent. C'est aussi l'endroit mystérieux du Triangle des Bermudes, bien que cette appellation soit souvent exagérée."
+    },
+    {
+      "id": 46,
+      "niveau": 3,
+      "question": "Dans quel pays se trouve l'île de Bornéo en majorité ?",
+      "reponse": "Indonésie",
+      "variantes": [
+        "indonésie",
+        "l'Indonésie"
+      ],
+      "anecdote": "Bornéo est la troisième plus grande île du monde (743 000 km²). Elle est partagée entre trois pays : l'Indonésie (environ 73%), la Malaisie et Brunei. La partie indonésienne s'appelle Kalimantan. Bornéo est l'un des derniers refuges des orangs-outans, espèce menacée par la déforestation."
+    },
+    {
+      "id": 47,
+      "niveau": 3,
+      "question": "Quel est le fleuve le plus large du monde ?",
+      "reponse": "Amazone",
+      "variantes": [
+        "l'Amazone",
+        "amazone",
+        "fleuve Amazone"
+      ],
+      "anecdote": "L'Amazone est le fleuve le plus large et le plus grand en débit du monde : il déverse à lui seul 20% de toute l'eau douce que les fleuves du monde déversent dans les océans. En période de crue, il peut atteindre 50 km de large. Il prend sa source dans les Andes péruviennes."
+    },
+    {
+      "id": 48,
+      "niveau": 3,
+      "question": "Quelle est la capitale du Népal ?",
+      "reponse": "Katmandou",
+      "variantes": [
+        "katmandou",
+        "Kathmandu",
+        "Kathmandou"
+      ],
+      "anecdote": "Katmandou est la capitale et la plus grande ville du Népal, située dans une vallée à 1 400 m d'altitude dans les contreforts de l'Himalaya. Elle est le point de départ de la plupart des expéditions himalayennes. La vallée de Katmandou abrite sept sites classés au patrimoine mondial de l'UNESCO."
+    },
+    {
+      "id": 49,
+      "niveau": 4,
+      "question": "Quelle est la mer intérieure la plus grande du monde ?",
+      "reponse": "Mer Caspienne",
+      "variantes": [
+        "mer caspienne",
+        "Caspienne",
+        "la Caspienne"
+      ],
+      "anecdote": "La mer Caspienne couvre environ 371 000 km² et est bordée par la Russie, le Kazakhstan, le Turkménistan, l'Iran et l'Azerbaïdjan. Malgré son nom de 'mer', c'est en réalité un lac — le plus grand du monde. Elle est riche en pétrole et en caviar d'esturgeon."
+    },
+    {
+      "id": 50,
+      "niveau": 4,
+      "question": "Dans quel pays se trouve le lac Assal, le point le plus bas d'Afrique ?",
+      "reponse": "Djibouti",
+      "variantes": [
+        "djibouti",
+        "Djibouti"
+      ],
+      "anecdote": "Le lac Assal, à Djibouti, est situé à 155 m sous le niveau de la mer, ce qui en fait le point le plus bas d'Afrique et le troisième point le plus bas du monde. Ses eaux sont 10 fois plus salées que l'océan. Le lac est situé dans la dépression de l'Afar, une zone de divergence tectonique."
+    },
+    {
+      "id": 51,
+      "niveau": 5,
+      "question": "Quel isthme relie l'Amérique du Nord à l'Amérique du Sud ?",
+      "reponse": "Isthme de Panama",
+      "variantes": [
+        "Panama",
+        "isthme de panama",
+        "l'isthme de Panama"
+      ],
+      "anecdote": "L'isthme de Panama est une bande de terre large de 80 km qui relie les deux Amériques. Il s'est formé il y a environ 3 millions d'années, séparant l'océan Atlantique du Pacifique. Le canal de Panama, creusé au début du XXe siècle, a révolutionné le commerce maritime mondial."
+    },
+    {
+      "id": 52,
+      "niveau": 4,
+      "question": "Quelle est la capitale du Bhoutan ?",
+      "reponse": "Thimphou",
+      "variantes": [
+        "thimphou",
+        "Thimphu",
+        "Thimbu"
+      ],
+      "anecdote": "Thimphou est la capitale du Bhoutan, un petit royaume de l'Himalaya coincé entre l'Inde et la Chine. Le Bhoutan est célèbre pour son concept de 'Bonheur National Brut' qui prime sur le PIB. C'est l'un des derniers pays à avoir introduit la télévision (1999) et internet (1999)."
+    },
+    {
+      "id": 53,
+      "niveau": 3,
+      "question": "Quel pays possède le plus grand nombre de fuseaux horaires au monde ?",
+      "reponse": "France",
+      "variantes": [
+        "france",
+        "la France"
+      ],
+      "anecdote": "La France possède 12 fuseaux horaires différents grâce à ses territoires d'outre-mer répartis sur toute la planète : Polynésie française, Nouvelle-Calédonie, Martinique, Guadeloupe, Guyane, Réunion, etc. Cela dépasse même les États-Unis (11 fuseaux) et la Russie (11 fuseaux)."
+    },
+    {
+      "id": 54,
+      "niveau": 4,
+      "question": "Dans quel pays se trouve l'embouchure du fleuve Mékong ?",
+      "reponse": "Vietnam",
+      "variantes": [
+        "vietnam",
+        "Viêt Nam",
+        "Viet Nam"
+      ],
+      "anecdote": "Le Mékong, long de 4 900 km, prend sa source au Tibet et traverse la Chine, le Myanmar, la Thaïlande, le Laos, le Cambodge avant de se jeter dans la mer de Chine méridionale au Vietnam par un vaste delta. Le delta du Mékong est l'un des greniers à riz de l'Asie du Sud-Est."
+    },
+    {
+      "id": 55,
+      "niveau": 4,
+      "question": "Quelle est la capitale du Suriname ?",
+      "reponse": "Paramaribo",
+      "variantes": [
+        "paramaribo"
+      ],
+      "anecdote": "Paramaribo est la capitale du Suriname, ancienne Guyane hollandaise, sur la côte nord de l'Amérique du Sud. Le centre historique de la ville est classé au patrimoine mondial de l'UNESCO pour son architecture coloniale néerlandaise unique dans un contexte tropical."
+    },
+    {
+      "id": 56,
+      "niveau": 4,
+      "question": "Quel est le point culminant de l'Antarctique ?",
+      "reponse": "Mont Vinson",
+      "variantes": [
+        "mont vinson",
+        "Vinson Massif",
+        "massif Vinson"
+      ],
+      "anecdote": "Le mont Vinson culmine à 4 892 m dans les monts Ellsworth en Antarctique. Il n'a été découvert qu'en 1958 et gravi pour la première fois en 1966. Il fait partie des Seven Summits, les plus hauts sommets de chaque continent, que les alpinistes cherchent à gravir."
+    },
+    {
+      "id": 57,
+      "niveau": 4,
+      "question": "Dans quel pays se trouve le delta de l'Okavango ?",
+      "reponse": "Botswana",
+      "variantes": [
+        "botswana",
+        "le Botswana"
+      ],
+      "anecdote": "Le delta de l'Okavango au Botswana est l'un des phénomènes naturels les plus extraordinaires : un immense delta intérieur qui se forme chaque année dans le désert du Kalahari. Classé au patrimoine mondial de l'UNESCO, il constitue un refuge unique pour la faune africaine, dont les éléphants, lions, léopards et hippopotames."
+    },
+    {
+      "id": 58,
+      "niveau": 4,
+      "question": "Quel détroit sépare la Sicile de la Tunisie ?",
+      "reponse": "Détroit de Sicile",
+      "variantes": [
+        "détroit de sicile",
+        "canal de Sicile",
+        "canal sicilien"
+      ],
+      "anecdote": "Le détroit de Sicile, large d'environ 145 km, est l'un des passages maritimes les plus stratégiques de la Méditerranée. Il sépare la mer Méditerranée occidentale de la Méditerranée orientale. Ce couloir est aujourd'hui tristement connu comme route migratoire depuis l'Afrique vers l'Europe."
+    },
+    {
+      "id": 59,
+      "niveau": 4,
+      "question": "Quelle est la capitale de l'Érythrée ?",
+      "reponse": "Asmara",
+      "variantes": [
+        "asmara",
+        "Asmera"
+      ],
+      "anecdote": "Asmara est la capitale de l'Érythrée, pays d'Afrique de l'Est qui a obtenu son indépendance de l'Éthiopie en 1993. La ville est remarquable pour son architecture moderniste italienne des années 1930, qui lui a valu d'être inscrite au patrimoine mondial de l'UNESCO en 2017."
+    },
+    {
+      "id": 60,
+      "niveau": 4,
+      "question": "Dans quel pays se trouve le lac Natron, célèbre pour son eau ultra-alcaline ?",
+      "reponse": "Tanzanie",
+      "variantes": [
+        "tanzanie",
+        "la Tanzanie"
+      ],
+      "anecdote": "Le lac Natron en Tanzanie est l'un des environnements les plus hostiles de la planète : son pH peut atteindre 10,5, presque autant que l'ammoniaque. La soude (natron) qui le compose calcifie les animaux qui s'y noient. Paradoxalement, c'est un lieu de reproduction privilégié des flamants roses, qui y sont protégés par cet environnement extrême."
+    },
+    {
+      "id": 61,
+      "niveau": 4,
+      "question": "Quel est le nom du courant océanique chaud qui réchauffe l'Europe occidentale ?",
+      "reponse": "Gulf Stream",
+      "variantes": [
+        "gulf stream",
+        "courant du Golfe",
+        "dérive nord-atlantique"
+      ],
+      "anecdote": "Le Gulf Stream est un courant océanique chaud qui prend naissance dans le golfe du Mexique et traverse l'Atlantique Nord vers l'Europe. Sans lui, l'Europe de l'Ouest serait aussi froide que le Canada ou la Sibérie à même latitude. Il transporte 30 millions de m³ d'eau par seconde, soit 150 fois le débit de toutes les rivières du monde réunies."
+    },
+    {
+      "id": 62,
+      "niveau": 4,
+      "question": "Quelle est la capitale des Maldives ?",
+      "reponse": "Malé",
+      "variantes": [
+        "malé",
+        "male",
+        "Male"
+      ],
+      "anecdote": "Malé est l'une des capitales les plus densément peuplées du monde, avec 200 000 habitants sur une île de seulement 5,8 km². Les Maldives, archipel de 1 200 îles dans l'océan Indien, sont menacées par la montée des eaux : leur point le plus haut est à seulement 2,4 m au-dessus du niveau de la mer."
+    },
+    {
+      "id": 63,
+      "niveau": 4,
+      "question": "Dans quel pays se trouve le volcan Merapi, l'un des plus actifs au monde ?",
+      "reponse": "Indonésie",
+      "variantes": [
+        "indonésie",
+        "l'Indonésie"
+      ],
+      "anecdote": "Le Merapi (2 930 m) est situé à Java, en Indonésie, près de la ville de Yogyakarta. C'est l'un des volcans les plus actifs et les plus dangereux du monde — il entre en éruption presque continuellement. La dernière grande éruption en 2010 a tué plus de 350 personnes et déplacé 350 000 habitants."
+    },
+    {
+      "id": 64,
+      "niveau": 4,
+      "question": "Quel est le seul pays entièrement entouré par un seul autre pays (hors Vatican et Saint-Marin) ?",
+      "reponse": "Lesotho",
+      "variantes": [
+        "lesotho",
+        "le Lesotho"
+      ],
+      "anecdote": "Le Lesotho est un pays enclavé entièrement entouré par l'Afrique du Sud. Ancien protectorat britannique (Basutoland), il a obtenu son indépendance en 1966. Perché à plus de 1 400 m d'altitude, c'est le seul pays au monde dont le territoire entier se situe au-dessus de 1 000 m."
+    },
+    {
+      "id": 65,
+      "niveau": 4,
+      "question": "Quelle est la capitale de São Tomé-et-Príncipe ?",
+      "reponse": "São Tomé",
+      "variantes": [
+        "sao tomé",
+        "sao tome",
+        "São Tomé"
+      ],
+      "anecdote": "São Tomé est la capitale de São Tomé-et-Príncipe, petit État insulaire du golfe de Guinée. C'est l'un des pays les plus proches de l'équateur et du méridien de Greenwich — il a longtemps été considéré comme le centre géographique du monde. L'archipel est l'un des pays producteurs de cacao de haute qualité."
+    },
+    {
+      "id": 66,
+      "niveau": 4,
+      "question": "Quel fleuve forme la frontière naturelle entre la Zambie et le Zimbabwe ?",
+      "reponse": "Zambèze",
+      "variantes": [
+        "zambèze",
+        "zambeze",
+        "le Zambèze",
+        "Zambezi"
+      ],
+      "anecdote": "Le Zambèze (2 574 km) est le quatrième plus long fleuve d'Afrique. À la frontière entre la Zambie et le Zimbabwe se trouvent les chutes Victoria, l'une des plus grandes cascades du monde (1 708 m de large, 108 m de haut). Le grondement des chutes, surnommées 'fumée qui tonne' par les locaux, s'entend à 40 km de distance."
+    },
+    {
+      "id": 67,
+      "niveau": 4,
+      "question": "Dans quel pays se trouve la dépression de l'Afar, jonction de trois plaques tectoniques ?",
+      "reponse": "Éthiopie",
+      "variantes": [
+        "éthiopie",
+        "l'Éthiopie",
+        "Ethiopie"
+      ],
+      "anecdote": "La dépression de l'Afar en Éthiopie est le seul endroit où une dorsale océanique en formation est visible à la surface terrestre. La jonction des plaques africaine, arabique et somalienne y crée une zone qui pourrait, dans des millions d'années, donner naissance à un nouvel océan, divisant l'Afrique."
+    },
+    {
+      "id": 68,
+      "niveau": 4,
+      "question": "Quelle est la capitale de Palau (Palaos) ?",
+      "reponse": "Ngerulmud",
+      "variantes": [
+        "ngerulmud"
+      ],
+      "anecdote": "Ngerulmud est la capitale de Palau (ou Palaos), petit État insulaire du Pacifique. Inaugurée en 2006, c'est l'une des capitales les moins peuplées du monde avec environ 400 habitants. Palau est réputée pour ses lagons et ses récifs coralliens parmi les plus préservés du Pacifique."
+    },
+    {
+      "id": 69,
+      "niveau": 4,
+      "question": "Dans quel pays se trouve la dépression de Qattara, la deuxième plus basse d'Afrique ?",
+      "reponse": "Égypte",
+      "variantes": [
+        "égypte",
+        "l'Égypte",
+        "Egypte"
+      ],
+      "anecdote": "La dépression de Qattara dans le désert libyque en Égypte s'étend sur 18 000 km² et descend jusqu'à 133 m sous le niveau de la mer. Inaccessible en voiture, elle a servi de protection naturelle lors de la Seconde Guerre mondiale pour le flanc sud de la bataille d'El-Alamein."
+    },
+    {
+      "id": 70,
+      "niveau": 4,
+      "question": "Quel est le nom du courant froid qui longe la côte ouest de l'Amérique du Sud ?",
+      "reponse": "Courant de Humboldt",
+      "variantes": [
+        "Humboldt",
+        "courant de humboldt",
+        "courant du Pérou",
+        "courant de Peru"
+      ],
+      "anecdote": "Le courant de Humboldt (aussi appelé courant du Pérou) remonte les eaux froides de l'Antarctique le long des côtes chiliennes et péruviennes. Il est responsable de la richesse exceptionnelle des eaux côtières (l'une des zones de pêche les plus productives du monde) et de la sécheresse du désert d'Atacama. Le phénomène El Niño perturbe ce courant."
+    },
+    {
+      "id": 71,
+      "niveau": 4,
+      "question": "Quel est le nom du phénomène de réchauffement anormal des eaux du Pacifique qui perturbe les climatologies mondiales ?",
+      "reponse": "El Niño",
+      "variantes": [
+        "el nino",
+        "El Nino",
+        "el niño",
+        "ENSO"
+      ],
+      "anecdote": "El Niño (L'Enfant en espagnol) est un phénomène climatique périodique caractérisé par un réchauffement anormal des eaux superficielles du Pacifique équatorial. Il provoque sécheresses, inondations et tempêtes à l'échelle mondiale. Son opposé, La Niña, cause un refroidissement anormal. Ensemble, ils forment l'ENSO (El Niño-Southern Oscillation)."
+    },
+    {
+      "id": 72,
+      "niveau": 5,
+      "question": "À quelle latitude se trouve le tropique du Cancer ?",
+      "reponse": "23°26' Nord",
+      "variantes": [
+        "23,5° Nord",
+        "23 degrés nord",
+        "23°26 nord",
+        "23,44° nord"
+      ],
+      "anecdote": "Le tropique du Cancer est le parallèle le plus au nord où le Soleil peut être vu exactement à la verticale (zénith). Il doit son nom au signe du Cancer, constellation dans laquelle le Soleil se trouvait lors du solstice d'été dans l'Antiquité. En raison de la précession des équinoxes, le Soleil est maintenant dans le Taureau lors de ce solstice."
+    },
+    {
+      "id": 73,
+      "niveau": 4,
+      "question": "Quelle est la capitale du Timor-Leste (Timor oriental) ?",
+      "reponse": "Dili",
+      "variantes": [
+        "dili"
+      ],
+      "anecdote": "Dili est la capitale du Timor-Leste, l'un des pays les plus jeunes du monde (indépendant en 2002). Ancienne colonie portugaise puis territoire occupé par l'Indonésie (1975-2002), le Timor-Leste a connu une lutte pour l'indépendance qui a fait 100 000 à 180 000 morts. Le pays est l'un des plus pauvres d'Asie."
+    },
+    {
+      "id": 74,
+      "niveau": 4,
+      "question": "Quel archipel volcanique situé dans l'Atlantique Nord appartient au Portugal ?",
+      "reponse": "Açores",
+      "variantes": [
+        "açores",
+        "les Açores",
+        "Açores"
+      ],
+      "anecdote": "Les Açores sont un archipel de 9 îles volcaniques situé à 1 500 km à l'ouest du Portugal, au milieu de l'Atlantique Nord. Situées sur la dorsale médio-atlantique, elles sont géologiquement très actives. Les îles ont joué un rôle crucial comme escale maritime aux XVe et XVIe siècles lors des grandes explorations portugaises."
+    },
+    {
+      "id": 75,
+      "niveau": 4,
+      "question": "Dans quel pays se trouve le mont Elbrus, considéré par certains géographes comme le point culminant de l'Europe ?",
+      "reponse": "Russie",
+      "variantes": [
+        "russie",
+        "la Russie",
+        "Fédération de Russie"
+      ],
+      "anecdote": "Le mont Elbrus (5 642 m) dans le Caucase russe est le plus haut sommet de Russie et, selon la définition 'eurasiatique' de l'Europe (qui place la frontière au Caucase plutôt qu'aux Oural), le point culminant de l'Europe. L'autre candidat est le mont Blanc (4 808 m) aux Alpes franco-italiennes. Le débat reste ouvert parmi les géographes."
+    },
+    {
+      "id": 76,
+      "niveau": 4,
+      "question": "Quel est le nom du passage maritime arctique revendiqué comme eaux intérieures par le Canada ?",
+      "reponse": "Passage du Nord-Ouest",
+      "variantes": [
+        "passage du nord-ouest",
+        "passage du nord ouest",
+        "Northwest Passage"
+      ],
+      "anecdote": "Le Passage du Nord-Ouest relie l'Atlantique au Pacifique à travers l'archipel arctique canadien. Recherché pendant des siècles par les explorateurs européens, il a été navigué pour la première fois en 1906 par Roald Amundsen. Le Canada le considère comme ses eaux intérieures, ce que contestent les États-Unis. Le réchauffement climatique l'ouvre de plus en plus aux navires."
+    },
+    {
+      "id": 77,
+      "niveau": 3,
+      "question": "Dans quel pays se trouve la ville de Tombouctou (Tombouctou) ?",
+      "reponse": "Mali",
+      "variantes": [
+        "mali",
+        "le Mali"
+      ],
+      "anecdote": "Tombouctou (Timbuktu en anglais) est une ville du Mali au bord du désert du Sahara. Au Moyen Âge, c'était un centre commercial, intellectuel et islamique d'une importance capitale. L'expression 'Tombouctou' est devenue synonyme de lieu extrêmement lointain dans de nombreuses langues européennes."
+    },
+    {
+      "id": 78,
+      "niveau": 4,
+      "question": "Quelle est la capitale des Îles Marshall ?",
+      "reponse": "Majuro",
+      "variantes": [
+        "majuro"
+      ],
+      "anecdote": "Majuro est la capitale des Îles Marshall, État insulaire du Pacifique. Les Îles Marshall sont parmi les territoires les plus menacés par la montée des eaux : la plupart des atolls ne dépassent pas 2 m au-dessus du niveau de la mer. Lors des essais nucléaires américains (1946-1958), l'atoll de Bikini fut le site de 23 détonations, dont 'Castle Bravo', la plus puissante bombe américaine jamais testée."
+    },
+    {
+      "id": 79,
+      "niveau": 3,
+      "question": "Dans quel pays se trouve la chaîne du Karakoram, qui abrite K2, le deuxième plus haut sommet du monde ?",
+      "reponse": "Pakistan",
+      "variantes": [
+        "pakistan",
+        "le Pakistan"
+      ],
+      "anecdote": "Le Karakoram est une chaîne montagneuse à la frontière du Pakistan, de l'Inde et de la Chine. Il abrite K2 (8 611 m), considéré comme la montagne la plus difficile à gravir — son taux de mortalité par ascension dépasse celui de l'Everest. La région abrite aussi le glacier Baltoro, l'un des plus longs glaciers hors polaires du monde."
+    },
+    {
+      "id": 80,
+      "niveau": 4,
+      "question": "Quelle est la superficie approximative de l'Antarctique ?",
+      "reponse": "14 millions de km²",
+      "variantes": [
+        "14 000 000 km²",
+        "14 millions",
+        "environ 14 millions de km²"
+      ],
+      "anecdote": "L'Antarctique couvre environ 14 millions de km², soit plus d'une fois et demie la superficie de l'Australie. La glace qui le recouvre atteint en moyenne 2 300 m d'épaisseur. Si cette glace fondait entièrement, le niveau des mers monterait de 60 mètres dans le monde entier."
+    },
+    {
+      "id": 81,
+      "niveau": 4,
+      "question": "Quel est le nom du détroit qui sépare l'île du Nord et l'île du Sud de la Nouvelle-Zélande ?",
+      "reponse": "Détroit de Cook",
+      "variantes": [
+        "Cook",
+        "détroit de cook",
+        "le détroit de Cook"
+      ],
+      "anecdote": "Le détroit de Cook, large d'environ 22 km en son point le plus étroit, sépare les deux îles principales de la Nouvelle-Zélande. Il porte le nom du capitaine James Cook qui l'a traversé en 1770. C'est l'un des détroits les plus agités du monde en raison des vents violents et des courants forts."
+    },
+    {
+      "id": 82,
+      "niveau": 4,
+      "question": "Quelle mer porte le nom d'un explorateur néerlandais et borde les côtes de la Norvège et de la Russie dans l'Arctique ?",
+      "reponse": "Mer de Barents",
+      "variantes": [
+        "mer de barents",
+        "Barents",
+        "la mer de Barents"
+      ],
+      "anecdote": "La mer de Barents porte le nom de Willem Barents, explorateur néerlandais qui y navigua lors de ses expéditions de 1594 à 1597 à la recherche d'un passage du Nord-Est vers l'Asie. La mer de Barents est l'une des zones de pêche les plus productives du monde et un enjeu géopolitique majeur entre la Russie et la Norvège."
+    },
+    {
+      "id": 83,
+      "niveau": 5,
+      "question": "Dans quel pays se trouve l'île de Bioko, anciennement Fernando Poo ?",
+      "reponse": "Guinée équatoriale",
+      "variantes": [
+        "guinée équatoriale",
+        "Guinée Équatoriale",
+        "Guinee equatoriale"
+      ],
+      "anecdote": "L'île de Bioko appartient à la Guinée équatoriale et abrite la capitale du pays, Malabo. C'est le seul pays d'Afrique subsaharienne où l'espagnol est langue officielle. La découverte de pétrole offshore dans les années 1990 a transformé ce petit pays en l'un des plus riches par habitant d'Afrique."
+    },
+    {
+      "id": 84,
+      "niveau": 5,
+      "question": "Quelle est la capitale des États fédérés de Micronésie ?",
+      "reponse": "Palikir",
+      "variantes": [
+        "palikir"
+      ],
+      "anecdote": "Palikir est la capitale des États fédérés de Micronésie, un État insulaire du Pacifique comprenant 607 îles. Paradoxalement, Palikir est l'une des capitales les moins peuplées du monde. Les États fédérés de Micronésie sont en 'association libre' avec les États-Unis, qui assurent leur défense."
+    },
+    {
+      "id": 85,
+      "niveau": 5,
+      "question": "Dans quel pays se trouve le volcan Nyiragongo, connu pour son lac de lave permanent ?",
+      "reponse": "République démocratique du Congo",
+      "variantes": [
+        "RDC",
+        "Congo",
+        "rdc",
+        "R.D.C.",
+        "Congo-Kinshasa"
+      ],
+      "anecdote": "Le Nyiragongo (3 470 m) en RDC abrite l'un des rares lacs de lave permanents du monde. Il est considéré comme l'un des volcans les plus dangereux du monde : ses coulées de lave, très fluides, peuvent atteindre 100 km/h. En 2002, une éruption a détruit 40% de la ville voisine de Goma, tuant 147 personnes."
+    },
+    {
+      "id": 86,
+      "niveau": 5,
+      "question": "Comment s'appelle l'effet météorologique qui réchauffe et assèche les versants sous le vent d'une montagne ?",
+      "reponse": "Effet de foehn",
+      "variantes": [
+        "foehn",
+        "föhn",
+        "effet foehn"
+      ],
+      "anecdote": "L'effet de foehn se produit quand une masse d'air humide franchit une chaîne de montagnes. En montant (versant au vent), l'air se refroidit et perd son humidité par précipitations. En descendant (versant sous le vent), il se réchauffe sans regagner d'humidité, créant un vent chaud et sec. Ce phénomène est fréquent dans les Alpes, les Rocheuses et l'Himalaya."
+    },
+    {
+      "id": 87,
+      "niveau": 5,
+      "question": "Quelle est la superficie de la mer Caspienne en km² ?",
+      "reponse": "371 000 km²",
+      "variantes": [
+        "370 000 km²",
+        "371 000",
+        "environ 371 000 km²",
+        "371000"
+      ],
+      "anecdote": "La mer Caspienne, avec ses 371 000 km², est le plus grand lac du monde par la superficie. Son niveau fluctue naturellement et a baissé d'environ 3 m depuis les années 1990, principalement à cause du réchauffement climatique et des détournements d'eau. Elle abrite l'esturgeon Beluga, dont les œufs constituent le caviar le plus cher du monde."
+    },
+    {
+      "id": 88,
+      "niveau": 5,
+      "question": "Quel est le nom de la dorsale qui s'étend sur toute la longueur de l'Atlantique du Nord au Sud ?",
+      "reponse": "Dorsale médio-atlantique",
+      "variantes": [
+        "dorsale médio-atlantique",
+        "dorsale médioatlantique",
+        "Mid-Atlantic Ridge"
+      ],
+      "anecdote": "La dorsale médio-atlantique est une chaîne de montagnes sous-marine de 16 000 km qui divise l'Atlantique en deux. Elle marque la frontière divergente entre les plaques nord-américaine et eurasiatique à l'est et sud-américaine et africaine à l'ouest. En Islande, cette dorsale est visible à la surface, ce qui est unique au monde."
+    },
+    {
+      "id": 89,
+      "niveau": 4,
+      "question": "Quel est le nom du processus par lequel une plaque tectonique s'enfonce sous une autre ?",
+      "reponse": "Subduction",
+      "variantes": [
+        "la subduction",
+        "zone de subduction"
+      ],
+      "anecdote": "La subduction se produit aux limites convergentes entre plaques tectoniques : la plaque plus dense (généralement océanique) plonge sous la plus légère (continentale ou océanique). Ce processus crée des fosses océaniques (comme la fosse des Mariannes), des chaînes de montagnes et des volcans. Les séismes les plus puissants se produisent dans ces zones."
+    },
+    {
+      "id": 90,
+      "niveau": 4,
+      "question": "Dans quel pays se trouve la faille de San Andreas ?",
+      "reponse": "États-Unis",
+      "variantes": [
+        "états-unis",
+        "USA",
+        "Etats-Unis",
+        "Californie"
+      ],
+      "anecdote": "La faille de San Andreas est une frontière transformante entre les plaques tectoniques Pacifique et nord-américaine, s'étendant sur 1 300 km en Californie. Elle est responsable de la sismicité intense de la région. Los Angeles et San Francisco sont toutes deux construites sur ou près de cette faille, et un grand séisme (The Big One) est attendu."
+    },
+    {
+      "id": 91,
+      "niveau": 5,
+      "question": "Quelle est la profondeur maximale de la fosse des Mariannes ?",
+      "reponse": "11 034 mètres",
+      "variantes": [
+        "11 000 mètres",
+        "environ 11 000 m",
+        "11034 m",
+        "11 034 m",
+        "Challenger Deep"
+      ],
+      "anecdote": "La fosse des Mariannes dans l'océan Pacifique est le point le plus profond des océans terrestres. Le Challenger Deep, sa partie la plus profonde, a été mesuré à 10 924-11 034 m selon les expéditions. Si l'Everest y était placé, son sommet serait encore à plus de 2 km sous l'eau."
+    },
+    {
+      "id": 92,
+      "niveau": 5,
+      "question": "Quel est le nom de la fissure tectonique en cours de formation qui pourrait diviser l'Afrique en deux dans des millions d'années ?",
+      "reponse": "Rift Est-Africain",
+      "variantes": [
+        "Grand Rift africain",
+        "rift est-africain",
+        "East African Rift",
+        "rift de l'Afrique de l'Est"
+      ],
+      "anecdote": "Le Rift Est-Africain est une zone de divergence tectonique qui s'étend de la mer Rouge à travers l'Éthiopie, le Kenya, la Tanzanie jusqu'au Mozambique. Dans 5 à 10 millions d'années, la corne de l'Afrique se séparera du reste du continent. C'est également le berceau de l'humanité : de nombreux fossiles d'hominidés y ont été découverts."
+    },
+    {
+      "id": 93,
+      "niveau": 5,
+      "question": "Comment s'appelle la nappe phréatique fossile la plus grande du monde, sous le Sahara ?",
+      "reponse": "Système Aquifère du Sahara Septentrional",
+      "variantes": [
+        "SASS",
+        "nappe du Continental Intercalaire",
+        "aquifère du Sahara",
+        "Continental Intercalaire"
+      ],
+      "anecdote": "Le Système Aquifère du Sahara Septentrional (SASS) s'étend sous l'Algérie, la Tunisie et la Libye sur 1 million de km². Il contient des eaux qui se sont infiltrées il y a 10 000 à 30 000 ans, quand le Sahara était vert. Ces eaux 'fossiles' sont non renouvelables et leur exploitation intensive menace leur épuisement irréversible."
+    },
+    {
+      "id": 94,
+      "niveau": 4,
+      "question": "Quelle est la hauteur en m (pas besoin de préciser l'unité) officielle du mont Everest mesurée en 2020 par la Chine et le Népal ?",
+      "reponse": "8 848,86 mètres",
+      "variantes": [
+        "8849",
+        "8848,86",
+        "8 848,86",
+        "8 849",
+        "8800"
+      ],
+      "anecdote": "En décembre 2020, la Chine et le Népal ont conjointement annoncé la nouvelle hauteur officielle de l'Everest : 8 848,86 m. Cette mesure, plus précise grâce aux technologies GPS modernes, est légèrement supérieure à l'ancienne mesure de 8 848 m établie en 1954 par l'Inde. La mesure inclut la couche de neige et de glace au sommet."
+    },
+    {
+      "id": 95,
+      "niveau": 5,
+      "question": "Quel est le nom du processus par lequel des panaches de matière mantellique remontent à travers la lithosphère en dehors des dorsales, créant des îles volcaniques ?",
+      "reponse": "Point chaud",
+      "variantes": [
+        "hot spot",
+        "hotspot",
+        "panache mantellique"
+      ],
+      "anecdote": "Les points chauds sont des zones où la matière mantellique très chaude perfore la lithosphère, créant un volcanisme intense. L'archipel hawaïen s'est formé ainsi : la plaque Pacifique glisse sur un point chaud fixe, créant une chaîne d'îles. Yellowstone est un autre point chaud célèbre. On en compte environ 40-50 à la surface du globe."
+    },
+    {
+      "id": 96,
+      "niveau": 5,
+      "question": "Quel est le nom de la mer qui a perdu environ 90% de sa superficie depuis les années 1960 à cause de l'irrigation agricole soviétique ?",
+      "reponse": "Mer d'Aral",
+      "variantes": [
+        "mer d'aral",
+        "mer d'Aral",
+        "lac d'Aral",
+        "Aral"
+      ],
+      "anecdote": "La mer d'Aral en Asie centrale était autrefois le quatrième plus grand lac du monde. La diversion de ses affluents (Amou-Daria et Syr-Daria) pour irriguer les champs de coton soviétiques l'a réduite à 10% de sa superficie d'origine. Elle constitue l'une des pires catastrophes environnementales causées par l'homme. Des bateaux rouillés gisent maintenant dans le désert."
+    },
+    {
+      "id": 97,
+      "niveau": 5,
+      "question": "Quelle est la capitale des Îles Salomon ?",
+      "reponse": "Honiara",
+      "variantes": [
+        "honiara"
+      ],
+      "anecdote": "Honiara est la capitale des Îles Salomon, État insulaire de Mélanésie dans le Pacifique. L'archipel a été le théâtre de batailles décisives lors de la Seconde Guerre mondiale, notamment la campagne de Guadalcanal (1942-1943) entre les États-Unis et le Japon. Les îles restent parmi les moins développées du Pacifique."
+    },
+    {
+      "id": 98,
+      "niveau": 5,
+      "question": "Comment s'appelle le phénomène géomorphologique qui produit des grottes sous-marines dans les Bahamas, dont le Dean's Blue Hole est le plus profond ?",
+      "reponse": "Trou bleu",
+      "variantes": [
+        "blue hole",
+        "trou bleu",
+        "aven sous-marin"
+      ],
+      "anecdote": "Les trous bleus sont d'anciens gouffres karstiques formés lors des ères glaciaires, quand le niveau de la mer était plus bas. Le Dean's Blue Hole aux Bahamas est le trou bleu le plus profond connu (202 m). Ces cavités sous-marines sont des environnements presque privés d'oxygène et peuvent avoir fossilisé des dépôts biologiques remontant à des millénaires."
+    },
+    {
+      "id": 99,
+      "niveau": 5,
+      "question": "Quel est le nom de la rétroflexion océanique qui se produit au sud de l'Afrique du Sud, quand le courant des Aiguilles rebousse vers l'est ?",
+      "reponse": "Rétroflexion du courant des Aiguilles",
+      "variantes": [
+        "rétroflexion des Aiguilles",
+        "Agulhas Retroflection",
+        "rétroflexion agulhas"
+      ],
+      "anecdote": "Le courant des Aiguilles (Agulhas), l'un des plus forts du monde, longe la côte est de l'Afrique du Sud. À l'extrémité sud du continent, il rencontre les eaux froides de l'Atlantique Sud et rebousse vers l'est — c'est la rétroflexion. Ce phénomène génère des tourbillons (Agulhas rings) qui transfèrent des eaux chaudes et salées vers l'Atlantique, influençant la circulation océanique mondiale."
+    },
+    {
+      "id": 100,
+      "niveau": 4,
+      "question": "Quel est le nom de l'unique continent qui n'a aucun pays souverain et qui est régi par un traité international interdisant toute activité militaire et minière ?",
+      "reponse": "Antarctique",
+      "variantes": [
+        "l'Antarctique",
+        "antarctique",
+        "continent antarctique"
+      ],
+      "anecdote": "Le Traité sur l'Antarctique, signé en 1959 et entré en vigueur en 1961, fait de l'Antarctique une réserve naturelle dédiée à la paix et à la science. 54 pays y ont adhéré. Aucun pays ne peut revendiquer souverainement une partie de l'Antarctique. Cependant, 7 pays (Argentine, Australie, Chili, France, Nouvelle-Zélande, Norvège, Royaume-Uni) maintiennent des revendications territoriales 'gelées' par le traité."
+    }
+  ]
+}

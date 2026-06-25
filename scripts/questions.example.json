@@ -1,0 +1,16 @@
+[
+  {
+    "question": "Quelle est la capitale de l'Australie ?",
+    "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+    "correctIndex": 2,
+    "difficulty": 1000,
+    "category": "Géographie"
+  },
+  {
+    "question": "Qui a composé la 5ème Symphonie ?",
+    "options": ["Mozart", "Bach", "Beethoven", "Chopin"],
+    "correctIndex": 2,
+    "difficulty": 900,
+    "category": "Musique"
+  }
+]

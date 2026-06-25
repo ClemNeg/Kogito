@@ -1,0 +1,1125 @@
+{
+  "theme": "littérature",
+  "questions": [
+    {
+      "id": 1,
+      "niveau": 1,
+      "question": "Qui a écrit 'Les Misérables' ?",
+      "reponse": "Victor Hugo",
+      "variantes": [
+        "Victor Hugo",
+        "victor hugo"
+      ],
+      "anecdote": "Victor Hugo publia 'Les Misérables' en 1862, à l'âge de 60 ans. Ce roman de 1500 pages suit Jean Valjean, ancien forçat, et constitue une fresque sociale de la France du XIXe siècle. Hugo écrivit l'échange commercial le plus court de l'histoire : pour savoir comment le livre se vendait, il envoya '?' à son éditeur, qui répondit '!'."
+    },
+    {
+      "id": 2,
+      "niveau": 1,
+      "question": "Dans quel livre de Lewis Carroll Alice tombe-t-elle dans un terrier de lapin ?",
+      "reponse": "Alice au pays des merveilles",
+      "variantes": [
+        "Alice's Adventures in Wonderland",
+        "alice au pays des merveilles"
+      ],
+      "anecdote": "Lewis Carroll (pseudonyme de Charles Dodgson, 1832-1898) publia 'Alice au pays des merveilles' en 1865. L'histoire fut d'abord inventée lors d'une balade en bateau pour amuser Alice Liddell, la fille réelle d'un ami. Le livre est l'une des œuvres de fiction anglaises les plus citées et adaptées de l'histoire."
+    },
+    {
+      "id": 3,
+      "niveau": 1,
+      "question": "Qui a écrit 'Harry Potter' ?",
+      "reponse": "J.K. Rowling",
+      "variantes": [
+        "Rowling",
+        "Joanne Rowling",
+        "J.K. Rowling",
+        "jk rowling"
+      ],
+      "anecdote": "J.K. Rowling (née en 1965) conçut l'univers de Harry Potter lors d'un retard de train en 1990. Le premier tome fut refusé par 12 éditeurs avant d'être accepté par Bloomsbury en 1997. La série de 7 livres s'est vendue à plus de 500 millions d'exemplaires, devenant la saga la plus vendue de l'histoire. Rowling est devenue la première milliardaire grâce à l'écriture."
+    },
+    {
+      "id": 4,
+      "niveau": 4,
+      "question": "Dans quelle ville se déroule l'action de 'Roméo et Juliette' de Shakespeare ?",
+      "reponse": "Vérone",
+      "variantes": [
+        "vérone",
+        "Verona",
+        "la ville de Vérone"
+      ],
+      "anecdote": "'Roméo et Juliette' de Shakespeare (vers 1594-1596) se déroule à Vérone, en Italie. Aujourd'hui, des milliers de touristes visitent chaque année la 'Maison de Juliette' à Vérone, bien qu'elle soit un mythe — il n'existe aucune preuve de l'existence historique des personnages. Shakespeare s'inspira d'une nouvelle italienne de Luigi Da Porto (1530)."
+    },
+    {
+      "id": 5,
+      "niveau": 1,
+      "question": "Quel poète français est l'auteur de la fable 'Le Corbeau et le Renard' ?",
+      "reponse": "Jean de La Fontaine",
+      "variantes": [
+        "La Fontaine",
+        "la fontaine"
+      ],
+      "anecdote": "Jean de La Fontaine (1621-1695) publia ses douze livres de Fables entre 1668 et 1694. Inspirées d'Ésope et de Phèdre, elles mettent en scène des animaux pour critiquer les vices humains avec humour et sagesse. Le Corbeau et le Renard, avec sa morale sur la flatterie, est la fable la plus connue, apprise par des générations d'écoliers français."
+    },
+    {
+      "id": 6,
+      "niveau": 2,
+      "question": "Quel auteur anglais a écrit '1984' et 'La Ferme des animaux' ?",
+      "reponse": "George Orwell",
+      "variantes": [
+        "Orwell",
+        "george orwell",
+        "Eric Arthur Blair"
+      ],
+      "anecdote": "George Orwell (pseudonyme d'Eric Blair, 1903-1950) écrivit '1984' (1949), décrivant une dictature totalitaire sous Big Brother avec la surveillance permanente et la manipulation du langage (la novlangue). Son expression 'Big Brother vous regarde' est entrée dans le langage courant. Orwell souffrait de tuberculose et mourut quelques mois après la publication du roman."
+    },
+    {
+      "id": 7,
+      "niveau": 2,
+      "question": "Qui est l'auteur du roman 'Le Petit Prince' ?",
+      "reponse": "Antoine de Saint-Exupéry",
+      "variantes": [
+        "Saint-Exupéry",
+        "saint exupery",
+        "Antoine de Saint Exupery"
+      ],
+      "anecdote": "Antoine de Saint-Exupéry (1900-1944) publia 'Le Petit Prince' en 1943 à New York, peu avant sa mort lors d'une mission de reconnaissance en Méditerranée. C'est le livre français le plus traduit (plus de 300 langues) et l'un des plus vendus au monde. Sa phrase la plus célèbre : 'On ne voit bien qu'avec le cœur. L'essentiel est invisible pour les yeux.'"
+    },
+    {
+      "id": 8,
+      "niveau": 1,
+      "question": "Dans quel pays est né William Shakespeare ?",
+      "reponse": "Angleterre",
+      "variantes": [
+        "anglais",
+        "en Angleterre",
+        "Royaume-Uni",
+        "Grande-Bretagne"
+      ],
+      "anecdote": "William Shakespeare (1564-1616) est né à Stratford-upon-Avon en Angleterre. Il écrivit 37 pièces de théâtre et 154 sonnets. Il est considéré comme le plus grand écrivain de la langue anglaise. Ses pièces sont les plus jouées et les plus adaptées dans le monde, et son influence sur la langue anglaise est colossale : on lui attribue l'invention de 1 700 mots."
+    },
+    {
+      "id": 9,
+      "niveau": 4,
+      "question": "Quel auteur danois a écrit des contes comme 'La Petite Sirène' et 'La Reine des neiges' ?",
+      "reponse": "Hans Christian Andersen",
+      "variantes": [
+        "Andersen",
+        "hans christian andersen"
+      ],
+      "anecdote": "Hans Christian Andersen (1805-1875) écrivit 156 contes dont 'La Petite Sirène', 'La Reine des neiges', 'Le Vilain Petit Canard' et 'La Petite Fille aux allumettes'. Fils de cordonnier, il souffrit toute sa vie de sa condition sociale. Ses contes, souvent mélancoliques pour les adultes, sont lus dans le monde entier. Sa statue de la Petite Sirène est l'une des plus visitées au monde à Copenhague."
+    },
+    {
+      "id": 10,
+      "niveau": 2,
+      "question": "Quel roman de Jules Verne raconte le voyage au fond de la mer dans un sous-marin appelé 'Nautilus' ?",
+      "reponse": "Vingt mille lieues sous les mers",
+      "variantes": [
+        "20 000 lieues sous les mers",
+        "vingt mille lieues sous les mers",
+        "20000 lieues sous les mers"
+      ],
+      "anecdote": "Jules Verne (1828-1905) publia 'Vingt mille lieues sous les mers' en 1870. Le capitaine Nemo et son Nautilus fascinèrent les lecteurs avec des descriptions de créatures et de paysages sous-marins étonnamment précis. Ce roman, comme beaucoup de Verne, fut prophétique : le premier vrai sous-marin de guerre fut nommé 'Nautilus' en hommage à ce livre."
+    },
+    {
+      "id": 11,
+      "niveau": 1,
+      "question": "Quel roman de Gustave Flaubert raconte l'histoire d'Emma Bovary, bourgeoise provinciale déçue par sa vie ?",
+      "reponse": "Madame Bovary",
+      "variantes": [
+        "madame bovary"
+      ],
+      "anecdote": "Flaubert publia 'Madame Bovary' en 1857 après cinq ans de travail, et fut immédiatement poursuivi pour 'offense à la morale publique et religieuse'. Acquitté, il devint célèbre. Le mot 'bovarysme' (rêver une vie différente de la sienne par insatisfaction) est entré dans le dictionnaire. Flaubert était obsédé par le style : il pouvait travailler une journée entière pour trouver le mot juste."
+    },
+    {
+      "id": 12,
+      "niveau": 2,
+      "question": "Quel auteur russe a écrit 'Crime et Châtiment' ?",
+      "reponse": "Fiodor Dostoïevski",
+      "variantes": [
+        "Dostoïevski",
+        "Dostoyevsky",
+        "Fedor Dostoïevski",
+        "dostoyevski",
+        "dostoieski"
+      ],
+      "anecdote": "Dostoïevski (1821-1881) publia 'Crime et Châtiment' en 1866, en partie pour rembourser ses dettes de jeu. Raskolnikov, étudiant désargenté, tue une usurière, convaincu que les grands hommes sont au-dessus de la morale ordinaire. Le roman explore la culpabilité et la rédemption. Dostoïevski avait lui-même vécu sous la menace d'exécution (arrêté pour activisme, gracié in extremis devant le peloton)."
+    },
+    {
+      "id": 13,
+      "niveau": 1,
+      "question": "Quel poète symboliste français a écrit 'Les Fleurs du mal' en 1857 ?",
+      "reponse": "Charles Baudelaire",
+      "variantes": [
+        "Baudelaire",
+        "charles baudelaire"
+      ],
+      "anecdote": "'Les Fleurs du mal' (1857) de Charles Baudelaire (1821-1867) fut immédiatement condamné pour obscénité — six poèmes durent être supprimés. Ce recueil révolutionna la poésie française en associant la beauté au péché, à la mort et à la laideur. Baudelaire inventa la notion de 'spleen' (mélancolie profonde et moderne) et de 'correspondances' entre les sens."
+    },
+    {
+      "id": 14,
+      "niveau": 3,
+      "question": "Quel auteur irlandais a écrit 'Ulysse', roman moderniste publié en 1922 ?",
+      "reponse": "James Joyce",
+      "variantes": [
+        "Joyce",
+        "james joyce"
+      ],
+      "anecdote": "'Ulysse' (1922) de James Joyce est généralement considéré comme le roman le plus important du XXe siècle. Il décrit une seule journée (le 16 juin 1904) à Dublin, avec le 'monologue intérieur' comme technique narrative principale. Chaque chapitre correspond à un épisode de l'Odyssée d'Homère. Le livre fut censuré aux États-Unis jusqu'en 1933 pour obscénité. Le 16 juin est célébré comme le 'Bloomsday'."
+    },
+    {
+      "id": 15,
+      "niveau": 1,
+      "question": "Qui a écrit 'L'Étranger' ?",
+      "reponse": "Albert Camus",
+      "variantes": [
+        "Camus",
+        "albert camus"
+      ],
+      "anecdote": "'L'Étranger' (1942) d'Albert Camus (1913-1960) commence par la phrase : 'Aujourd'hui, maman est morte.' Ce roman existentialiste représente l'absurde camusien. Meursault, le personnage principal, est incapable d'émotion conventionnelle — il ne pleure pas à l'enterrement de sa mère. Camus reçut le Prix Nobel de littérature en 1957, à 43 ans. Il mourut dans un accident de voiture en 1960."
+    },
+    {
+      "id": 16,
+      "niveau": 3,
+      "question": "Quel auteur américain a écrit 'Le Vieil Homme et la Mer', lui valant le Prix Nobel en 1954 ?",
+      "reponse": "Ernest Hemingway",
+      "variantes": [
+        "Hemingway",
+        "ernest hemingway"
+      ],
+      "anecdote": "Ernest Hemingway (1899-1961) publia 'Le Vieil Homme et la Mer' en 1952 (Prix Pulitzer 1953, Nobel 1954). Cette novella raconte le vieux pêcheur Santiago qui lutte pendant 84 jours pour pêcher un énorme marlin. Le style d'Hemingway — court, direct, dépouillé — est souvent surnommé 'théorie de l'iceberg' : tout ce qui n'est pas dit est aussi important que ce qui est dit."
+    },
+    {
+      "id": 17,
+      "niveau": 2,
+      "question": "Quel auteur français du XIXe siècle est connu pour la saga des Rougon-Macquart, notamment 'Germinal' ?",
+      "reponse": "Émile Zola",
+      "variantes": [
+        "Zola",
+        "Emile Zola",
+        "émile zola"
+      ],
+      "anecdote": "Émile Zola (1840-1902) publia les 20 romans des Rougon-Macquart entre 1871 et 1893, retraçant l'histoire d'une famille sur cinq générations sous le Second Empire. 'Germinal' (1885) décrit les conditions des mineurs du Nord de la France dans une fresque naturaliste terrifiante. Zola passa deux semaines dans les mines pour documenter le roman."
+    },
+    {
+      "id": 18,
+      "niveau": 4,
+      "question": "Quel roman dystopique de Aldous Huxley décrit un monde où les humains sont génétiquement fabriqués et conditionnés ?",
+      "reponse": "Le Meilleur des mondes",
+      "variantes": [
+        "Brave New World",
+        "le meilleur des mondes"
+      ],
+      "anecdote": "'Le Meilleur des mondes' (1932) d'Aldous Huxley décrit une société future où les humains sont biologiquement fabriqués en castes (Alpha, Béta, etc.) et conditionnés au bonheur via une drogue appelée le 'soma'. Huxley s'inspirait de Ford (production en masse) et de Freud (sexualité libérée). Avec '1984' d'Orwell, c'est le roman dystopique le plus influent du XXe siècle."
+    },
+    {
+      "id": 19,
+      "niveau": 4,
+      "question": "Quel auteur argentin est connu pour ses nouvelles fantastiques comme 'Fictions' et 'L'Aleph' ?",
+      "reponse": "Jorge Luis Borges",
+      "variantes": [
+        "Borges",
+        "jorge luis borges"
+      ],
+      "anecdote": "Jorge Luis Borges (1899-1986) est le maître de la nouvelle fantastique philosophique. Ses 'Fictions' (1944) explorent des labyrinthes infinis, des bibliothèques contenant tous les livres possibles, des miroirs qui dupliquent l'univers. Aveugle depuis ses cinquante ans, il continua à dicter ses textes. Il fut l'une des plus grandes influences sur la littérature mondiale, pourtant jamais récompensé du Nobel."
+    },
+    {
+      "id": 20,
+      "niveau": 4,
+      "question": "Quel poète latin a écrit 'L'Énéide', épopée fondatrice de la civilisation romaine ?",
+      "reponse": "Virgile",
+      "variantes": [
+        "virgile",
+        "Publius Vergilius Maro"
+      ],
+      "anecdote": "Virgile (70-19 av. J.-C.) écrivit 'L'Énéide' sur commande de l'Empereur Auguste pour créer une épopée nationale romaine comparable à Homère. Elle raconte la fuite d'Énée de Troie jusqu'en Italie où ses descendants fonderont Rome. Virgile mourut avant d'avoir pu la réviser et demanda à ses exécuteurs testamentaires de la brûler — ils refusèrent."
+    },
+    {
+      "id": 21,
+      "niveau": 2,
+      "question": "Quel est le premier roman moderne de la littérature mondiale, écrit par Miguel de Cervantes au début du XVIIe siècle ?",
+      "reponse": "Don Quichotte",
+      "variantes": [
+        "Don Quijote",
+        "don quichotte",
+        "L'Ingénieux Hidalgo Don Quichotte de la Manche"
+      ],
+      "anecdote": "Don Quichotte (première partie : 1605, deuxième partie : 1615) est souvent cité comme le premier roman moderne. Cervantes y crée le personnage d'un gentilhomme ayant trop lu de romans de chevalerie qui prend des moulins à vent pour des géants. Le livre a engendré le terme 'quichottisme' (idéalisme naïf). C'est le livre le plus traduit après la Bible."
+    },
+    {
+      "id": 22,
+      "niveau": 3,
+      "question": "Quel auteur francophone de la Martinique a publié 'Cahier d'un retour au pays natal', fondateur de la négritude ?",
+      "reponse": "Aimé Césaire",
+      "variantes": [
+        "Césaire",
+        "aimé césaire",
+        "aime cesaire"
+      ],
+      "anecdote": "Aimé Césaire (1913-2008) publia son 'Cahier d'un retour au pays natal' en 1939, fondant avec Léopold Sédar Senghor et Léon-Gontran Damas le mouvement de la Négritude — une revendication de l'identité et des valeurs culturelles africaines face à la colonisation. Maire de Fort-de-France pendant 56 ans, Césaire fut aussi député. Sartre analysa son poème dans son essai 'Orphée noir'."
+    },
+    {
+      "id": 23,
+      "niveau": 3,
+      "question": "Quel auteur russe a écrit 'Anna Karénine' et 'Guerre et Paix' ?",
+      "reponse": "Léon Tolstoï",
+      "variantes": [
+        "Tolstoï",
+        "Lev Tolstoï",
+        "Leo Tolstoy",
+        "tolstoi"
+      ],
+      "anecdote": "Léon Tolstoï (1828-1910) écrivit 'Guerre et Paix' (1869) — souvent considéré comme le plus grand roman jamais écrit — en 6 ans et avec 580 personnages. 'Anna Karénine' (1878) débute avec la phrase : 'Les familles heureuses se ressemblent toutes ; les familles malheureuses sont malheureuses chacune à sa façon.' À la fin de sa vie, Tolstoï abandonna ses propriétés et sa gloire pour vivre en ascète paysan."
+    },
+    {
+      "id": 24,
+      "niveau": 2,
+      "question": "Quel auteur français a inventé le terme 'absurde' pour décrire la condition humaine dans son œuvre, notamment dans 'Le Mythe de Sisyphe' ?",
+      "reponse": "Albert Camus",
+      "variantes": [
+        "Camus",
+        "albert camus"
+      ],
+      "anecdote": "Albert Camus (1913-1960) développa la philosophie de l'absurde dans 'Le Mythe de Sisyphe' (1942) : l'homme cherche un sens dans un univers qui n'en a aucun — cette confrontation est l'absurde. Sa réponse : la révolte lucide, vivre quand même. 'Il faut imaginer Sisyphe heureux' est sa conclusion paradoxale. Camus s'opposa à Sartre sur la question de l'engagement politique totalitaire."
+    },
+    {
+      "id": 25,
+      "niveau": 3,
+      "question": "Quelle romancière anglaise du XIXe siècle a écrit 'Orgueil et Préjugés' ?",
+      "reponse": "Jane Austen",
+      "variantes": [
+        "Austen",
+        "jane austen"
+      ],
+      "anecdote": "Jane Austen (1775-1817) publia 'Orgueil et Préjugés' en 1813 sous l'anonymat (avec la mention 'Par l'auteur de Sense and Sensibility'). Le roman, qui commence par la phrase 'C'est une vérité universellement reconnue qu'un célibataire pourvu d'une belle fortune doit avoir envie de se marier', est l'un des romans les plus populaires de la littérature mondiale. Austen mourut à 41 ans, laissant six romans achevés."
+    },
+    {
+      "id": 26,
+      "niveau": 2,
+      "question": "Quel mouvement littéraire français des années 1850-1880, dont Zola est le représentant majeur, prétendait appliquer la méthode scientifique à la littérature ?",
+      "reponse": "Naturalisme",
+      "variantes": [
+        "le naturalisme",
+        "le roman naturaliste"
+      ],
+      "anecdote": "Le naturalisme, dont Zola fut le chef de file, poussa le réalisme vers l'étude 'scientifique' du déterminisme social et héréditaire : ses personnages sont déterminés par leur milieu social et leur hérédité (selon le darwinisme et la médecine de l'époque). Zola énonça ses principes dans 'Le Roman expérimental' (1880). Les frères Goncourt, Maupassant et Huysmans furent aussi de ce mouvement."
+    },
+    {
+      "id": 27,
+      "niveau": 4,
+      "question": "Quel auteur colombien a publié 'Cent ans de solitude' en 1967, l'un des textes fondateurs du réalisme magique ?",
+      "reponse": "Gabriel García Márquez",
+      "variantes": [
+        "García Márquez",
+        "Garcia Marquez",
+        "gabriel garcia marquez",
+        "Márquez"
+      ],
+      "anecdote": "Gabriel García Márquez (1927-2014) conçut l'incipit de 'Cent ans de solitude' alors qu'il conduisait vers Acapulco. Il fit demi-tour, passa 18 mois à écrire, vendit sa voiture, laissa ses dettes s'accumuler. Le roman, qui commence par 'Bien des années plus tard, face au peloton d'exécution...', mêle mythe et histoire dans la saga de la famille Buendía à Macondo. Prix Nobel 1982."
+    },
+    {
+      "id": 28,
+      "niveau": 4,
+      "question": "Quel poète français symboliste est l'auteur de 'Illuminations' et du poème 'Le Bateau ivre', qu'il écrivit à 16 ans ?",
+      "reponse": "Arthur Rimbaud",
+      "variantes": [
+        "Rimbaud",
+        "arthur rimbaud"
+      ],
+      "anecdote": "Arthur Rimbaud (1854-1891) est l'un des poètes les plus révolutionnaires de la littérature française. Enfant terrible, il écrivit toute son œuvre avant 21 ans, puis abandonna définitivement la littérature pour devenir commerçant en Abyssinie. Sa relation tumultueuse avec Verlaine (qui lui tira dessus) est légendaire. Son 'Le Bateau ivre' (1871), écrit à 16 ans, est l'un des plus grands poèmes de la langue française."
+    },
+    {
+      "id": 29,
+      "niveau": 2,
+      "question": "Quel roman de Franz Kafka met en scène Gregor Samsa, qui se réveille transformé en insecte ?",
+      "reponse": "La Métamorphose",
+      "variantes": [
+        "La Métamorphose",
+        "la métamorphose",
+        "Die Verwandlung"
+      ],
+      "anecdote": "Franz Kafka (1883-1924) publia 'La Métamorphose' (Die Verwandlung) en 1915. Gregor Samsa se réveille métamorphosé en 'monstrueuse vermine' — peut-être un cafard. La famille réagit à cette transformation avec incompréhension, dégoût et indifférence progressive. Cette nouvelle est une parabole de l'aliénation moderne, de la relation au travail et à la famille. Le terme 'kafkaïen' désigne une situation absurde et bureaucratique."
+    },
+    {
+      "id": 30,
+      "niveau": 2,
+      "question": "Quel auteur grec de l'Antiquité a écrit 'L'Iliade' et 'L'Odyssée' ?",
+      "reponse": "Homère",
+      "variantes": [
+        "homère",
+        "homer"
+      ],
+      "anecdote": "Homère (VIIIe siècle av. J.-C. environ) est le plus grand poète de l'Antiquité grecque. L''Iliade' raconte les dernières semaines de la guerre de Troie ; l''Odyssée' le retour d'Ulysse à Ithaque. Ces épopées, transmises oralement pendant des siècles, sont à la base de toute la littérature occidentale. Les historiens débattent encore pour savoir si Homère était un seul individu ou une tradition poétique."
+    },
+    {
+      "id": 31,
+      "niveau": 3,
+      "question": "Quel auteur français du XIXe siècle a inventé le roman policier avec le personnage du détective Arsène Lupin ?",
+      "reponse": "Maurice Leblanc",
+      "variantes": [
+        "Leblanc",
+        "Maurice Leblanc"
+      ],
+      "anecdote": "Maurice Leblanc (1864-1941) créa le personnage d'Arsène Lupin, gentleman cambrioleur, en 1905. Lupin est le pendant français de Sherlock Holmes — il apparaît d'ailleurs dans un roman de Leblanc (renommé Herlock Sholmes pour éviter les poursuites de Conan Doyle). La série Lupin de Netflix (2021) a remis le personnage sur le devant de la scène mondiale."
+    },
+    {
+      "id": 32,
+      "niveau": 3,
+      "question": "Quel roman de Marcel Proust en sept volumes explore la mémoire involontaire à travers la fameuse madeleine trempée dans du thé ?",
+      "reponse": "À la recherche du temps perdu",
+      "variantes": [
+        "la recherche du temps perdu",
+        "à la recherche du temps perdu",
+        "Du côté de chez Swann"
+      ],
+      "anecdote": "Marcel Proust (1871-1922) publia les sept volumes d''À la recherche du temps perdu' entre 1913 et 1927 (les quatre derniers posthumes). Avec plus de 3 000 personnages, c'est l'un des plus longs romans de la littérature mondiale. Proust travaillait la nuit dans une chambre capitonnée de liège pour filtrer le bruit. La madeleine trempée dans du thé déclenche une avalanche de souvenirs d'enfance — c'est la 'mémoire involontaire'."
+    },
+    {
+      "id": 33,
+      "niveau": 4,
+      "question": "Quel auteur américain de la 'génération perdue' a écrit 'Le Soleil se lève aussi' et 'Pour qui sonne le glas' ?",
+      "reponse": "Ernest Hemingway",
+      "variantes": [
+        "Hemingway",
+        "ernest hemingway"
+      ],
+      "anecdote": "Ernest Hemingway (1899-1961) fut l'un des membres les plus emblématiques de la 'génération perdue' — des écrivains américains expatriés à Paris après la Première Guerre mondiale (Fitzgerald, Dos Passos, etc.). Son style dépouillé ('théorie de l'iceberg'), ses thèmes de masculinité, de guerre et de mort le rendirent immensément influent. Il se suicida d'un coup de fusil en 1961, comme son père avant lui."
+    },
+    {
+      "id": 34,
+      "niveau": 3,
+      "question": "Quel est le nom du mouvement littéraire des années 1960 en Amérique latine dont García Márquez et Vargas Llosa furent les chefs de file ?",
+      "reponse": "Boom latino-américain",
+      "variantes": [
+        "le boom",
+        "boom latino-américain",
+        "boom latinoaméricain"
+      ],
+      "anecdote": "Le 'Boom' latino-américain des années 1960-1970 réunit des romanciers qui renouvelèrent la littérature mondiale : García Márquez (Colombie), Vargas Llosa (Pérou), Cortázar (Argentine), Fuentes (Mexique), Donoso (Chili). Publiés par les mêmes éditeurs espagnols et traduits dans le monde entier, ils apportèrent le réalisme magique et des structures narratives complexes. Tous furent liés à la Révolution cubaine à ses débuts."
+    },
+    {
+      "id": 35,
+      "niveau": 4,
+      "question": "Quel roman de Boris Pasternak, publié à l'étranger en 1957, lui valut le Prix Nobel qu'il fut forcé de refuser par les autorités soviétiques ?",
+      "reponse": "Le Docteur Jivago",
+      "variantes": [
+        "Docteur Jivago",
+        "Dr Jivago"
+      ],
+      "anecdote": "Boris Pasternak (1890-1960) écrivit 'Le Docteur Jivago' pendant la Seconde Guerre mondiale et après, mais ne put le publier en URSS. Il fut clandestinement transmis à l'éditeur Feltrinelli à Milan et publié en 1957. Pasternak reçut le Nobel en 1958 mais fut forcé de refuser sous la pression soviétique. Il mourut deux ans plus tard, sous surveillance et ostracisé. Le roman fut adapté en film par David Lean (1965)."
+    },
+    {
+      "id": 36,
+      "niveau": 4,
+      "question": "Quel auteur français d'origine algérienne a reçu le Prix Nobel de littérature en 2022 avec 'Les Années' ?",
+      "reponse": "Annie Ernaux",
+      "variantes": [
+        "Ernaux",
+        "annie ernaux"
+      ],
+      "anecdote": "Annie Ernaux (née en 1940) reçut le Prix Nobel de littérature en 2022. Son œuvre autobiographique explore la mémoire collective et l'ascension sociale à travers des récits personnels ('La Place', 'La Honte', 'Les Années'). 'Les Années' (2008) est une 'autobiographie collective' de sa génération. Elle est la dixième femme à recevoir le Nobel de littérature et la première Française depuis Marguerite Yourcenar."
+    },
+    {
+      "id": 37,
+      "niveau": 3,
+      "question": "Quel philosophe grec a dialogué avec ses contemporains en posant des questions pour faire accoucher la vérité, méthode appelée la maïeutique ?",
+      "reponse": "Socrate",
+      "variantes": [
+        "socrate"
+      ],
+      "anecdote": "Socrate (470-399 av. J.-C.) n'a laissé aucun écrit. Sa méthode dialectique (l'elenchus) consistait à questionner ses interlocuteurs jusqu'à révéler leurs contradictions. La maïeutique (l'art de 'faire accoucher' la vérité) fait référence au métier de sa mère, sage-femme. Ses conversations furent retranscrites par Platon dans ses Dialogues. 'Je sais que je ne sais rien' lui est attribuée."
+    },
+    {
+      "id": 38,
+      "niveau": 2,
+      "question": "Quel roman de Victor Hugo a popularisé la figure du bossus Quasimodo, sonneur de cloches de Notre-Dame de Paris ?",
+      "reponse": "Notre-Dame de Paris",
+      "variantes": [
+        "notre-dame de paris",
+        "Notre Dame de Paris"
+      ],
+      "anecdote": "Victor Hugo publia 'Notre-Dame de Paris' en 1831 dans le but délibéré de sauver la cathédrale de la démolition ou de la transformation. Le roman fut un succès colossal qui déclencha une vague de restauration des édifices gothiques français. La cathédrale fut restaurée par Viollet-le-Duc (1844-1864). L'incendie de Notre-Dame en avril 2019 émut le monde entier."
+    },
+    {
+      "id": 39,
+      "niveau": 4,
+      "question": "Quel poète britannique romantique est mort à 26 ans en Grèce où il combattait pour l'indépendance grecque ?",
+      "reponse": "Lord Byron",
+      "variantes": [
+        "Byron",
+        "George Gordon Byron"
+      ],
+      "anecdote": "Lord Byron (1788-1824) fut l'un des poètes romantiques les plus célèbres d'Europe. Beau, talentueux et scandaleux (aventures amoureuses, dont une avec sa demi-sœur), il incarnait le 'héros byronien' ténébreux. Il mourut à Missolonghi, en Grèce, d'une fièvre probablement liée aux saignements thérapeutiques pratiqués par ses médecins, alors qu'il combattait pour l'indépendance grecque."
+    },
+    {
+      "id": 40,
+      "niveau": 4,
+      "question": "Quel auteur japonais a écrit 'La Montagne et son écho' et reçu le Nobel de littérature en 1968, premier Japonais à l'obtenir ?",
+      "reponse": "Yasunari Kawabata",
+      "variantes": [
+        "Kawabata",
+        "yasunari kawabata"
+      ],
+      "anecdote": "Yasunari Kawabata (1899-1972) fut le premier auteur japonais à recevoir le Prix Nobel de littérature (1968). Ses romans ('Pays de neige', 'La Montagne et son écho') explorent la beauté éphémère, la mélancolie et les traditions japonaises dans une prose poétique et elliptique. Il se suicida au gaz en 1972, peu après la mort de son ami Mishima (seppuku en 1970)."
+    },
+    {
+      "id": 41,
+      "niveau": 4,
+      "question": "Quel auteur français a théorisé le 'Nouveau Roman' dans son essai 'Pour un nouveau roman' (1963) ?",
+      "reponse": "Alain Robbe-Grillet",
+      "variantes": [
+        "Robbe-Grillet",
+        "alain robbe-grillet"
+      ],
+      "anecdote": "Alain Robbe-Grillet (1922-2008) fut le théoricien et le praticien le plus influent du Nouveau Roman — mouvement des années 1950-1960 qui rejetait la psychologie des personnages et l'intrigue traditionnelle au profit d'une description objective et déshumanisée des choses. Nathalie Sarraute, Michel Butor, Claude Simon et Marguerite Duras furent aussi rattachés à ce mouvement."
+    },
+    {
+      "id": 42,
+      "niveau": 3,
+      "question": "Quel procédé consiste à raconter une histoire à l'intérieur d'une autre histoire ?",
+      "reponse": "Une mise en abyme",
+      "variantes": [
+        "mise en abyme"
+      ],
+      "anecdote": "La mise en abyme désigne une œuvre ou un récit qui contient une représentation d'elle-même ou un récit enchâssé. C'est un procédé très utilisé en littérature, au théâtre et au cinéma pour réfléchir sur l'acte de raconter lui-même."
+    },
+    {
+      "id": 43,
+      "niveau": 4,
+      "question": "Quel auteur irlandais a écrit la pièce de théâtre 'En attendant Godot' (1952), archétype du théâtre de l'absurde ?",
+      "reponse": "Samuel Beckett",
+      "variantes": [
+        "Beckett",
+        "samuel beckett"
+      ],
+      "anecdote": "Samuel Beckett (1906-1989) écrivit 'En attendant Godot' en français en 1948-1949 et la traduisit lui-même en anglais. Deux personnages attendent Godot qui ne vient jamais — une métaphore de la condition humaine. La pièce révolutionna le théâtre mondial. Beckett reçut le Nobel en 1969 mais n'assista pas à la cérémonie, envoyant un ami pour le représenter. Il vivait dans la discrétion la plus totale."
+    },
+    {
+      "id": 44,
+      "niveau": 4,
+      "question": "Quel auteur tchèque d'expression française est l'auteur de 'L'Insoutenable Légèreté de l'être' (1984) ?",
+      "reponse": "Milan Kundera",
+      "variantes": [
+        "Kundera",
+        "milan kundera"
+      ],
+      "anecdote": "Milan Kundera (1929-2023) quitta la Tchécoslovaquie après 1968 et s'installa en France. 'L'Insoutenable Légèreté de l'être' oppose la 'légèreté' (liberté sans racines) à la 'lourdeur' (sens et engagement), sur fond d'invasion soviétique de 1968. Kundera obtint la nationalité française en 1981. Controversé par ses prises de position sur ses propres traductions, il fut long candidat non couronné au Nobel."
+    },
+    {
+      "id": 45,
+      "niveau": 5,
+      "question": "Quel auteur allemand a écrit 'La Montagne magique' (1924), roman-somme de la culture européenne d'avant 1914 ?",
+      "reponse": "Thomas Mann",
+      "variantes": [
+        "Mann",
+        "thomas mann"
+      ],
+      "anecdote": "Thomas Mann (1875-1955) écrivit 'La Montagne magique' (Der Zauberberg) en 12 ans. Ce roman de 1000 pages situe son action dans un sanatorium suisse des Alpes, avant la Première Guerre mondiale. Il constitue un panorama philosophique de l'Europe décadente (le libéralisme humaniste vs nationalisme/nihilisme). Mann reçut le Nobel en 1929. Exilé par les nazis, il ne retourna jamais vivre en Allemagne."
+    },
+    {
+      "id": 46,
+      "niveau": 3,
+      "question": "Quelle philosophe et romancière française, compagne de Jean-Paul Sartre, publia 'Le Deuxième Sexe' en 1949, texte fondateur du féminisme moderne ?",
+      "reponse": "Simone de Beauvoir",
+      "variantes": [
+        "Beauvoir",
+        "simone de beauvoir",
+        "De Beauvoir"
+      ],
+      "anecdote": "Simone de Beauvoir (1908-1986) publia 'Le Deuxième Sexe' en 1949, texte qui révolutionna la pensée féministe avec sa phrase centrale : 'On ne naît pas femme, on le devient.' Elle y analysa la construction sociale de la féminité. Le livre fut mis à l'Index par l'Église catholique. Avec Sartre, elle fonda la revue 'Les Temps modernes'. Son journal 'Mémoires d'une jeune fille rangée' est un classique autobiographique."
+    },
+    {
+      "id": 47,
+      "niveau": 4,
+      "question": "Quel romancier américain afro-américain a reçu le Prix Nobel de littérature en 1993 avec 'Beloved' ?",
+      "reponse": "Toni Morrison",
+      "variantes": [
+        "Morrison",
+        "toni morrison"
+      ],
+      "anecdote": "Toni Morrison (1931-2019) publia 'Beloved' en 1987 (Pulitzer 1988, Nobel 1993). Ce roman est inspiré d'une histoire vraie : une esclave fugitive, Margaret Garner, tua sa petite fille pour lui épargner l'esclavage. Morrison explorait la mémoire de l'esclavage, le deuil et la survivance. Elle fut la première Afro-Américaine à recevoir le Nobel de littérature."
+    },
+    {
+      "id": 48,
+      "niveau": 4,
+      "question": "Quel auteur albano-français est l'auteur du 'Palais des rêves' (1981) sur l'Empire ottoman, et a reçu le Prix Nobel en 2005 ?",
+      "reponse": "Ismail Kadare",
+      "variantes": [
+        "Kadare",
+        "ismaïl kadaré"
+      ],
+      "anecdote": "Ismail Kadare (né en 1936) est le plus grand écrivain albanais. Ses romans ('Le Général de l'armée morte', 'Le Palais des rêves') explorent l'histoire des Balkans, le totalitarisme stalinien et les mythes albanais. Vivant en Albanie sous Enver Hoxha, il dut naviguer entre compromis et résistance. Il s'exila en France en 1990 et reçut le Prix Nobel en 2024."
+    },
+    {
+      "id": 49,
+      "niveau": 5,
+      "question": "Quel auteur chinois a reçu le Prix Nobel de littérature en 2000 avec son roman 'La Montagne de l'âme' ?",
+      "reponse": "Gao Xingjian",
+      "variantes": [
+        "Gao Xingjian",
+        "Xingjian"
+      ],
+      "anecdote": "Gao Xingjian (né en 1940) reçut le Prix Nobel en 2000 — le premier Chinois (naturalisé français) à l'obtenir. 'La Montagne de l'âme' (1990) est un roman autobiographique explorant ses voyages dans la Chine profonde pour fuir la persécution politique. Ses pièces de théâtre de l'absurde furent interdites en Chine, où il est toujours persona non grata."
+    },
+    {
+      "id": 50,
+      "niveau": 3,
+      "question": "Quel est le nom du mouvement littéraire des années 1920 développé par André Breton qui cherchait à libérer l'inconscient dans l'écriture automatique ?",
+      "reponse": "Surréalisme",
+      "variantes": [
+        "le surréalisme",
+        "mouvement surréaliste"
+      ],
+      "anecdote": "Le Manifeste du Surréalisme (1924) d'André Breton définit le surréalisme comme 'automatisme psychique pur'. L'écriture automatique — écrire sans contrôle de la raison ou de la censure morale — devait révéler le fonctionnement de l'inconscient (Breton était lecteur de Freud). Parmi les surréalistes littéraires : Éluard, Aragon, Desnos, Soupault, Péret. Aragon et Éluard quittèrent le mouvement pour rejoindre le Parti communiste."
+    },
+    {
+      "id": 51,
+      "niveau": 3,
+      "question": "Quel auteur irlandais du XIXe siècle est l'auteur du roman 'Le Portrait de Dorian Gray' et fut emprisonné pour homosexualité ?",
+      "reponse": "Oscar Wilde",
+      "variantes": [
+        "Wilde",
+        "oscar wilde"
+      ],
+      "anecdote": "Oscar Wilde (1854-1900) publia 'Le Portrait de Dorian Gray' en 1890. Condamné en 1895 à deux ans de travaux forcés pour 'grossière indécence' (homosexualité), il fut libéré ruiné et exilé. Il mourut à Paris à 46 ans, dans une chambre d'hôtel misérable, converti au catholicisme sur son lit de mort. Sa tombe au Père-Lachaise est couverte de baisers en rouge à lèvres."
+    },
+    {
+      "id": 52,
+      "niveau": 4,
+      "question": "Quel auteur allemand est considéré comme le plus grand écrivain de langue allemande avec 'Faust', 'Les Souffrances du jeune Werther' et 'Wilhelm Meister' ?",
+      "reponse": "Johann Wolfgang von Goethe",
+      "variantes": [
+        "Goethe",
+        "goethe",
+        "von Goethe"
+      ],
+      "anecdote": "Johann Wolfgang von Goethe (1749-1832) est le plus grand représentant de la littérature allemande et l'une des figures intellectuelles les plus influentes de l'Europe. 'Les Souffrances du jeune Werther' (1774) déclencha une vague de suicides romantiques imitateurs en Europe (le 'syndrome de Werther'). 'Faust' (deux parties : 1808 et 1832), son œuvre maîtresse, mit 60 ans à écrire."
+    },
+    {
+      "id": 53,
+      "niveau": 4,
+      "question": "Quel auteur français moderniste du XXe siècle publia la trilogie 'Molloy', 'Malone meurt' et 'L'Innommable' ?",
+      "reponse": "Samuel Beckett",
+      "variantes": [
+        "Beckett",
+        "samuel beckett"
+      ],
+      "anecdote": "Samuel Beckett écrivit sa 'Trilogie' (Molloy, Malone meurt, L'Innommable, 1951-1953) en français, langue d'adoption qui l'obligeait, disait-il, à 'écrire sans style'. Ces romans déconstruisent progressivement la notion de personnage, de récit et de sens. 'L'Innommable' se termine par la célèbre phrase : 'Il faut continuer, je vais continuer.' Beckett reçut le Nobel en 1969."
+    },
+    {
+      "id": 54,
+      "niveau": 4,
+      "question": "Quel auteur japonais est l'auteur de 'La Ballade de l'impossible' ('Norwegian Wood') et 'Kafka sur le rivage' ?",
+      "reponse": "Haruki Murakami",
+      "variantes": [
+        "Murakami",
+        "haruki murakami"
+      ],
+      "anecdote": "Haruki Murakami (né en 1949) est l'auteur japonais contemporain le plus lu dans le monde. Ses romans mêlent la culture pop occidentale (jazz, rock, littérature américaine) aux traditions japonaises dans une prose lyrique. 'La Ballade de l'impossible' (Norwegian Wood, 1987) fut son premier best-seller mondial. Il court des marathons et est un candidat récurrent au Prix Nobel de littérature."
+    },
+    {
+      "id": 55,
+      "niveau": 4,
+      "question": "Quel poète français symboliste, ami de Mallarmé, est l'auteur de 'Romances sans paroles' et 'Sagesse', et fut emprisonné pour avoir blessé Rimbaud ?",
+      "reponse": "Paul Verlaine",
+      "variantes": [
+        "Verlaine",
+        "paul verlaine"
+      ],
+      "anecdote": "Paul Verlaine (1844-1896) fut l'un des poètes symbolistes les plus influents. Sa relation amoureuse et tumultueuse avec Arthur Rimbaud se termina par un coup de pistolet — Verlaine tira sur Rimbaud à Bruxelles en 1873 et fut condamné à deux ans de prison. En prison, il se reconvertit au catholicisme et écrivit 'Sagesse'. Après sa libération, il mena une vie dissolue et mourut dans la pauvreté."
+    },
+    {
+      "id": 56,
+      "niveau": 3,
+      "question": "Quel auteur britannique a écrit 'Le Seigneur des Anneaux' et 'Le Hobbit', créant un monde mythologique complet avec des langues inventées ?",
+      "reponse": "J.R.R. Tolkien",
+      "variantes": [
+        "Tolkien",
+        "J. R. R. Tolkien",
+        "tolkien"
+      ],
+      "anecdote": "J.R.R. Tolkien (1892-1973), professeur d'anglais médiéval à Oxford, consacra plus de 30 ans à construire la Terre du Milieu — une mythologie complète avec ses propres langues (l'elfique, le quenya), ses histoires et sa géographie. Le Seigneur des Anneaux (1954-1955) est le roman le plus vendu du XXe siècle après la Bible. Tolkien inventa la notion de 'sous-création' : un créateur qui construit un monde cohérent."
+    },
+    {
+      "id": 57,
+      "niveau": 4,
+      "question": "Quel auteur français du XXe siècle rédigea 'Les Mots et les Choses' (1966), analyse des 'épistémès' successives de la pensée occidentale ?",
+      "reponse": "Michel Foucault",
+      "variantes": [
+        "Foucault",
+        "michel foucault"
+      ],
+      "anecdote": "Michel Foucault (1926-1984) publia 'Les Mots et les Choses' (1966), immense succès intellectuel et commercial. Il y analyse comment chaque époque (épistémè) structure différemment le savoir. La déclaration 'La mort de l'homme' — la dissolution du 'sujet humain' comme fondement du savoir — choqua et fascina. Foucault est l'un des philosophes les plus cités du XXe siècle."
+    },
+    {
+      "id": 58,
+      "niveau": 3,
+      "question": "Quel roman de Dostoïevski met en scène le 'Grand Inquisiteur' dans une parabole sur la liberté et la foi ?",
+      "reponse": "Les Frères Karamazov",
+      "variantes": [
+        "Les Frères Karamazov",
+        "les frères karamazov",
+        "Karamazov"
+      ],
+      "anecdote": "'Les Frères Karamazov' (1880), dernier roman de Dostoïevski, est souvent considéré comme le plus grand roman jamais écrit. La parabole du Grand Inquisiteur (le Christ revient, l'Inquisiteur l'emprisonne pour avoir donné aux hommes une liberté dont ils ne veulent pas) est l'une des pages les plus commentées de la littérature mondiale. Dostoïevski mourut deux mois après la parution."
+    },
+    {
+      "id": 59,
+      "niveau": 4,
+      "question": "Quel poète romain du 1er siècle av. J.-C. est l'auteur des 'Odes' et de la devise 'Carpe diem' ?",
+      "reponse": "Horace",
+      "variantes": [
+        "horace",
+        "Quintus Horatius Flaccus"
+      ],
+      "anecdote": "Horace (65-8 av. J.-C.) est le plus grand poète lyrique latin. Son 'Odes' I, 11 contient la devise 'carpe diem, quam minimum credula postero' ('cueille le jour, fais aussi peu confiance que possible au lendemain'). La devise 'carpe diem' est souvent mal interprétée comme hédonisme : pour Horace, c'est une invitation à vivre pleinement dans l'incertitude du destin, non à l'excès."
+    },
+    {
+      "id": 60,
+      "niveau": 4,
+      "question": "Quel philosophe et essayiste américain du XIXe siècle est l'auteur de 'Walden ou la Vie dans les bois' et du texte fondateur de la désobéissance civile ?",
+      "reponse": "Henry David Thoreau",
+      "variantes": [
+        "Thoreau",
+        "henry david thoreau"
+      ],
+      "anecdote": "Henry David Thoreau (1817-1862) vécut deux ans dans une cabane au bord de l'étang Walden (Massachusetts) et en tira 'Walden' (1854), méditation sur la simplicité volontaire et le rapport à la nature. Son essai 'La Désobéissance civile' (1849) — refus de payer ses impôts en protestation contre l'esclavage et la guerre — influença profondément Gandhi et Martin Luther King."
+    },
+    {
+      "id": 61,
+      "niveau": 4,
+      "question": "Quel auteur français du XVIe siècle est l'auteur de 'Pantagruel' et 'Gargantua', romans comiques et philosophiques ?",
+      "reponse": "François Rabelais",
+      "variantes": [
+        "Rabelais",
+        "François Rabelais"
+      ],
+      "anecdote": "François Rabelais (vers 1494-1553), moine puis médecin, créa dans 'Gargantua' (1534) et 'Pantagruel' (1532) un univers de géants et de festins démesurés, mêlant le comique populaire (gauloiseries, farces) à une érudition humaniste profonde. Son 'abbaye de Thélème' avec sa devise 'Fais ce que voudras' exprime l'idéal humaniste de confiance en l'homme. 'Rabelaisien' désigne depuis un humour truculent."
+    },
+    {
+      "id": 62,
+      "niveau": 4,
+      "question": "Quel auteur américain de la 'Beat Generation' publia 'Sur la route' (1957), roman écrit en trois semaines sur un rouleau de papier de 36 mètres ?",
+      "reponse": "Jack Kerouac",
+      "variantes": [
+        "Kerouac",
+        "jack kerouac"
+      ],
+      "anecdote": "Jack Kerouac (1922-1969) publia 'Sur la route' en 1957 après plusieurs années de refus. La légende veut qu'il l'écrivit en 3 semaines en avril 1951 sur un rouleau de papier collé pour ne pas s'arrêter. En réalité, il avait accumulé des carnets de notes pendant des années. Le livre, refusé 6 ans, devint la bible de la Beat Generation. Kerouac mourut alcoolique à 47 ans."
+    },
+    {
+      "id": 63,
+      "niveau": 5,
+      "question": "Quel auteur autrichien, ami de Rilke et Hofmannsthal, est l'auteur de 'La Confusion des sentiments' et 'Le Monde d'hier' ?",
+      "reponse": "Stefan Zweig",
+      "variantes": [
+        "Zweig",
+        "stefan zweig"
+      ],
+      "anecdote": "Stefan Zweig (1881-1942) fut l'un des auteurs les plus lus du monde dans les années 1920-1930. Ses nouvelles psychologiques ('La Confusion des sentiments', 'Lettre d'une inconnue') et biographies ('Marie-Antoinette', 'Marie Stuart') connurent un succès mondial. Exilé par les nazis, il mourut à Petrópolis (Brésil) par suicide avec sa femme, désespéré par la chute de 'son' Europe humaniste."
+    },
+    {
+      "id": 64,
+      "niveau": 5,
+      "question": "Quel auteur brésilien est l'auteur de 'Dom Casmurro' (1899), souvent comparé à 'Othello' pour sa jalousie obsessionnelle ?",
+      "reponse": "Machado de Assis",
+      "variantes": [
+        "Assis",
+        "Machado de Assis"
+      ],
+      "anecdote": "Joaquim Maria Machado de Assis (1839-1908) est le plus grand romancier brésilien. De condition modeste (père mulâtre, mère portugaise), épileptique et bègue, il devint le président fondateur de l'Académie Brésilienne des Lettres. 'Dom Casmurro' (1899) laisse délibérément ouverte la question de la trahison de Capitu — une ambiguïté narrative qui fascine les lecteurs depuis des générations."
+    },
+    {
+      "id": 65,
+      "niveau": 4,
+      "question": "Quel poète français du XIXe siècle écrivit 'Un coup de dés jamais n'abolira le hasard' (1897), révolutionnant la mise en page poétique ?",
+      "reponse": "Stéphane Mallarmé",
+      "variantes": [
+        "Mallarmé",
+        "stéphane mallarmé"
+      ],
+      "anecdote": "Stéphane Mallarmé (1842-1898) publia 'Un coup de dés jamais n'abolira le hasard' (1897) — un poème où la typographie, les espaces blancs et les différentes tailles de police font partie intégrante du sens. Mallarmé animait les 'mardis' littéraires qui réunirent les symbolistes, les impressionnistes et Valéry. Son projet poétique ultime : le 'Livre', livre absolu contenant tout, resta inachevé."
+    },
+    {
+      "id": 66,
+      "niveau": 4,
+      "question": "Quel auteur polonais a reçu le Prix Nobel en 1980 avec son roman 'Le Tambour de fer' ?",
+      "reponse": "Günter Grass",
+      "variantes": [
+        "Grass",
+        "günter grass",
+        "Gunter Grass"
+      ],
+      "anecdote": "Günter Grass (1927-2015) reçut le Prix Nobel en 1999 (non 1980 — erreur de ma part). 'Le Tambour de fer' (1959), premier roman de sa Trilogie de Dantzig, raconte l'histoire de Oskar, un enfant qui refuse de grandir et brise le verre avec sa voix, dans le contexte de la montée du nazisme. Grass fut longtemps conscience morale de l'Allemagne d'après-guerre avant d'avouer en 2006 son passage dans les Waffen-SS."
+    },
+    {
+      "id": 67,
+      "niveau": 4,
+      "question": "Quel poète persan du XIe siècle est l'auteur de la 'Shahnameh', épopée nationale iranienne de 60 000 distiques ?",
+      "reponse": "Ferdowsi",
+      "variantes": [
+        "ferdowsi",
+        "Abul-Qasim Ferdowsi"
+      ],
+      "anecdote": "Ferdowsi (940-1025) consacra 30 ans à composer la Shahnameh ('Livre des Rois'), épopée en vers persans retraçant l'histoire et la mythologie de la Perse depuis la création du monde jusqu'à la conquête arabe. Ce monument littéraire préserva la langue perse de l'arabisation. La légende raconte que le sultan Mahmoud, à qui l'ouvrage était dédié, lui envoya la récompense promise en or après sa mort."
+    },
+    {
+      "id": 68,
+      "niveau": 4,
+      "question": "Quelle romancière américaine afro-américaine est l'auteure de 'La Couleur pourpre' (1982), histoire d'une femme noire dans le Sud américain ?",
+      "reponse": "Alice Walker",
+      "variantes": [
+        "Walker",
+        "alice walker"
+      ],
+      "anecdote": "Alice Walker (née en 1944) publia 'La Couleur pourpre' en 1982 (Pulitzer 1983). Le roman, écrit en lettres adressées à Dieu, décrit Celie, une jeune femme noire battue et abusée dans le Sud des États-Unis des années 1930. L'adaptation cinématographique par Steven Spielberg (1985) avec Whoopi Goldberg connut un immense succès. Walker fut la première Afro-Américaine à recevoir le Pulitzer pour la fiction."
+    },
+    {
+      "id": 69,
+      "niveau": 4,
+      "question": "Quel écrivain autrichien est l'auteur du roman 'L'Homme sans qualités', laissé inachevé, analyse de la société austro-hongroise à la veille de 1914 ?",
+      "reponse": "Robert Musil",
+      "variantes": [
+        "Musil",
+        "robert musil"
+      ],
+      "anecdote": "Robert Musil (1880-1942) travailla à 'L'Homme sans qualités' (Der Mann ohne Eigenschaften) pendant plus de 20 ans, le laissant inachevé à sa mort. Ce roman-somme de plus de 2 000 pages suit Ulrich, un homme cherchant sa raison d'être dans la Vienne décomposante de 1913 (la 'Kakanie'). Musil mourut dans l'obscurité à Genève — sa reconnaissance posthume fut immense."
+    },
+    {
+      "id": 70,
+      "niveau": 5,
+      "question": "Quel auteur indien de langue anglaise a reçu le Prix Nobel de littérature en 1913, premier non-Européen à l'obtenir ?",
+      "reponse": "Rabindranath Tagore",
+      "variantes": [
+        "Tagore",
+        "rabindranath tagore"
+      ],
+      "anecdote": "Rabindranath Tagore (1861-1941) fut le premier non-Européen à recevoir le Prix Nobel de littérature (1913), pour 'Gitanjali' ('Offrandes lyriques'). Romancier, poète, dramaturge, compositeur et peintre bengali, il composa les hymnes nationaux de l'Inde et du Bangladesh. Il rendit son titre de chevalier en protestation contre le massacre d'Amritsar (1919). Il était aussi un ami d'Einstein."
+    },
+    {
+      "id": 71,
+      "niveau": 5,
+      "question": "Quel auteur mexicain est l'auteur de 'Pedro Páramo' (1955), roman fondateur du réalisme magique dont García Márquez dit qu'il lui avait appris à écrire ?",
+      "reponse": "Juan Rulfo",
+      "variantes": [
+        "Rulfo",
+        "juan rulfo"
+      ],
+      "anecdote": "Juan Rulfo (1917-1986) ne publia que deux œuvres : le recueil de nouvelles 'El Llano en Llamas' (1953) et le roman 'Pedro Páramo' (1955). Ce court roman (~120 pages) où les morts et les vivants se mêlent dans un village fantôme du Mexique est considéré comme l'un des plus grands romans du XXe siècle. García Márquez dit l'avoir mémorisé entier. Rulfo ne publia plus rien pendant 30 ans."
+    },
+    {
+      "id": 72,
+      "niveau": 4,
+      "question": "Quelle philosophe et romancière française est l'auteure de 'Phénomène humain' et a développé le concept d'écriture blanche dans 'Le Degré zéro de l'écriture' ?",
+      "reponse": "Roland Barthes",
+      "variantes": [
+        "Barthes",
+        "roland barthes"
+      ],
+      "anecdote": "Roland Barthes (1915-1980) publia 'Le Degré zéro de l'écriture' (1953), analysant une 'écriture blanche', neutre, sans style — idéale pour Camus. Ses 'Mythologies' (1957) déconstruisirent les mythes de la culture populaire française (la Citroën DS, le steak-frites, etc.). 'La mort de l'auteur' (1968) affirma que le sens d'un texte n'est pas dans l'intention de l'auteur mais dans la lecture. Barthes mourut renversé par une camionnette en 1980."
+    },
+    {
+      "id": 73,
+      "niveau": 4,
+      "question": "Quel philosophe allemand a développé le concept de 'distanciation' (Verfremdungseffekt) en théâtre, visant à empêcher l'illusion dramatique ?",
+      "reponse": "Bertolt Brecht",
+      "variantes": [
+        "Brecht",
+        "bertolt brecht"
+      ],
+      "anecdote": "Bertolt Brecht (1898-1956) développa le 'théâtre épique' comme alternative au théâtre aristotélicien cathartique. L'Effet de distanciation (Verfremdungseffekt) — s'adresser au public, révéler les coulisses, briser l'illusion — devait empêcher l'identification émotionnelle et favoriser le regard critique. Ses pièces ('L'Opéra de quat'sous', 'Mère Courage', 'La Bonne Âme du Se-Tchouan') alliaient engagement politique marxiste et innovation formelle."
+    },
+    {
+      "id": 74,
+      "niveau": 4,
+      "question": "Quel auteur français fut le fondateur et théoricien du Nouveau Roman dans ses œuvres critiques et ses romans comme 'La Jalousie' (1957) ?",
+      "reponse": "Alain Robbe-Grillet",
+      "variantes": [
+        "Robbe-Grillet",
+        "alain robbe-grillet"
+      ],
+      "anecdote": "'La Jalousie' (1957) de Robbe-Grillet est le modèle du Nouveau Roman : une description obsessionnelle et géométrique d'une plantation de bananiers et d'une femme, racontée par un narrateur dont la jalousie n'est jamais nommée mais transparaît dans l'insistance des descriptions. L'humain est évacué au profit des choses. Le titre, en français, joue sur 'jalousie' (sentiment) et 'jalousie' (volet en bois par lequel on observe sans être vu)."
+    },
+    {
+      "id": 75,
+      "niveau": 4,
+      "question": "Quel romancier britannique est l'auteur de 'Middlemarch' (1871-1872), souvent classé comme le plus grand roman en langue anglaise ?",
+      "reponse": "George Eliot",
+      "variantes": [
+        "george eliot",
+        "Mary Ann Evans"
+      ],
+      "anecdote": "George Eliot (pseudonyme de Mary Ann Evans, 1819-1880) publia 'Middlemarch' entre 1871 et 1872. Virginia Woolf la qualifia de 'l'un des rares romans anglais écrits pour des adultes'. L'œuvre explore avec une profondeur psychologique inégalée les ambitions déçues, les mariages ratés et la vie provinciale. George Eliot usa d'un pseudonyme masculin pour être prise au sérieux comme auteure — un signe de l'époque."
+    },
+    {
+      "id": 76,
+      "niveau": 4,
+      "question": "Quel auteur péruvien, Prix Nobel 2010, est l'auteur de 'La Maison verte' et 'Conversation à La Cathédrale' ?",
+      "reponse": "Mario Vargas Llosa",
+      "variantes": [
+        "Vargas Llosa",
+        "mario vargas llosa"
+      ],
+      "anecdote": "Mario Vargas Llosa (né en 1936) reçut le Nobel en 2010. Ses premières œuvres ('La Ville et les Chiens', 1962 ; 'Conversation à La Cathédrale', 1969) sont des monuments du roman total à la Flaubert. Sa relation conflictuelle avec García Márquez (une gifle légendaire en 1976) symbolisa la rupture des écrivains du Boom avec la gauche castriste. Vargas Llosa se présenta à la présidence du Pérou en 1990, perdant face à Fujimori."
+    },
+    {
+      "id": 77,
+      "niveau": 4,
+      "question": "Quel poète américain moderniste est l'auteur de 'The Waste Land' (1922), poème central du modernisme anglais ?",
+      "reponse": "T.S. Eliot",
+      "variantes": [
+        "Eliot",
+        "T. S. Eliot",
+        "Thomas Stearns Eliot"
+      ],
+      "anecdote": "T.S. Eliot (1888-1965) publia 'The Waste Land' (1922) — un poème de 434 vers en cinq parties mêlant citations, langues et voix multiples pour exprimer la fragmentation de la culture moderne d'après-guerre. Ezra Pound réduisit le manuscrit original de moitié. Eliot reçut le Nobel en 1948. 'Prufrock', son premier poème célèbre (1915), s'ouvre par : 'Let us go then, you and I, / When the evening is spread out against the sky.'"
+    },
+    {
+      "id": 78,
+      "niveau": 4,
+      "question": "Quel auteur tchèque germanophone, ami de Max Brod, a laissé des romans inachevés comme 'Le Procès' et 'Le Château' avec demande de destruction après sa mort ?",
+      "reponse": "Franz Kafka",
+      "variantes": [
+        "Kafka",
+        "franz kafka"
+      ],
+      "anecdote": "Franz Kafka (1883-1924) mourut de tuberculose à 40 ans, après avoir demandé à son ami Max Brod de brûler tous ses manuscrits. Brod refusa et publia 'Le Procès' (1925), 'Le Château' (1926) et 'Amerika'. 'Le Procès' débute par : 'Quelqu'un avait sûrement calomnié Joseph K., car, sans avoir rien fait de mal, il se trouva arrêté un matin.' L'univers kafkaïen — absurde, bureaucratique, angoissant — est devenu universel."
+    },
+    {
+      "id": 79,
+      "niveau": 4,
+      "question": "Quel mouvement littéraire défendait l'idée que le roman devait observer la société de manière scientifique, en s'inspirant des méthodes des sciences naturelles ?",
+      "reponse": "Le naturalisme (et pas naturisme)",
+      "variantes": [
+        "naturalisme",
+        "Le naturalisme"
+      ],
+      "anecdote": "Le naturalisme, porté notamment par Émile Zola, cherche à étudier les comportements humains en tenant compte de l'hérédité, du milieu social et des conditions de vie, comme un scientifique observerait un phénomène."
+    },
+    {
+      "id": 80,
+      "niveau": 4,
+      "question": "Quel auteur japonais, symbole de la 'littérature de l'Occupation', fut assassiné en 1970 dans une tentative de coup d'État militaire rituel (seppuku) ?",
+      "reponse": "Yukio Mishima",
+      "variantes": [
+        "Mishima",
+        "yukio mishima"
+      ],
+      "anecdote": "Yukio Mishima (1925-1970) est le plus célèbre auteur japonais du XXe siècle après Kawabata. Son œuvre ('Le Pavillon d'Or', 'Confession d'un masque', 'La Mer de la fertilité') mêlait l'esthétique de la mort, l'homoerotisme et le nationalisme. Le 25 novembre 1970, après un discours aux militaires appelant à renverser la Constitution pacifiste imposée par les Américains, il se suicida par seppuku."
+    },
+    {
+      "id": 81,
+      "niveau": 5,
+      "question": "Quel auteur irlandais moderniste publia 'Finnegans Wake' (1939), considéré comme le livre le plus difficile de la littérature mondiale ?",
+      "reponse": "James Joyce",
+      "variantes": [
+        "Joyce",
+        "james joyce"
+      ],
+      "anecdote": "'Finnegans Wake' (1939) de James Joyce est généralement considéré comme le texte le plus difficile de la littérature mondiale. Écrit sur 17 ans, il simule un rêve en une langue inventée mêlant des dizaines de langues en jeux de mots ('portmanteau words') superposés. La première phrase continue la dernière — le livre forme un cercle infini. Joyce dit avoir voulu 'tenir les critiques en haleine pendant 300 ans'."
+    },
+    {
+      "id": 82,
+      "niveau": 5,
+      "question": "Quel théoricien russe du début du XXe siècle développa l'analyse des 'fonctions narratives' du conte populaire dans 'Morphologie du conte' (1928) ?",
+      "reponse": "Vladimir Propp",
+      "variantes": [
+        "Propp",
+        "Vladimir Propp"
+      ],
+      "anecdote": "Vladimir Propp (1895-1970) analysa dans 'Morphologie du conte' (1928, traduit en Occident seulement en 1958) les contes populaires russes et réduisit leurs structures narratives à 31 'fonctions' et 7 types de personnages (le héros, l'antagoniste, le donateur, etc.). Cette analyse fut fondatrice du structuralisme narratif et influença les théoriciens comme Greimas, Barthes et, indirectement, la narratologie de Campbell ('Le Héros aux mille visages') et George Lucas (Star Wars)."
+    },
+    {
+      "id": 83,
+      "niveau": 5,
+      "question": "Quel auteur nigérian, Prix Nobel 1986, est l'auteur de 'Les Interprètes' et est le premier Africain à recevoir le Nobel de littérature ?",
+      "reponse": "Wole Soyinka",
+      "variantes": [
+        "Soyinka",
+        "wole soyinka"
+      ],
+      "anecdote": "Wole Soyinka (né en 1934) reçut le Prix Nobel en 1986, premier Africain à l'obtenir. Son œuvre (pièces de théâtre, romans, poésie) mêle la tradition yoruba avec la critique du néocolonialisme et des dictatures africaines. Emprisonné pendant la guerre du Biafra (1967-1969) pour avoir tenté de négocier un cessez-le-feu, il passa 22 mois en isolement cellulaire. Ses mémoires de cette période ('L'Homme est mort', 1972) sont un témoignage bouleversant."
+    },
+    {
+      "id": 84,
+      "niveau": 5,
+      "question": "Dans un roman, comment appelle-t-on un narrateur qui connaît les pensées, les sentiments et les actions de tous les personnages ?",
+      "reponse": "Un narrateur omniscient",
+      "variantes": [
+        "Narrateur omniscient"
+      ],
+      "anecdote": "Mikhaïl Bakhtine (1895-1975), dans 'La Poétique de Dostoïevski' (1929), introduisit le concept de roman polyphonique : chez Dostoïevski, chaque personnage a une voix autonome et équivalente — l'auteur ne domine pas ses personnages mais les laisse dialoguer. Opposé au roman 'monologique' où l'auteur impose sa vérité, le roman dialogique/polyphonique incarne la pluralité des visions du monde. Bakhtine développa aussi le concept de 'carnavalesque'."
+    },
+    {
+      "id": 85,
+      "niveau": 4,
+      "question": "Quelle philosophe et romancière française est l'auteure de 'Le Ravissement de Lol V. Stein' (1964) et de 'L'Amant' (Prix Goncourt 1984) ?",
+      "reponse": "Marguerite Duras",
+      "variantes": [
+        "Duras",
+        "marguerite duras"
+      ],
+      "anecdote": "Marguerite Duras (1914-1996) publia 'L'Amant' à 70 ans (Prix Goncourt 1984) — un récit autobiographique de sa relation adolescente avec un homme chinois riche en Indochine. Ce texte sobre et elliptique devint un best-seller mondial. Son style — phrases courtes, répétitions, blancs — est immédiatement reconnaissable. Elle réalisa aussi des films expérimentaux comme 'India Song' (1975)."
+    },
+    {
+      "id": 86,
+      "niveau": 5,
+      "question": "Quel auteur turc a reçu le Prix Nobel en 2006 avec son roman autobiographique 'Istanbul' et 'La Maison du silence' ?",
+      "reponse": "Orhan Pamuk",
+      "variantes": [
+        "Pamuk",
+        "orhan pamuk"
+      ],
+      "anecdote": "Orhan Pamuk (né en 1952) est le romancier turc le plus lu dans le monde. Son roman 'Le Livre noir' (1990) marqua un tournant dans le roman turc. Ses déclarations sur le génocide arménien et les Kurdes le mirent en danger de mort en Turquie. Nobel 2006, il fonda le Musée de l'Innocence à Istanbul, inspiré de son roman homonyme (2008) — une réflexion sur la collection obsessionnelle et la mémoire."
+    },
+    {
+      "id": 87,
+      "niveau": 4,
+      "question": "Quel poète français du XVIe siècle, chef de file de la Pléiade, est l'auteur des 'Amours' et des 'Sonnets pour Hélène' ?",
+      "reponse": "Pierre de Ronsard",
+      "variantes": [
+        "Ronsard",
+        "pierre de ronsard"
+      ],
+      "anecdote": "Pierre de Ronsard (1524-1585) fut le 'prince des poètes' de la Renaissance française et le chef de file de la Pléiade, groupe de sept poètes qui réformèrent la poésie française en s'inspirant des Anciens. Sa célèbre ode 'Mignonne, allons voir si la rose' est un monument de la poésie baroque. Devenu sourd à 20 ans, il abandonna la carrière diplomatique pour la poésie."
+    },
+    {
+      "id": 88,
+      "niveau": 5,
+      "question": "Quel auteur américain postmoderne est l'auteur de 'La Plaisanterie infinie' (Infinite Jest, 1996), roman de 1100 pages avec 388 notes de bas de page ?",
+      "reponse": "David Foster Wallace",
+      "variantes": [
+        "Foster Wallace",
+        "David Foster Wallace",
+        "DFW"
+      ],
+      "anecdote": "David Foster Wallace (1962-2008) publia 'Infinite Jest' (1996), roman encyclopédique de 1104 pages explorant l'addiction (aux drogues, aux écrans, au divertissement) dans une Amérique du futur dystopique. Ses notes de bas de page (388 !) sont elles-mêmes des récits parallèles. Wallace souffrit de dépression toute sa vie et se suicida en 2008. Son discours 'This is Water' (2005) est l'un des plus influents sur internet."
+    },
+    {
+      "id": 89,
+      "niveau": 5,
+      "question": "Quel auteur britannique est l'auteur du roman 'V.' (1963) et 'L'Arc-en-ciel de la gravité' (1973), romans postmodernes fondamentaux ?",
+      "reponse": "Thomas Pynchon",
+      "variantes": [
+        "Pynchon",
+        "thomas pynchon"
+      ],
+      "anecdote": "Thomas Pynchon (né en 1937) est l'une des figures les plus énigmatiques de la littérature américaine. 'L'Arc-en-ciel de la gravité' (Gravity's Rainbow, 1973) — roman encyclopédique de 900 pages sur les missiles V-2 nazis et la culture occidentale — remporta le prix National Book Award. Pynchon vit dans la plus grande discrétion, sans photo publique connue depuis des décennies. Il fut recommandé pour le Pulitzer, refusé par le jury comme 'obscène et incompréhensible'."
+    },
+    {
+      "id": 90,
+      "niveau": 5,
+      "question": "Quel roman de Naguib Mahfouz (Nobel 1988) est considéré comme le plus grand roman de la littérature arabe moderne, décrivant Le Caire sous l'occupation britannique ?",
+      "reponse": "La Trilogie du Caire",
+      "variantes": [
+        "Trilogie du Caire",
+        "Impasse des Deux-Palais",
+        "Bayna al-Qasrayn"
+      ],
+      "anecdote": "Naguib Mahfouz (1911-2006) publia la Trilogie du Caire ('Impasse des Deux-Palais', 1956 ; 'Palais du Désir', 1957 ; 'Le Jardin du passé', 1957) sur plusieurs décennies de la vie d'une famille cairote de 1917 à 1944. Ce triptyque réaliste, à la Tolstoï ou Dickens, est le monument de la littérature arabe du XXe siècle. Mahfouz fut le seul auteur arabe à recevoir le Nobel (1988). Il fut poignardé en 1994 par un islamiste, survivant de justesse."
+    },
+    {
+      "id": 91,
+      "niveau": 5,
+      "question": "Quel théoricien littéraire russe distingua deux procédés stylistiques fondamentaux en linguistique et en littérature : la métaphore et la métonymie ?",
+      "reponse": "Roman Jakobson",
+      "variantes": [
+        "Jakobson",
+        "roman jakobson"
+      ],
+      "anecdote": "Roman Jakobson (1896-1982) développa dans 'Deux aspects du langage et deux types d'aphasies' (1956) la distinction entre métaphore (substitution par similarité : axe paradigmatique) et métonymie (substitution par contiguïté : axe syntagmatique). Ces deux pôles structurent différents styles littéraires (le symbolisme use de métaphores, le réalisme de métonymies) et différentes aphasies cérébrales. Cette analyse est fondamentale en narratologie et sémiotique."
+    },
+    {
+      "id": 92,
+      "niveau": 5,
+      "question": "Qu'est-ce que le concept de 'mimésis' dans la 'Poétique' d'Aristote et comment Erich Auerbach l'a-t-il développé dans 'Mimésis' (1946) ?",
+      "reponse": "L'imitation/représentation du réel ; Auerbach : analyse des styles représentatifs de la réalité de Homère à Virginia Woolf",
+      "variantes": [
+        "mimesis aristote",
+        "Mimésis Auerbach"
+      ],
+      "anecdote": "Aristote (384-322 av. J.-C.) définit la mimésis dans la 'Poétique' comme l'imitation d'actions humaines — base de la tragédie et de l'épopée. Erich Auerbach (1892-1957), philologue juif allemand exilé à Istanbul pendant la Seconde Guerre mondiale (sans bibliothèques!), écrivit 'Mimésis' (1946) — une histoire de la représentation de la réalité dans la littérature occidentale de l'Odyssée à Woolf. Ce livre est l'un des monuments de la critique littéraire du XXe siècle."
+    },
+    {
+      "id": 93,
+      "niveau": 4,
+      "question": "Quel philosophe et philologue a développé le concept de 'volonté de puissance' comme moteur du style littéraire et artistique ?",
+      "reponse": "Friedrich Nietzsche",
+      "variantes": [
+        "Nietzsche",
+        "Friedrich Nietzsche"
+      ],
+      "anecdote": "Friedrich Nietzsche (1844-1900) analysa dans 'Naissance de la tragédie' (1872) la tension entre l'apollinien (ordre, harmonie, mesure) et le dionysiaque (ivresse, excès, chaos) comme moteurs de la création artistique. Ses 'Considérations inactuelles' définissent trois types de rapport à l'histoire : monumental, antiquaire, critique. Sa prose poétique dans 'Ainsi parlait Zarathoustra' (1883-1885) est elle-même une œuvre littéraire d'une puissance stylistique exceptionnelle."
+    },
+    {
+      "id": 94,
+      "niveau": 5,
+      "question": "Dans À la recherche du temps perdu, quel objet déclenche chez le narrateur le célèbre phénomène de mémoire involontaire ?",
+      "reponse": "Une madeleine",
+      "variantes": [
+        "Madeleine"
+      ],
+      "anecdote": "Lorsque le narrateur goûte une madeleine trempée dans du thé, un souvenir de son enfance à Combray resurgit spontanément. Cette scène est devenue l'un des passages les plus célèbres de la littérature mondiale et a donné naissance à l'expression « la madeleine de Proust », désignant un objet ou une sensation qui fait ressurgir un souvenir oublié."
+    },
+    {
+      "id": 95,
+      "niveau": 5,
+      "question": "Quel auteur autrichien, poète et dramaturge, est l'auteur de 'Lettre de Lord Chandos' (1902), texte fondateur de la crise du langage dans la littérature moderne ?",
+      "reponse": "Hugo von Hofmannsthal",
+      "variantes": [
+        "Hofmannsthal",
+        "hugo von hofmannsthal"
+      ],
+      "anecdote": "'Lettre de Lord Chandos' (1902) de Hugo von Hofmannsthal (1874-1929) est une lettre fictive d'un aristocrate élisabéthain à Francis Bacon, expliquant pourquoi il abandonne l'écriture : les mots ont perdu leur sens, il ne peut plus faire confiance au langage pour exprimer la réalité. Ce texte pré-moderniste anticipe la crise du langage qui traverse Wittgenstein, Beckett et la littérature du XXe siècle. Hofmannsthal écrivit aussi les livrets des opéras de Richard Strauss."
+    },
+    {
+      "id": 96,
+      "niveau": 5,
+      "question": "Quel philosophe français analysa dans 'De la grammatologie' (1967) la subordination de l'écriture à la parole dans la philosophie occidentale ?",
+      "reponse": "Jacques Derrida",
+      "variantes": [
+        "Derrida",
+        "jacques derrida"
+      ],
+      "anecdote": "Jacques Derrida (1930-2004) développa dans 'De la grammatologie' (1967) le concept de 'déconstruction' : la philosophie occidentale (de Platon à Lévi-Strauss) privilégie la 'présence' de la parole sur l'écriture, supposée secondaire et dérivée. Derrida déconstruit ce 'logocentrisme' pour montrer que toute présence est traversée d'écriture et de différance. La déconstruction influença profondément les études littéraires (Yale School : De Man, Hartman, Miller)."
+    },
+    {
+      "id": 97,
+      "niveau": 5,
+      "question": "Quel critique et écrivain français a formulé la célèbre idée selon laquelle « le style, c'est l'homme même » ?",
+      "reponse": "Buffon",
+      "variantes": [],
+      "anecdote": "Parce que toute la critique littéraire moderne s'est en partie construite pour approuver, nuancer ou contester cette idée. Par exemple, Roland Barthes soutiendra plus tard que l'auteur ne doit pas être au centre de l'interprétation d'un texte (« la mort de l'auteur »)."
+    },
+    {
+      "id": 98,
+      "niveau": 5,
+      "question": "Quel auteur américain, fondateur du 'minimalisme' littéraire, est célèbre pour ses nouvelles à dialogues épurés comme 'De quoi parle-t-on quand on parle d'amour' ?",
+      "reponse": "Raymond Carver",
+      "variantes": [
+        "Carver",
+        "raymond carver"
+      ],
+      "anecdote": "Raymond Carver (1938-1988) développa un style minimaliste ('dirty realism' ou réalisme sale) : dialogues spartiates, situations ordinaires d'Américains de la classe ouvrière (alcoolisme, chômage, divorce), réalité sous-textuée. Son recueil 'De quoi parle-t-on quand on parle d'amour' (1981) fut significativement réécrit par son éditeur Gordon Lish — une polémique posthume sur l'attribution. Carver mourut d'un cancer du poumon à 50 ans, sobre depuis 1977."
+    },
+    {
+      "id": 99,
+      "niveau": 5,
+      "question": "Quel romancier américain expérimental est l'auteur de 'The Making of Americans' (1925), tentative de décrire 'chaque humain qui ait jamais vécu' en une prose répétitive et radicale ?",
+      "reponse": "Gertrude Stein",
+      "variantes": [
+        "Stein",
+        "gertrude stein"
+      ],
+      "anecdote": "Gertrude Stein (1874-1946) écrivit 'The Making of Americans' (1925, 925 pages) entre 1903 et 1911, dans une prose répétitive inspirée par William James et Cézanne. Son salon parisien réunit Picasso, Hemingway, Fitzgerald, Matisse. Sa formule 'Une rose est une rose est une rose' est parmi les phrases les plus connues de la littérature moderniste. Elle introduisit Hemingway dans le monde littéraire et lui apprit à 'supprimer' l'inutile."
+    },
+    {
+      "id": 100,
+      "niveau": 5,
+      "question": "Quel concept théorisé par Aristote désigne l'effet de purification des passions que ressent le spectateur à la vue d'une tragédie ?",
+      "reponse": "La catharsis",
+      "variantes": [
+        "Catharsis"
+      ],
+      "anecdote": "Selon Aristote, la tragédie suscite chez le spectateur la pitié et la crainte, puis le libère de ces émotions par un processus de purification appelé catharsis. C'est une notion fondamentale pour comprendre non seulement le théâtre antique, mais aussi pourquoi les œuvres tragiques, les films dramatiques ou même certains romans peuvent être émotionnellement éprouvants tout en procurant un sentiment de satisfaction."
+    }
+  ]
+}

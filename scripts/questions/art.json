@@ -1,0 +1,1154 @@
+{
+  "theme": "art",
+  "questions": [
+    {
+      "id": 1,
+      "niveau": 1,
+      "question": "Qui a peint la Joconde (Mona Lisa) ?",
+      "reponse": "Léonard de Vinci",
+      "variantes": [
+        "Leonard de Vinci",
+        "Da Vinci",
+        "Léonard de Vinci",
+        "Leonardo da Vinci"
+      ],
+      "anecdote": "La Joconde (vers 1503-1519) de Léonard de Vinci est le tableau le plus célèbre et le plus visité du monde, exposé au musée du Louvre à Paris. On estime qu'elle vaut entre 800 millions et 2 milliards d'euros. Son sourire énigmatique a fasciné les générations et fait l'objet d'innombrables théories."
+    },
+    {
+      "id": 2,
+      "niveau": 1,
+      "question": "Dans quel musée parisien se trouve la Joconde ?",
+      "reponse": "Le Louvre",
+      "variantes": [
+        "musée du Louvre",
+        "le Louvre",
+        "Louvre"
+      ],
+      "anecdote": "Le musée du Louvre est le plus grand musée d'art du monde avec 73 000 m² d'espace d'exposition et plus de 35 000 œuvres présentées. Il est installé dans l'ancien palais royal de Paris. La Joconde est exposée dans la Salle des États et attire des millions de visiteurs chaque année, souvent déçus par sa taille relativement modeste (77 × 53 cm)."
+    },
+    {
+      "id": 3,
+      "niveau": 1,
+      "question": "Quelle est la couleur obtenue en mélangeant le bleu et le jaune ?",
+      "reponse": "Vert",
+      "variantes": [
+        "le vert",
+        "vert (couleur)"
+      ],
+      "anecdote": "Le mélange de bleu et de jaune produit du vert, une des couleurs secondaires dans le modèle RJB (Rouge-Jaune-Bleu) utilisé en peinture traditionnelle. En mélange de lumières (modèle RGB), les règles sont différentes : c'est la synthèse additive (rouge + vert = jaune, etc.). La roue des couleurs, développée au XVIIe siècle, structure la théorie des couleurs en art."
+    },
+    {
+      "id": 4,
+      "niveau": 1,
+      "question": "Quel artiste néerlandais a peint 'Les Tournesols' et s'est coupé une oreille ?",
+      "reponse": "Vincent van Gogh",
+      "variantes": [
+        "Van Gogh",
+        "van gogh",
+        "Vincent van Gogh"
+      ],
+      "anecdote": "Vincent van Gogh (1853-1890) a peint plusieurs versions des Tournesols entre 1888 et 1889. En décembre 1888, lors d'une crise, il se coupa une partie de son oreille gauche et l'envoya à une femme. Malgré sa célébrité posthume, Van Gogh ne vendit qu'un seul tableau de son vivant. Il mourut à 37 ans d'une blessure par balle, probablement suicidaire."
+    },
+    {
+      "id": 5,
+      "niveau": 1,
+      "question": "Quel style de peinture est caractérisé par des représentations réalistes imitant la nature de manière très précise ?",
+      "reponse": "Réalisme",
+      "variantes": [
+        "le réalisme",
+        "peinture réaliste"
+      ],
+      "anecdote": "Le réalisme est un mouvement artistique du XIXe siècle qui cherchait à représenter la vie quotidienne telle qu'elle est, sans idéalisation. Gustave Courbet en fut le chef de file avec des œuvres comme 'L'Enterrement à Ornans' (1849-1850) qui représentait des paysans à la même taille que les personnages historiques dans les grandes peintures — une révolution à l'époque."
+    },
+    {
+      "id": 6,
+      "niveau": 1,
+      "question": "Comment s'appelle la statue géante offerte par la France aux États-Unis et qui se trouve à New York ?",
+      "reponse": "Statue de la Liberté",
+      "variantes": [
+        "statue de la liberté",
+        "Liberty",
+        "Lady Liberty"
+      ],
+      "anecdote": "La Statue de la Liberté fut offerte par la France aux États-Unis en 1886, sculptée par Frédéric Auguste Bartholdi et construite avec une structure interne de Gustave Eiffel. Elle mesure 93 m du sol à la torche. La couronne à 7 pointes symbolise les 7 mers et les 7 continents. C'est l'un des monuments les plus reconnaissables du monde."
+    },
+    {
+      "id": 7,
+      "niveau": 1,
+      "question": "Quel artiste espagnol est connu pour ses montres molles dans 'La Persistance de la mémoire' ?",
+      "reponse": "Salvador Dalí",
+      "variantes": [
+        "Dali",
+        "Salvador Dali",
+        "dalí"
+      ],
+      "anecdote": "Salvador Dalí (1904-1989) peignit 'La Persistance de la mémoire' en 1931, un petit tableau de 24×33 cm représentant des montres molles dans un paysage côtier catalan. Ce tableau surréaliste est l'une des images les plus reconnaissables du XXe siècle. Dalí affirmait avoir eu l'idée en regardant fondre un camembert."
+    },
+    {
+      "id": 8,
+      "niveau": 2,
+      "question": "Quel mouvement artistique est associé à Claude Monet, Edgar Degas et Pierre-Auguste Renoir ?",
+      "reponse": "L'impressionnisme",
+      "variantes": [
+        "Impressionnisme"
+      ],
+      "anecdote": "L'impressionnisme constitue un tournant majeur dans l'histoire de l'art. En rompant avec les règles académiques traditionnelles, il ouvre la voie à l'art moderne. Comprendre ce mouvement permet de mieux saisir l'évolution de la peinture aux XIXe et XXe siècles, ainsi que l'importance de la lumière, de la couleur et de la perception dans la création artistique. C'est également l'un des mouvements les plus connus et les plus représentés dans les musées du monde entier."
+    },
+    {
+      "id": 9,
+      "niveau": 1,
+      "question": "Comment appelle-t-on un artiste qui fait des sculptures ?",
+      "reponse": "Sculpteur",
+      "variantes": [
+        "un sculpteur",
+        "plasticien"
+      ],
+      "anecdote": "Un sculpteur est un artiste qui crée des œuvres tridimensionnelles en modelant, taillant, assemblant ou moulant des matériaux (pierre, bois, métal, argile, etc.). Parmi les plus célèbres : Michel-Ange (David, Pietà), Auguste Rodin (Le Penseur), Constantin Brâncuși (La Colonne sans fin) et Alberto Giacometti (hommes filiformes)."
+    },
+    {
+      "id": 10,
+      "niveau": 1,
+      "question": "Quelle couleur symbolise traditionnellement la passion et l'amour en Occident ?",
+      "reponse": "Rouge",
+      "variantes": [
+        "le rouge",
+        "la couleur rouge"
+      ],
+      "anecdote": "Le rouge est la couleur associée à la passion, l'amour, le danger et le sang dans la symbolique occidentale. Dans d'autres cultures, les associations sont différentes : en Chine, le rouge symbolise la chance et la prospérité ; en Inde, il évoque la pureté et est la couleur des mariées. Les peintures rupestres préhistoriques utilisaient déjà de l'ocre rouge, l'un des premiers pigments utilisés par l'humanité."
+    },
+    {
+      "id": 11,
+      "niveau": 2,
+      "question": "Quel mouvement artistique du début du XXe siècle, fondé par Picasso, décompose les objets en formes géométriques ?",
+      "reponse": "Cubisme",
+      "variantes": [
+        "le cubisme",
+        "peinture cubiste"
+      ],
+      "anecdote": "Le cubisme fut fondé vers 1907 par Pablo Picasso et Georges Braque. Il représente les sujets simultanément de plusieurs angles de vue dans la même image, décomposant les formes en facettes géométriques. 'Les Demoiselles d'Avignon' (1907) de Picasso est considéré comme le premier tableau cubiste. Le terme 'cubisme' fut inventé de façon moqueuse par un critique d'art."
+    },
+    {
+      "id": 12,
+      "niveau": 2,
+      "question": "Quel sculpteur français a réalisé 'Le Penseur' ?",
+      "reponse": "Auguste Rodin",
+      "variantes": [
+        "Rodin",
+        "august rodin"
+      ],
+      "anecdote": "Auguste Rodin (1840-1917) créa Le Penseur en 1880 comme élément d'une grande porte en bronze ('La Porte de l'Enfer'). À l'origine, la figure représentait Dante contemplant les Enfers. Il en existe de nombreux moulages, dont l'original au musée Rodin à Paris. Rodin révolutionna la sculpture en s'affranchissant des conventions académiques."
+    },
+    {
+      "id": 13,
+      "niveau": 4,
+      "question": "Quelle est la technique picturale qui consiste à peindre sur un crépi de plâtre humide ?",
+      "reponse": "Fresque",
+      "variantes": [
+        "la fresque",
+        "fresco",
+        "peinture à fresque"
+      ],
+      "anecdote": "La fresque (de l'italien 'fresco', frais) est une technique de peinture murale exécutée sur un crépi humide. Le pigment s'incorpore à la chaux en séchant, créant une peinture extrêmement durable. La chapelle Sixtine, peinte par Michel-Ange (1508-1512), est la plus célèbre réalisation en fresque. La technique était déjà utilisée par les Égyptiens et les Grecs anciens."
+    },
+    {
+      "id": 14,
+      "niveau": 4,
+      "question": "Quel artiste norvégien a peint 'Le Cri' en 1893 ?",
+      "reponse": "Edvard Munch",
+      "variantes": [
+        "Munch",
+        "edvard munch"
+      ],
+      "anecdote": "Edvard Munch (1863-1944) peignit plusieurs versions du Cri, l'œuvre la plus célèbre de la peinture expressionniste. L'artiste décrivit une expérience d'angoisse existentielle lors d'une promenade où le ciel devint rouge sang. Cette image, avec sa figure agonisante sur un paysage tourbillonnant, est devenue un symbole universel de l'anxiété moderne."
+    },
+    {
+      "id": 15,
+      "niveau": 2,
+      "question": "Quel style architectural est caractérisé par de hautes cathédrales avec des arcs en ogive et des vitraux colorés ?",
+      "reponse": "Gothique",
+      "variantes": [
+        "le gothique",
+        "architecture gothique",
+        "style gothique"
+      ],
+      "anecdote": "L'architecture gothique s'est développée en France au XIIe siècle, remplaçant le style roman. Ses innovations principales — l'arc en ogive, la voûte sur croisée d'ogives et l'arc-boutant — permettaient de construire des murs plus fins et plus hauts, inondés de lumière grâce aux vitraux. Notre-Dame de Paris et la cathédrale de Chartres en sont des exemples emblématiques."
+    },
+    {
+      "id": 17,
+      "niveau": 1,
+      "question": "Comment appelle-t-on l'art de plier le papier pour créer des formes et des figures ?",
+      "reponse": "Origami",
+      "variantes": [
+        "l'origami"
+      ],
+      "anecdote": "L'origami est un art traditionnel japonais dont le nom signifie littéralement « papier plié » (oru = plier, kami = papier). Bien que ses origines remontent à plusieurs siècles, il s'est popularisé dans le monde entier au XXe siècle. Les artistes contemporains d'origami parviennent aujourd'hui à créer des œuvres extrêmement complexes, allant d'animaux réalistes à des structures inspirées des mathématiques et de l'ingénierie."
+    },
+    {
+      "id": 17,
+      "niveau": 1,
+      "question": "Quel palais royal français est célèbre pour sa galerie des Glaces et ses jardins à la française ?",
+      "reponse": "Versailles",
+      "variantes": [
+        "Château de Versailles",
+        "le château de Versailles",
+        "le Palais de Versailles"
+      ],
+      "anecdote": "Le château de Versailles, construit sous Louis XIV au XVIIe siècle, est le symbole de l'absolutisme royal français. Sa galerie des Glaces (75 m de long, 357 miroirs) fut conçue pour impressionner les visiteurs étrangers. Le traité de Versailles (1919) y fut signé. Classé au patrimoine mondial de l'UNESCO, il reçoit 7 millions de visiteurs par an."
+    },
+    {
+      "id": 18,
+      "niveau": 2,
+      "question": "Quel artiste pop art américain est célèbre pour ses sérigraphies de Marilyn Monroe et de boîtes de soupe Campbell ?",
+      "reponse": "Andy Warhol",
+      "variantes": [
+        "Warhol",
+        "andy warhol"
+      ],
+      "anecdote": "Andy Warhol (1928-1987) est la figure centrale du Pop Art américain. Ses sérigraphies répétitives de Marilyn Monroe, Mao Zedong et des boîtes Campbell questionnaient la relation entre art, célébrité et consommation de masse. Il dit sa phrase la plus célèbre : 'Dans le futur, tout le monde aura droit à 15 minutes de célébrité.' Sa Factory new-yorkaise était un centre créatif et social légendaire."
+    },
+    {
+      "id": 19,
+      "niveau": 2,
+      "question": "Quel est le nom de la plus haute catégorie de récompense au Festival de Cannes ?",
+      "reponse": "Palme d'Or",
+      "variantes": [
+        "la Palme d'Or",
+        "palme d'or"
+      ],
+      "anecdote": "La Palme d'Or est la récompense suprême du Festival de Cannes, créé en 1946. La palme d'or actuelle fut introduite en 1955. Parmi les films doublement palmés : 'L'Enfance nue' (jamais) — il n'y en a eu qu'un seul deux fois. Francis Ford Coppola remporta deux fois la Palme : pour Conversation secrète (1974) et Apocalypse Now (1979). La France domine le palmarès historique."
+    },
+    {
+      "id": 20,
+      "niveau": 2,
+      "question": "Comment appelle-t-on la technique picturale utilisant des pigments dilués dans l'eau et appliqués sur du papier humide ou sec ?",
+      "reponse": "Aquarelle",
+      "variantes": [
+        "peinture à l'aquarelle",
+        "aquarelle"
+      ],
+      "anecdote": "L'aquarelle utilise des pigments finement moulus en suspension dans de l'eau. Sa transparence caractéristique vient du fait que la luminosité du papier blanc transparaît à travers les couches de peinture. Le maître Albrecht Dürer a réalisé des aquarelles botaniques et zoologiques extraordinaires au XVIe siècle. William Turner révolutionna le paysage aquarellé au XIXe siècle."
+    },
+    {
+      "id": 21,
+      "niveau": 5,
+      "question": "Quel peintre espagnol du XVIe siècle était connu sous le surnom 'le Greco' ?",
+      "reponse": "Doménikos Theotokópoulos",
+      "variantes": [
+        "El Greco",
+        "le Greco",
+        "Domenikos Theotokopoulos"
+      ],
+      "anecdote": "El Greco (Doménikos Theotokópoulos, 1541-1614) était originaire de Crète (d'où son surnom 'le Grec'). Formé dans la tradition byzantine, puis influencé par le maniérisme vénitien (Titien) et romain (Michel-Ange), il développa un style unique reconnaissable à ses figures allongées, ses couleurs froides et ses compositions dynamiques. Il travailla principalement à Tolède en Espagne."
+    },
+    {
+      "id": 22,
+      "niveau": 3,
+      "question": "Quelle est la technique picturale qui consiste à appliquer une couche de peinture opaque sur du papier, sans transparence ?",
+      "reponse": "Gouache",
+      "variantes": [
+        "la gouache",
+        "peinture à la gouache"
+      ],
+      "anecdote": "La gouache (du latin 'guazzo', boueux) est une peinture opaque à base d'eau avec plus de pigments et de charge blanche que l'aquarelle. Sa matité et son opacité permettent de peindre des couleurs claires sur des fonds sombres — impossible en aquarelle. Largement utilisée en illustration, en affiche et en design, elle a été popularisée par des artistes comme Matisse, Picasso et les graphistes Art Nouveau."
+    },
+    {
+      "id": 23,
+      "niveau": 2,
+      "question": "Quel mouvement artistique de la fin du XIXe siècle cherchait à capturer les effets de la lumière par des touches divisées de couleur pure ?",
+      "reponse": "Impressionnisme",
+      "variantes": [
+        "l'impressionnisme",
+        "peinture impressionniste"
+      ],
+      "anecdote": "L'impressionnisme, né en France vers 1860-1870, fut baptisé ainsi par moquerie d'après le tableau 'Impression, soleil levant' (1872) de Monet. Les impressionnistes (Monet, Renoir, Degas, Pissarro, Sisley) peignaient souvent en plein air pour saisir les variations de lumière. Refusés à l'Académie, ils organisèrent leur propre exposition en 1874 — un scandale qui devint une révolution artistique."
+    },
+    {
+      "id": 24,
+      "niveau": 2,
+      "question": "Quel artiste a peint le plafond de la Chapelle Sixtine à Rome ?",
+      "reponse": "Michel-Ange",
+      "variantes": [
+        "Michelangelo",
+        "Michel Ange",
+        "Buonarroti"
+      ],
+      "anecdote": "Michel-Ange (1475-1564) peignit le plafond de la Chapelle Sixtine entre 1508 et 1512, sur commande du pape Jules II. Cette fresque de 500 m² représente des scènes de la Genèse, dont la célèbre 'Création d'Adam'. Michel-Ange travailla allongé sur des échafaudages, subissant des problèmes de dos et de vue. Il ajouta le Jugement dernier sur le mur du fond trente ans plus tard."
+    },
+    {
+      "id": 25,
+      "niveau": 2,
+      "question": "Quel courant artistique de la première moitié du XIXe siècle se caractérise par la mise en valeur des émotions, l'exotisme et la nature sauvage ?",
+      "reponse": "Romantisme",
+      "variantes": [
+        "le romantisme",
+        "peinture romantique"
+      ],
+      "anecdote": "Le Romantisme (fin XVIIIe - milieu XIXe siècle) réagit contre le rationalisme des Lumières en valorisant l'émotion, l'imagination, la nature sauvage et le passé médiéval. En peinture, Eugène Delacroix ('La Liberté guidant le peuple') en France et Caspar David Friedrich en Allemagne en sont les représentants majeurs. William Turner représente le Romantisme britannique avec ses tempêtes et naufrages."
+    },
+    {
+      "id": 26,
+      "niveau": 2,
+      "question": "Quel célèbre tableau de Pablo Picasso représente le bombardement d'une ville basque pendant la guerre civile espagnole en 1937 ?",
+      "reponse": "Guernica",
+      "variantes": [
+        "guernica",
+        "le Guernica"
+      ],
+      "anecdote": "Guernica (1937) est un tableau monumental (3,49 × 7,76 m) en noir, blanc et gris de Pablo Picasso, réalisé en réponse au bombardement de la ville basque de Guernica par l'aviation nazie et fasciste lors de la guerre civile espagnole. C'est l'œuvre pacifiste la plus célèbre du XXe siècle. Picasso refusa qu'elle retourne en Espagne tant que Franco était au pouvoir."
+    },
+    {
+      "id": 27,
+      "niveau": 2,
+      "question": "Comment appelle-t-on la période de renouveau artistique et culturel européen du XIVe au XVIIe siècle ?",
+      "reponse": "Renaissance",
+      "variantes": [
+        "la Renaissance",
+        "la Renaissance italienne"
+      ],
+      "anecdote": "La Renaissance (du XIVe au XVIIe siècle) fut une période de renouveau culturel et artistique en Europe, prenant pour modèle l'Antiquité gréco-romaine. Elle commença en Italie (Florence sous les Médicis) et se répandit dans toute l'Europe. Elle vit l'émergence de la perspective en peinture, du portrait individuel, et de géants comme Léonard de Vinci, Michel-Ange et Raphaël."
+    },
+    {
+      "id": 28,
+      "niveau": 2,
+      "question": "Quel matériau de base est utilisé en poterie et en céramique ?",
+      "reponse": "Argile",
+      "variantes": [
+        "la glaise",
+        "l'argile",
+        "l'terre cuite",
+        "de la terre"
+      ],
+      "anecdote": "L'argile est une roche sédimentaire composée principalement de silicates d'aluminium hydratés. Sa plasticité lorsqu'elle est humide et sa dureté après cuisson en font le matériau de base de la poterie depuis 20 000 ans. La céramique de Jōmon japonaise (10 000 av. J.-C.) est parmi les plus anciennes connues. Le four (up to 1400°C) transform l'argile en céramique vitreuse irréversiblement."
+    },
+    {
+      "id": 29,
+      "niveau": 4,
+      "question": "Quels architectes français ont conçu la structure en fer du centre Pompidou à Paris, inauguré en 1977 ?",
+      "reponse": "Renzo Piano et Richard Rogers",
+      "variantes": [
+        "Piano et Rogers",
+        "Renzo Piano",
+        "Richard Rogers",
+        "Piano",
+        "Rogers"
+      ],
+      "anecdote": "Le Centre Pompidou (ou Centre Beaubourg) fut conçu par Renzo Piano (architecte italien) et Richard Rogers (architecte britannique). Inauguré en 1977, son architecture 'high-tech' — avec toutes les structures (escaliers, conduites, climatisation) exposées à l'extérieur et peintes par couleur selon leur fonction — fut un scandale puis une révolution. C'est l'un des musées d'art moderne les plus visités du monde."
+    },
+    {
+      "id": 30,
+      "niveau": 3,
+      "question": "Comment appelle-t-on l'art de la mise en page, des caractères et de l'impression, qui associe texte et image dans un espace graphique ?",
+      "reponse": "Typographie",
+      "variantes": [
+        "design graphique",
+        "la typographie",
+        "les arts graphiques"
+      ],
+      "anecdote": "La typographie est l'art d'organiser les caractères écrits de manière esthétique et lisible. Elle révolutionna le monde lors de l'invention de la presse à caractères mobiles par Gutenberg (vers 1450). Les polices de caractères (Times New Roman, Helvetica, Garamond, etc.) sont des créations artistiques protégées. Apple, sous Steve Jobs, fut l'un des pionniers de la typographie numérique."
+    },
+    {
+      "id": 31,
+      "niveau": 4,
+      "question": "Quel peintre hollandais du XVIIe siècle est célèbre pour ses portraits et l'usage du clair-obscur dans des toiles comme 'La Ronde de nuit' ?",
+      "reponse": "Rembrandt",
+      "variantes": [
+        "Rembrandt van Rijn",
+        "rembrandt"
+      ],
+      "anecdote": "Rembrandt van Rijn (1606-1669) est considéré comme le plus grand peintre hollandais et l'un des maîtres du clair-obscur. 'La Ronde de nuit' (1642) est son chef-d'œuvre, montrant une compagnie de la garde civique d'Amsterdam. Rembrandt peignit également environ 80 autoportraits, un record dans l'histoire de l'art, documentant son vieillissement."
+    },
+    {
+      "id": 32,
+      "niveau": 4,
+      "question": "Quel mouvement avant-gardiste fondé en 1916 à Zurich cherchait à détruire toute logique et à promouvoir l'absurde dans l'art ?",
+      "reponse": "Dadaïsme",
+      "variantes": [
+        "dada",
+        "le dadaïsme",
+        "Dada"
+      ],
+      "anecdote": "Le mouvement Dada fut fondé en 1916 au Cabaret Voltaire à Zurich par Tristan Tzara, Hugo Ball et d'autres artistes en réaction à l'absurdité de la Première Guerre mondiale. Son nom lui-même est délibérément absurde (signifiant 'dada' en argot enfantin). Marcel Duchamp, son représentant le plus célèbre, prit un urinoir, le signa et l'exposa comme œuvre d'art ('Fontaine', 1917) — un geste révolutionnaire dans l'histoire de l'art conceptuel."
+    },
+    {
+      "id": 33,
+      "niveau": 3,
+      "question": "Quel architecte espagnol a conçu la basilique de la Sagrada Familia à Barcelone, toujours en construction ?",
+      "reponse": "Antoni Gaudí",
+      "variantes": [
+        "Gaudí",
+        "Gaudi",
+        "Antoni Gaudi"
+      ],
+      "anecdote": "Antoni Gaudí (1852-1926) commença la construction de la Sagrada Familia à Barcelone en 1882 et y travailla jusqu'à sa mort. Le projet est toujours en cours, plus de 140 ans après son début. Gaudí est connu pour son style organique et catalan unique, inspiré par la nature. Il mourut renversé par un tramway et fut enterré dans la crypte de la Sagrada Familia."
+    },
+    {
+      "id": 34,
+      "niveau": 4,
+      "question": "Quel peintre français post-impressionniste, ami de Van Gogh, fut connu pour ses peintures de la vie en Polynésie ?",
+      "reponse": "Paul Gauguin",
+      "variantes": [
+        "Gauguin",
+        "paul gauguin"
+      ],
+      "anecdote": "Paul Gauguin (1848-1903) abandonna sa famille et sa carrière de courtier pour se consacrer à la peinture. Après avoir vécu à Pont-Aven (Bretagne) et à Arles avec Van Gogh (une cohabitation qui tourna mal), il s'installa à Tahiti puis aux Marquises. Ses œuvres polynésiennes — aux couleurs vives et aux formes simplifiées — influencèrent profondément l'art primitif du XXe siècle."
+    },
+    {
+      "id": 35,
+      "niveau": 4,
+      "question": "Quel artiste allemand de la Renaissance est l'auteur de la célèbre gravure « Melencolia I » ?",
+      "reponse": "Albrecht Dürer",
+      "variantes": [
+        "Durer",
+        "Albrecht Durer",
+        "Dürer"
+      ],
+      "anecdote": "Réalisée en 1514, « Melencolia I » est l'une des gravures les plus étudiées de l'histoire de l'art. Elle représente une figure ailée mélancolique entourée d'instruments scientifiques, géométriques et artisanaux. L'œuvre est célèbre pour son symbolisme complexe, son carré magique et les nombreuses interprétations qu'elle suscite encore aujourd'hui. Albrecht Dürer est considéré comme l'un des plus grands maîtres de la gravure de la Renaissance."
+    },
+    {
+      "id": 36,
+      "niveau": 2,
+      "question": "Quelle artiste mexicaine est célèbre pour ses autoportraits mêlant traditions mexicaines et douleurs personnelles ?",
+      "reponse": "Frida Kahlo",
+      "variantes": [
+        "Frida Kahlo",
+        "frida kahlo",
+        "Kahlo"
+      ],
+      "anecdote": "Frida Kahlo (1907-1954) peignit principalement des autoportraits explorant sa douleur physique (séquelles d'un grave accident de bus à 18 ans) et émotionnelle (sa relation tumultueuse avec Diego Rivera). Elle disait : 'Je me peins parce que je suis la personne que je connais le mieux.' Ses tableaux combinent la tradition mexicaine (costumes tehuana, animaux symboliques) au surréalisme."
+    },
+    {
+      "id": 37,
+      "niveau": 4,
+      "question": "Quel artiste américain des années 1960 est associé à des toiles de couleur pure, sans figuration ni narration ?",
+      "reponse": "Mark Rothko",
+      "variantes": [
+        "Rothko",
+        "mark rothko"
+      ],
+      "anecdote": "Mark Rothko (1903-1970) est l'un des principaux représentants de l'expressionnisme abstrait. Ses tableaux tardifs — de grandes toiles de couleurs lumineuses superposées aux bords estompés — cherchent à créer une expérience émotionnelle transcendante chez le spectateur. Rothko disait vouloir provoquer des émotions basiques (tragédie, extase). Il se suicida en 1970."
+    },
+    {
+      "id": 38,
+      "niveau": 4,
+      "question": "Quel est le nom de la technique japonaise de gravure sur bois qui a influencé les impressionnistes ?",
+      "reponse": "Ukiyo-e",
+      "variantes": [
+        "ukiyoe",
+        "estampe japonaise",
+        "ukiyo-e"
+      ],
+      "anecdote": "L'ukiyo-e (images du monde flottant) est un style de gravure sur bois japonais des XVIIe-XIXe siècles représentant des acteurs, geishas, paysages et scènes de la vie quotidienne. Katsushika Hokusai ('La Grande Vague de Kanagawa') et Utagawa Hiroshige ('Les 53 Stations du Tōkaidō') en sont les maîtres. Découvertes en Europe lors de l'ouverture du Japon, elles influencèrent profondément Monet, Degas, Van Gogh et Toulouse-Lautrec."
+    },
+    {
+      "id": 39,
+      "niveau": 2,
+      "question": "Quel mouvement artistique et littéraire des années 1920 explorait l'inconscient et le rêve, fondé par André Breton ?",
+      "reponse": "Surréalisme",
+      "variantes": [
+        "le surréalisme",
+        "peinture surréaliste"
+      ],
+      "anecdote": "Le Surréalisme fut fondé par André Breton avec son 'Manifeste du surréalisme' (1924), s'inspirant des théories freudiennes sur l'inconscient. Les surréalistes (Dalí, Magritte, Ernst, Miró, De Chirico) cherchaient à libérer l'art de la raison et à représenter le rêve. Leurs techniques incluaient le cadavre exquis (dessin collaboratif à l'aveugle) et l'écriture automatique."
+    },
+    {
+      "id": 40,
+      "niveau": 4,
+      "question": "Quel peintre français du XIXe siècle fut le pionnier du néo-impressionnisme avec la technique du pointillisme ?",
+      "reponse": "Georges Seurat",
+      "variantes": [
+        "Seurat",
+        "Georges-Pierre Seurat"
+      ],
+      "anecdote": "Georges Seurat (1859-1891) développa le pointillisme (ou divisionnisme) : au lieu de mélanger les couleurs sur la palette, il les posait en petites touches pures sur la toile, laissant l'œil du spectateur les fusionner. Son chef-d'œuvre 'Un dimanche après-midi à l'île de la Grande Jatte' (1884-1886) lui prit deux ans. Seurat mourut à 31 ans, emportant le secret de sa technique."
+    },
+    {
+      "id": 41,
+      "niveau": 4,
+      "question": "Quel peintre flamand du XVIIe siècle est célèbre pour ses triptyques de la chasse, ses scènes mythologiques et sa palette colorée ?",
+      "reponse": "Pierre Paul Rubens",
+      "variantes": [
+        "Rubens",
+        "Peter Paul Rubens",
+        "Pierre Paul Rubens"
+      ],
+      "anecdote": "Pierre Paul Rubens (1577-1640) fut le peintre baroque flamand le plus influent. Son atelier d'Anvers fonctionnait comme une véritable usine à peinture, employant de nombreux collaborateurs dont van Dyck. Rubens était aussi un diplomat réputé, négociant des traités de paix pour les Habsbourg. Ses représentations de corps féminins généreux donnèrent le terme péjoratif 'rubénesque'."
+    },
+    {
+      "id": 42,
+      "niveau": 4,
+      "question": "Quel est le nom du courant artistique fondé par Mondrian qui utilise uniquement des lignes droites et les trois couleurs primaires ?",
+      "reponse": "De Stijl (néoplasticisme)",
+      "variantes": [
+        "De Stijl",
+        "Néoplasticisme",
+        "néoplasticisme"
+      ],
+      "anecdote": "De Stijl ('Le Style' en néerlandais) fut fondé en 1917 aux Pays-Bas par Piet Mondrian et Theo van Doesburg. Ce mouvement préconisait une abstraction totale : uniquement des lignes horizontales et verticales, et les couleurs primaires (rouge, jaune, bleu) plus le blanc, le noir et le gris. Ces principes influencèrent profondément l'architecture (Rietveld), le design graphique et le mobilier modernes."
+    },
+    {
+      "id": 43,
+      "niveau": 3,
+      "question": "Quel artiste belge surréaliste est connu pour des images énigmatiques comme 'Ceci n'est pas une pipe' ?",
+      "reponse": "René Magritte",
+      "variantes": [
+        "Magritte",
+        "rené magritte"
+      ],
+      "anecdote": "René Magritte (1898-1967) peignit 'La Trahison des images' (1929), sur lequel est peinte une pipe avec la légende 'Ceci n'est pas une pipe'. La pipe dans le tableau n'est pas une vraie pipe, mais une représentation d'une pipe — une réflexion philosophique sur le rapport entre image et réalité. Magritte voulait provoquer une 'crise de la conscience ordinaire' chez le spectateur."
+    },
+    {
+      "id": 44,
+      "niveau": 4,
+      "question": "Quel mouvement artistique apparu aux États-Unis dans les années 1940-1950 mit l'accent sur le geste expressif et l'acte même de peindre ?",
+      "reponse": "Expressionnisme abstrait",
+      "variantes": [
+        "l'expressionnisme abstrait",
+        "Abstract Expressionism",
+        "l'action painting"
+      ],
+      "anecdote": "L'expressionnisme abstrait, mouvement new-yorkais de l'après-guerre, comprend deux tendances : le 'action painting' (Pollock, De Kooning) où le geste et le mouvement sont essentiels, et le 'Color Field' (Rothko, Newman) où de larges plages de couleur génèrent une expérience émotionnelle. Jackson Pollock était connu pour projeter de la peinture sur des toiles posées au sol — une technique appelée 'dripping'."
+    },
+    {
+      "id": 45,
+      "niveau": 4,
+      "question": "Quel est le nom du tableau de Jan Vermeer représentant une jeune femme avec une boucle d'oreille en perle ?",
+      "reponse": "La Jeune Fille à la perle",
+      "variantes": [
+        "Jeune fille à la perle",
+        "la fille à la perle",
+        "Girl with a Pearl Earring"
+      ],
+      "anecdote": "Jan Vermeer peignit 'La Jeune Fille à la perle' (vers 1665), une tronie (étude de visage expressif) souvent comparée à la Joconde pour son regard énigmatique. Exposée au Mauritshuis à La Haye, elle est l'œuvre la plus célèbre des Pays-Bas. Tracy Chevalier en fit un roman (1999) qui fut adapté au cinéma avec Scarlett Johansson (2003)."
+    },
+    {
+      "id": 46,
+      "niveau": 4,
+      "question": "Quelle école d'art et de design allemande (1919-1933) fut fondamentale dans le développement du design industriel moderne ?",
+      "reponse": "Bauhaus",
+      "variantes": [
+        "le Bauhaus",
+        "l'école du Bauhaus",
+        "Staatliches Bauhaus"
+      ],
+      "anecdote": "Le Bauhaus ('maison de la construction' en allemand) fut fondé en 1919 à Weimar par Walter Gropius. Son principe : l'art et l'artisanat doivent se rejoindre dans un design fonctionnel et beau. Ses maîtres — Kandinsky, Klee, Moholy-Nagy — influencèrent profondément l'architecture, la typographie et le design industriel du XXe siècle. Fermé par les nazis en 1933, de nombreux membres émigrèrent aux États-Unis."
+    },
+    {
+      "id": 47,
+      "niveau": 4,
+      "question": "Quel peintre symboliste français est connu pour ses tableaux de jeunes filles au bord de l'eau, d'une grande mélancolie ?",
+      "reponse": "Fernand Khnopff",
+      "variantes": [
+        "Gustave Moreau",
+        "Gustave Klimt",
+        "Odilon Redon"
+      ],
+      "anecdote": "Odilon Redon (1840-1916) fut l'un des chefs de file du symbolisme français. Ses premières œuvres en fusain ('noirs') représentaient des visions fantastiques, avant qu'il adopte des couleurs pastel lumineuses (fleurs, portraits) dans sa période tardive. Ses peintures oniriques et mystérieuses influencèrent profondément les surréalistes."
+    },
+    {
+      "id": 48,
+      "niveau": 4,
+      "question": "Quel artiste britannique contemporain est célèbre pour ses œuvres provocatrices comme un requin dans du formol ('The Physical Impossibility of Death in the Mind of Someone Living') ?",
+      "reponse": "Damien Hirst",
+      "variantes": [
+        "Hirst",
+        "damien hirst"
+      ],
+      "anecdote": "Damien Hirst (né en 1965) est l'artiste britannique le plus célèbre de sa génération. Ses œuvres explorent les thèmes de la mort, de la vie et de la maladie. Son requin tigre dans du formol (1991) fut vendu 8 millions de dollars. Il fut aussi connu pour ses 'spot paintings' (cercles colorés) produits industriellement par son équipe, ce qui souleva des questions sur la nature de la création artistique."
+    },
+    {
+      "id": 49,
+      "niveau": 3,
+      "question": "Quel est le nom de la technique consistant à créer une image par accumulation de petites tesselles de verre ou de pierre colorées ?",
+      "reponse": "Mosaïque",
+      "variantes": [
+        "la mosaïque",
+        "mosaic"
+      ],
+      "anecdote": "La mosaïque est l'une des plus anciennes techniques décoratives, pratiquée depuis l'Antiquité (Mésopotamie, Grèce, Rome). L'apogée de cet art fut l'Empire byzantin : les mosaïques de Ravenne (IVe-VIe siècle) et de la basilique Sainte-Sophie à Constantinople sont parmi les plus belles au monde. La technique fut reprise par Gaudí (parc Güell) et des artistes contemporains."
+    },
+    {
+      "id": 50,
+      "niveau": 3,
+      "question": "Quel courant artistique du début du XXe siècle, fondé par Kazimir Malevitch, prônait la suprématie des formes géométriques pures ?",
+      "reponse": "Suprématisme",
+      "variantes": [
+        "Le suprématisme",
+        "le suprematisme",
+        "suprematisme"
+      ],
+      "anecdote": "Le suprématisme est un mouvement d'avant-garde russe créé par Kazimir Malevitch vers 1915. Il cherche à libérer l'art de la représentation du monde réel en utilisant des formes géométriques simples comme le carré, le cercle ou la croix. L'œuvre la plus emblématique du mouvement est « Carré noir sur fond blanc », un tableau devenu un symbole majeur de l'abstraction moderne."
+    },
+    {
+      "id": 51,
+      "niveau": 3,
+      "question": "Quel peintre baroque espagnol, peintre de la cour royale, est célèbre pour 'Las Meninas' ?",
+      "reponse": "Diego Vélasquez",
+      "variantes": [
+        "Velasquez",
+        "Vélasquez",
+        "Diego Velasquez"
+      ],
+      "anecdote": "Diego Velázquez (1599-1660) fut le peintre de la cour du roi Philippe IV d'Espagne. 'Las Meninas' (1656) est son chef-d'œuvre et l'une des œuvres les plus analysées de l'histoire de l'art : une composition complexe où le peintre se représente en train de peindre le roi et la reine (reflétés dans un miroir), entouré de la famille royale. Foucault et Picasso lui consacrèrent des analyses approfondies."
+    },
+    {
+      "id": 52,
+      "niveau": 4,
+      "question": "Quel architecte américain développa le style 'prairie' et est considéré comme le père de l'architecture organique ?",
+      "reponse": "Frank Lloyd Wright",
+      "variantes": [
+        "Wright",
+        "frank lloyd wright"
+      ],
+      "anecdote": "Frank Lloyd Wright (1867-1959) est l'architecte américain le plus influent du XXe siècle. Sa 'Maison sur la cascade' (Fallingwater, 1935) — construite au-dessus d'une chute d'eau — est considérée comme le meilleur exemple d'architecture organique. Son Musée Solomon R. Guggenheim de New York (1959), en spirale hélicoïdale, révolutionna les espaces muséaux. Il construisit plus de 1 000 bâtiments."
+    },
+    {
+      "id": 53,
+      "niveau": 4,
+      "question": "Quel artiste français du XIXe siècle, malade d'arthrite rhumatoïde, était connu pour ses affiches du Moulin Rouge et ses peintures de cabarets parisiens ?",
+      "reponse": "Henri de Toulouse-Lautrec",
+      "variantes": [
+        "Toulouse-Lautrec",
+        "Lautrec",
+        "toulouse lautrec"
+      ],
+      "anecdote": "Henri de Toulouse-Lautrec (1864-1901) était issu de l'aristocratie, mais une maladie génétique l'avait rendu nain (1,52 m adulte). Il vécut dans le monde de Montmartre (cabarets, dancings, maisons closes) et en fut le chroniqueur intransigeant. Ses affiches lithographiques au trait vigoureux et aux couleurs plates révolutionnèrent l'art de l'affiche. Il mourut alcoolique à 36 ans."
+    },
+    {
+      "id": 54,
+      "niveau": 4,
+      "question": "Quel est le nom de la technique photographique pionnière inventée par Louis Daguerre en 1839 ?",
+      "reponse": "Daguerréotype",
+      "variantes": [
+        "le daguerréotype",
+        "daguerreotype"
+      ],
+      "anecdote": "Le daguerréotype (1839) fut le premier procédé photographique pratique, produisant une image positive unique sur une plaque de cuivre argentée sensibilisée à l'iodure d'argent. Annoncé publiquement le 7 janvier 1839, il révolutionna le portrait (rôle jusqu'alors dévolu à la peinture). Le procédé nécessitait de longues expositions (plusieurs minutes), obligeant les sujets à rester immobiles."
+    },
+    {
+      "id": 55,
+      "niveau": 3,
+      "question": "Quel est le nom du style décoratif de la fin du XIXe siècle caractérisé par des formes organiques inspirées de la nature, de courbes sinueuses et d'arabesques ?",
+      "reponse": "Art Nouveau",
+      "variantes": [
+        "le style Art Nouveau",
+        "art nouveau",
+        "style 1900",
+        "Jugendstil"
+      ],
+      "anecdote": "L'Art Nouveau (1890-1910) est un style international connu sous différents noms : Jugendstil en Allemagne, Secessionism en Autriche, Liberty en Italie. Ses caractéristiques : lignes courbes organiques inspirées de la flore, utilisation du fer forgé, du verre et des émaux. Klimt, Mucha, Horta et Guimard (entrées du métro parisien) en sont les représentants majeurs."
+    },
+    {
+      "id": 56,
+      "niveau": 4,
+      "question": "Quel peintre symboliste autrichien est célèbre pour 'Le Baiser' et ses motifs dorés inspirés des mosaïques byzantines ?",
+      "reponse": "Gustav Klimt",
+      "variantes": [
+        "Klimt",
+        "Gustav Klimt"
+      ],
+      "anecdote": "Gustav Klimt (1862-1918) fut le fondateur de la Sécession viennoise. Son style 'doré' (1907-1909) est inspiré des mosaïques byzantines de Ravenne qu'il avait visitées. 'Le Baiser' (1907-1908) est son œuvre la plus célèbre, couverte d'or réel (feuilles d'or). Klimt peignit exclusivement des femmes (ses mécènes de la bourgeoisie juive viennoise) et des paysages — jamais d'autoportrait."
+    },
+    {
+      "id": 57,
+      "niveau": 3,
+      "question": "Quel est le nom du mouvement artistique né en Allemagne qui déforma les formes pour exprimer des états émotionnels intérieurs ?",
+      "reponse": "Expressionnisme",
+      "variantes": [
+        "l'expressionnisme",
+        "peinture expressionniste"
+      ],
+      "anecdote": "L'Expressionnisme allemand (1905-1930) se manifesta dans deux groupes : Die Brücke ('Le Pont', Kirchner, Schmidt-Rottluff) à Dresde et Der Blaue Reiter ('Le Cavalier bleu', Kandinsky, Marc) à Munich. Ces artistes déformaient délibérément la réalité pour exprimer des émotions (angoisse, désir, spiritualité). Leurs couleurs criardes et leurs formes anguleuses influencèrent profondément le cinéma expressionniste allemand."
+    },
+    {
+      "id": 58,
+      "niveau": 4,
+      "question": "Quel architecte français conçut la Pyramide du Louvre inaugurée en 1989 ?",
+      "reponse": "Ieoh Ming Pei",
+      "variantes": [
+        "I.M. Pei",
+        "IM Pei",
+        "Ieoh Ming Pei",
+        "Pei"
+      ],
+      "anecdote": "Ieoh Ming Pei (1917-2019), architecte sino-américain, conçut la Pyramide du Louvre (21 m de haut, 603 losanges de verre) inaugurée en 1989. Sa conception fut extrêmement controversée à l'annonce — perçue comme une intrusion moderniste dans l'architecture classique du palais. Elle est aujourd'hui l'entrée principale du Louvre et une icône architecturale. Pei est aussi l'auteur de la Pyramide de Verre du Musée de Boston (MFA)."
+    },
+    {
+      "id": 59,
+      "niveau": 2,
+      "question": "Quel artiste français est célèbre pour ses immenses nymphéas peints dans son jardin de Giverny ?",
+      "reponse": "Claude Monet",
+      "variantes": [
+        "Monet",
+        "Oscar-Claude Monet"
+      ],
+      "anecdote": "Claude Monet consacra les dernières décennies de sa vie à peindre les bassins et les nymphéas de son jardin à Giverny. Ces œuvres, caractérisées par leurs jeux de lumière et leurs reflets, comptent parmi les réalisations les plus célèbres de l'impressionnisme. Certaines toiles atteignent plusieurs mètres de longueur et sont exposées dans des musées du monde entier."
+    },
+    {
+      "id": 60,
+      "niveau": 4,
+      "question": "Quel artiste américain de l'art minimaliste créa des cubes en acier inoxydable industriel répétés dans l'espace ?",
+      "reponse": "Donald Judd",
+      "variantes": [
+        "Judd",
+        "donald judd"
+      ],
+      "anecdote": "Donald Judd (1928-1994) est le représentant majeur du minimalisme en sculpture. Ses 'stacks' (piles) de boîtes identiques en acier, aluminium ou plexiglas questionnent la relation entre objet, espace et spectateur. Il refusait l'étiquette 'sculpture' — il appelait ses œuvres des 'objets spécifiques'. Sa ville de Marfa (Texas) abrite encore aujourd'hui ses installations permanentes les plus spectaculaires."
+    },
+    {
+      "id": 61,
+      "niveau": 4,
+      "question": "Quel peintre maniériste florentin, auteur des 'Lamentations du Christ', fut aussi alchimiste et est célèbre pour sa manière froide et anti-naturelle ?",
+      "reponse": "Pontormo",
+      "variantes": [
+        "Jacopo Pontormo",
+        "Carucci",
+        "pontormo"
+      ],
+      "anecdote": "Jacopo Pontormo (1494-1557) développa un style maniériste caractérisé par des couleurs acides (rose, jaune, vert clair), des poses tordues (figura serpentinata) et une composition qui défie la gravité. Sa 'Déposition du Christ' (vers 1525-1528) à Florence est considérée comme le chef-d'œuvre du maniérisme. Pontormo était misanthrope et hypocondriaque, laissant un journal détaillant obsessionnellement son régime alimentaire et sa digestion."
+    },
+    {
+      "id": 62,
+      "niveau": 5,
+      "question": "Quel peintre français néoclassique du XIXe siècle est l'auteur du tableau 'La Grande Odalisque' (1814) montrant une femme avec une anatomie délibérément déformée ?",
+      "reponse": "Jean-Auguste-Dominique Ingres",
+      "variantes": [
+        "Ingres",
+        "ingres"
+      ],
+      "anecdote": "Jean-Auguste-Dominique Ingres (1780-1867) fut l'élève de David et le champion du néoclassicisme académique. Sa 'Grande Odalisque' (1814) représente une femme nue de dos avec trois vertèbres supplémentaires par rapport à l'anatomie réelle. Ingres ne considérait pas cela comme une erreur mais comme une recherche de grâce et d'harmonie supérieure à la réalité. Il fut le grand rival d'Eugène Delacroix (classicisme vs romantisme)."
+    },
+    {
+      "id": 63,
+      "niveau": 4,
+      "question": "Quel artiste néerlandais du XVe siècle est célèbre pour des triptyques peuplés de créatures fantastiques et infernales comme 'Le Jardin des délices' ?",
+      "reponse": "Jérôme Bosch",
+      "variantes": [
+        "Jérôme Bosch",
+        "Hieronymus Bosch",
+        "jérome bosch"
+      ],
+      "anecdote": "Hieronymus Bosch (vers 1450-1516) créa des œuvres d'une imagination délirante, peuplées de créatures hybrides, de démons et de scènes allégoriques complexes. 'Le Jardin des délices terrestres' (vers 1490-1510, musée du Prado) est son chef-d'œuvre : un triptyque représentant le Paradis, un jardin de plaisirs sensuels, et l'Enfer. Son œuvre reste en grande partie mystérieuse."
+    },
+    {
+      "id": 64,
+      "niveau": 4,
+      "question": "Quel peintre néo-classique français fut le maître de David et est célèbre pour son 'Serment des Horaces' ?",
+      "reponse": "Jacques-Louis David",
+      "variantes": [
+        "David",
+        "Jacques Louis David"
+      ],
+      "anecdote": "Jacques-Louis David (1748-1825) fut le peintre officiel de la Révolution française puis de Napoléon. 'Le Serment des Horaces' (1784), 'La Mort de Marat' (1793), 'Le Sacre de Napoléon' (1806-1807) et 'Les Sabines' (1799) sont ses œuvres majeures. Après la chute de Napoléon, il fut exilé à Bruxelles où il mourut. Ses élèves incluaient Ingres, Gros et Gérard."
+    },
+    {
+      "id": 65,
+      "niveau": 4,
+      "question": "Quel artiste conceptuel américain des années 1960-1970 créa des 'happenings' et est l'un des fondateurs du mouvement Fluxus ?",
+      "reponse": "Joseph Beuys",
+      "variantes": [
+        "Beuys",
+        "joseph beuys"
+      ],
+      "anecdote": "Joseph Beuys (1921-1986), artiste allemand central dans le mouvement Fluxus et l'art conceptuel, est connu pour des performances provocatrices comme 'Coyote: I Like America and America Likes Me' (1974, où il passa une semaine enfermé avec un coyote). Son concept de 'sculpture sociale' affirmait que tout être humain est un artiste et que la société elle-même peut devenir une œuvre d'art. Sa maxime : 'Montrer ses blessures' (Zeige deine Wunde)."
+    },
+    {
+      "id": 66,
+      "niveau": 3,
+      "question": "Quel tableau de Théodore Géricault, exposé au Salon de 1819, représente les naufragés du navire la Méduse sur un radeau ?",
+      "reponse": "Le Radeau de la Méduse",
+      "variantes": [
+        "Le radeau de la Méduse",
+        "radeau de la meduse"
+      ],
+      "anecdote": "Le Radeau de la Méduse (1819) de Géricault représente le naufrage de la frégate française 'Méduse' en 1816 : sur 147 naufragés abandonnés sur un radeau, 15 survivants furent rescapés après 13 jours de dérive, de violence, de cannibalisme et de folie. Le tableau, de taille monumentale (5 m x 7 m), dénonça l'incompétence du capitaine royaliste nommé par favoritisme. Il choqua la société française et devint le manifeste du romantisme."
+    },
+    {
+      "id": 67,
+      "niveau": 4,
+      "question": "Quel artiste suisse fut le premier à créer des mobiles — sculptures suspendues en mouvement — dans les années 1930 ?",
+      "reponse": "Alexander Calder",
+      "variantes": [
+        "Calder",
+        "alexander calder"
+      ],
+      "anecdote": "Alexander Calder (1898-1976) révolutionna la sculpture en introduisant le mouvement réel. Ses mobiles (terme inventé par Marcel Duchamp) sont des structures suspendues en fil de fer et métal peint qui se meuvent sous l'effet de l'air. Il créa aussi des stabiles (sculptures statiques). Ses œuvres monumentales ornent de nombreux espaces publics dans le monde, dont les aéroports internationaux."
+    },
+    {
+      "id": 68,
+      "niveau": 4,
+      "question": "Quelle artiste japonaise, vivant à New York depuis les années 1950, est connue pour ses installations de miroirs et de filets de pois infinis ?",
+      "reponse": "Yayoi Kusama",
+      "variantes": [
+        "Kusama",
+        "yayoi kusama"
+      ],
+      "anecdote": "Yayoi Kusama (née en 1929) est l'artiste vivante la plus populaire et la plus commercialisée du monde selon certains sondages. Souffrant d'hallucinations depuis l'enfance (des filets de pois qui recouvrent tout), elle utilise l'art pour 'oblitérer' sa peur. Ses 'Infinity Mirror Rooms' (salles de miroirs infinis) créent une expérience immersive hypnotique et sont devenues virales sur les réseaux sociaux."
+    },
+    {
+      "id": 69,
+      "niveau": 4,
+      "question": "Quel architecte français fut le théoricien du mouvement moderne et de la 'machine à habiter' ?",
+      "reponse": "Le Corbusier",
+      "variantes": [
+        "Le Corbusier",
+        "Jeanneret",
+        "le corbusier"
+      ],
+      "anecdote": "Le Corbusier (Charles-Édouard Jeanneret, 1887-1965) fut l'architecte le plus influent du XXe siècle. Sa 'Villa Savoye' (1929-1931) illustre ses cinq points architecturaux : pilotis, toit-terrasse, plan libre, façade libre, fenêtre en longueur. Son logement collectif 'Unité d'habitation' à Marseille (1952) influença les HLM du monde entier. Sa chapelle de Ronchamp (1955) est son œuvre la plus spirituelle."
+    },
+    {
+      "id": 70,
+      "niveau": 4,
+      "question": "Quel peintre français du XIXe siècle est considéré comme le père de l'impressionnisme avec son tableau 'Impression, soleil levant' ?",
+      "reponse": "Claude Monet",
+      "variantes": [
+        "Monet",
+        "claude monet"
+      ],
+      "anecdote": "Claude Monet (1840-1926) donna son nom à l'impressionnisme grâce à son tableau 'Impression, soleil levant' (1872). Il peignit en série le même sujet à différentes heures du jour et en différentes saisons (meules de foin, cathédrale de Rouen, peupliers). Ses Nymphéas, peints à Giverny malgré une cataracte avancée, sont exposés dans les salles ovales de l'Orangerie à Paris."
+    },
+    {
+      "id": 71,
+      "niveau": 4,
+      "question": "Quel peintre hollandais du XVIIe siècle, contemporain de Rembrandt, fut redécouvert au XIXe siècle et est célèbre pour ses intérieurs lumineux bourgeois ?",
+      "reponse": "Johannes Vermeer",
+      "variantes": [
+        "Vermeer",
+        "Jan Vermeer",
+        "johannes vermeer"
+      ],
+      "anecdote": "Johannes Vermeer (1632-1675) est l'un des maîtres de l'âge d'or hollandais. Presque inconnu après sa mort, il ne fut redécouvert qu'au XIXe siècle. Son œuvre, très petite (34-36 tableaux reconnus), dépeint des intérieurs bourgeois d'une lumière extraordinaire, obtenue peut-être avec une chambre obscure. L'utilisation du lapis-lazuli (bleu de Vermeer) dans ses tableaux en explique en partie le coût."
+    },
+    {
+      "id": 72,
+      "niveau": 4,
+      "question": "Quel peintre espagnol du XVIIe siècle est connu pour ses natures mortes d'une austérité ascétique et ses portraits de moines franciscains ?",
+      "reponse": "Francisco de Zurbarán",
+      "variantes": [
+        "Zurbarán",
+        "Zurbaran"
+      ],
+      "anecdote": "Francisco de Zurbarán (1598-1664) fut surnommé le 'Caravage espagnol' pour son usage dramatique du clair-obscur. Ses natures mortes d'objets quotidiens (citrons, oranges, pots en faïence) sur des fonds sombres sont d'une austérité contemplative. Ses moines franciscains revêtus de robes blanches immaculées sur fond sombre sont parmi les plus grands chef-d'œuvres de la peinture baroque espagnole."
+    },
+    {
+      "id": 73,
+      "niveau": 4,
+      "question": "Quel est le nom de la technique picturale développée par les Flamands au XVe siècle consistant à superposer des couches transparentes de peinture à l'huile ?",
+      "reponse": "Glaçures (ou glacis)",
+      "variantes": [
+        "glacis",
+        "glacis de peinture",
+        "huile en couches transparentes",
+        "glaçures"
+      ],
+      "anecdote": "La technique des glacis (couches transparentes de peinture à l'huile superposées) fut maîtrisée et probablement inventée par Jan van Eyck au XVe siècle. Chaque couche modifie subtilement la couleur et la luminosité, créant une profondeur et une richesse impossibles avec une seule couche opaque. Les anciens maîtres hollandais et flamands pouvaient appliquer 10 à 20 couches de glacis. Cette technique a été largement abandonnée après 1850."
+    },
+    {
+      "id": 74,
+      "niveau": 4,
+      "question": "Quel critique d'art américain défendit l'expressionnisme abstrait dans les années 1940 avec son concept de 'Avant-garde et kitsch' ?",
+      "reponse": "Clement Greenberg",
+      "variantes": [
+        "Greenberg",
+        "clement greenberg"
+      ],
+      "anecdote": "Clement Greenberg (1909-1994) fut le critique d'art le plus influent du XXe siècle aux États-Unis. Il défendit l'expressionnisme abstrait américain comme l'avant-garde authentique, opposé au 'kitsch' (culture populaire commercialisée). Son essai 'Avant-garde et kitsch' (1939) et son soutien à Pollock, de Kooning et Rothko contribuèrent à établir New York comme nouvelle capitale de l'art mondial après la Seconde Guerre mondiale."
+    },
+    {
+      "id": 75,
+      "niveau": 4,
+      "question": "Quel artiste américain des années 1970 créa 'Spiral Jetty', une jetée en spirale dans le lac Salé de l'Utah, œuvre emblématique du Land Art ?",
+      "reponse": "Robert Smithson",
+      "variantes": [
+        "Smithson",
+        "robert smithson"
+      ],
+      "anecdote": "Robert Smithson (1938-1973) créa 'Spiral Jetty' en 1970 dans le Grand Lac Salé de l'Utah : une jetée en spirale de 460 m de long, faite de roches noires et de sel. L'œuvre est soumise aux fluctuations du niveau du lac et change de couleur selon l'activité bactérienne. Smithson mourut dans un accident d'avion lors de l'inspection d'une autre œuvre. La Spiral Jetty est l'œuvre de Land Art la plus célèbre."
+    },
+    {
+      "id": 76,
+      "niveau": 4,
+      "question": "Quel artiste anglais néo-expressionniste, célèbre pour ses études déformées d'après Velázquez ('Études d'après le Portrait du Pape Innocent X'), est souvent classé parmi les grands maîtres du XXe siècle ?",
+      "reponse": "Francis Bacon",
+      "variantes": [
+        "francis bacon",
+        "Bacon"
+      ],
+      "anecdote": "Francis Bacon (1909-1992) est l'un des peintres figuratifs les plus importants du XXe siècle. Ses portraits fragmentés, hurlants, évoquent la solitude, l'angoisse et la chair vulnérable. Sa série des Papes d'après Velázquez (1953) montre des figures emprisonnées dans des espaces clos. Bacon travaillait dans un désordre légendaire — son atelier de Soho a été reconstitué au Hugh Lane Gallery de Dublin."
+    },
+    {
+      "id": 77,
+      "niveau": 4,
+      "question": "Quel artiste franco-américain dadaïste et conceptuel créa l'idée du 'ready-made' avec 'Fontaine' (un urinoir exposé comme œuvre d'art) en 1917 ?",
+      "reponse": "Marcel Duchamp",
+      "variantes": [
+        "Duchamp",
+        "Marcel Duchamp",
+        "duchamp"
+      ],
+      "anecdote": "Marcel Duchamp (1887-1968) révolutionna l'art moderne avec ses ready-mades : des objets ordinaires élevés au rang d'œuvres d'art par le seul geste de les désigner comme tels. 'Fontaine' (1917) — un urinoir signé 'R. Mutt' — fut d'abord refusé à l'exposition Société des Artistes Indépendants dont Duchamp était un des organisateurs. Élu 'œuvre d'art la plus influente du XXe siècle' par 500 spécialistes en 2004."
+    },
+    {
+      "id": 78,
+      "niveau": 4,
+      "question": "Quel artiste allemand expressionniste, membre du Blaue Reiter, fut le premier à théoriser l'abstraction totale en peinture ?",
+      "reponse": "Wassily Kandinsky",
+      "variantes": [
+        "Kandinsky",
+        "wassily kandinsky",
+        "Vasily Kandinsky"
+      ],
+      "anecdote": "Wassily Kandinsky (1866-1944) est souvent cité comme le premier peintre à réaliser une œuvre entièrement abstraite (vers 1910). Son traité 'Du Spirituel dans l'art' (1911) théorisa le rapport entre couleurs, formes et émotions — les couleurs ont des valeurs spirituelles (le jaune est agressif, le bleu calme, etc.). Au Bauhaus, il développa une pédagogie de la composition qui influence encore le design graphique aujourd'hui."
+    },
+    {
+      "id": 79,
+      "niveau": 4,
+      "question": "Quel est le nom de la technique picturale consistant à peindre en camaïeu (nuances d'une seule couleur) pour imiter la sculpture en relief ?",
+      "reponse": "Grisaille",
+      "variantes": [
+        "la grisaille",
+        "camaïeu gris"
+      ],
+      "anecdote": "La grisaille est une technique de peinture en nuances de gris (ou d'une autre couleur) imitant la sculpture en bas-relief. Elle fut particulièrement utilisée au Moyen Âge pour décorer les volets extérieurs des polyptyques (les panneaux peints en grisaille s'ouvraient sur des scènes en couleur). Elle permettait aussi d'étudier les effets de lumière et d'ombre avant d'exécuter la peinture finale en couleur."
+    },
+    {
+      "id": 80,
+      "niveau": 4,
+      "question": "Quel critique et philosophe allemand fut l'un des théoriciens fondamentaux de la culture et de la reproduction artistique avec son essai 'L'Œuvre d'art à l'époque de sa reproductibilité technique' (1935) ?",
+      "reponse": "Walter Benjamin",
+      "variantes": [
+        "Benjamin",
+        "walter benjamin"
+      ],
+      "anecdote": "Walter Benjamin (1892-1940) analysa dans cet essai comment la reproduction mécanique (photographie, cinéma) détruisait l''aura' de l'œuvre d'art originale (sa présence unique dans l'espace-temps). Cette perte d'aura avait des implications politiques : sans aura, l'art pouvait être politisé (fascisme 'esthétise le politique', communisme 'politise l'art'). Cet essai reste fondamental en théorie de l'art et des médias."
+    },
+    {
+      "id": 81,
+      "niveau": 5,
+      "question": "Quel peintre espagnol de la fin du XVe siècle, maître de la polychromie et du trompe-l'œil, exécuta les retables de Castille dans un style né de la fusion du gothique international et de la Renaissance flamande ?",
+      "reponse": "Fernando Gallego",
+      "variantes": [
+        "Alonso Berruguete",
+        "Pedro Berruguete"
+      ],
+      "anecdote": "Pedro Berruguete (vers 1450-1504) fut un peintre espagnol qui travailla à la cour d'Urbino (Italie) aux côtés de Joos van Ghent, puis retourna en Castille. Il est remarquable pour avoir combiné le réalisme flamand avec les leçons de la perspective italienne, créant un style unique. Son portrait de Federico da Montefeltro et son fils est un des chefs-d'œuvre de la peinture du Quattrocento."
+    },
+    {
+      "id": 82,
+      "niveau": 5,
+      "question": "Quel est le nom du tableau de Caravage (1600-1601) représentant Saint Thomas touchant la blessure du Christ et exemplifiant le 'momento di verità' caravagesque ?",
+      "reponse": "L'Incrédulité de saint Thomas",
+      "variantes": [
+        "l'incrédulité de saint Thomas",
+        "doubting Thomas Caravage"
+      ],
+      "anecdote": "Caravage (Michelangelo Merisi, 1571-1610) révolutionna la peinture baroque par son ténébrisme radical : les figures émergent de ténèbres profondes dans une lumière crue. 'L'Incrédulité de saint Thomas' (vers 1601) montre trois apôtres regardant Thomas enfoncer son doigt dans la blessure du Christ ressuscité — un réalisme presque brutal. Caravage vécut une vie tumultueuse, tuant un homme en 1606 et fuyant Rome, avant de mourir à 38 ans."
+    },
+    {
+      "id": 83,
+      "niveau": 5,
+      "question": "Quel est le nom de la méthode d'attribution des tableaux aux anciens maîtres développée au XIXe siècle par Giovanni Morelli, basée sur des détails infimes comme les lobes d'oreilles et les doigts de mains ?",
+      "reponse": "Méthode morellienne",
+      "variantes": [
+        "morellianisme",
+        "méthode de Morelli",
+        "analyse morellienne"
+      ],
+      "anecdote": "Giovanni Morelli (1816-1891) développa une méthode 'scientifique' d'attribution picturale basée sur l'observation de détails négligés par le peintre (donc moins conscients et plus révélateurs de son style automatique) : lobes d'oreilles, doigts, ongles, narines. Cette méthode inspira Freud (indices inconscients) et le critique Carlo Ginzburg qui y vit l'origine d'un 'paradigme indiciaire' commun à l'enquête policière, médicale et historique."
+    },
+    {
+      "id": 84,
+      "niveau": 5,
+      "question": "Quel philosophe français écrivit 'Les Voix du silence' (1951) sur la philosophie de l'art comme métamorphose du destin humain ?",
+      "reponse": "André Malraux",
+      "variantes": [
+        "Malraux",
+        "andre malraux"
+      ],
+      "anecdote": "André Malraux (1901-1976) développa dans 'Les Voix du silence' le concept de 'musée imaginaire' : la photographie et la reproduction permettent de confronter mentalement toutes les œuvres d'art de l'humanité, créant un dialogue trans-culturel et trans-historique impossible avant. Pour Malraux, l'art était la seule façon pour l'homme de surmonter sa condition mortelle. Ce livre influença profondément la muséologie et la politique culturelle française."
+    },
+    {
+      "id": 85,
+      "niveau": 3,
+      "question": "Comment appelle-t-on une peinture réalisée directement sur un mur ou un plafond encore recouvert d'enduit frais ?",
+      "reponse": "Fresque",
+      "variantes": [
+        "La fresque",
+        "une fresque"
+      ],
+      "anecdote": "La technique de la fresque consiste à peindre sur un enduit encore humide afin que les pigments s'intègrent directement au mur en séchant. Utilisée depuis l'Antiquité, elle a connu son apogée pendant la Renaissance italienne. Les plafonds de la chapelle Sixtine peints par Michel-Ange figurent parmi les exemples les plus célèbres de cet art."
+    },
+    {
+      "id": 86,
+      "niveau": 5,
+      "question": "Quel est le nom du programme iconographique de la crypte de la basilique Saint-Denis, qui fut la première église gothique de l'histoire occidentale, conçu par l'abbé Suger au XIIe siècle ?",
+      "reponse": "Abbé Suger",
+      "variantes": [
+        "Suger de Saint-Denis",
+        "abbé Suger"
+      ],
+      "anecdote": "L'abbé Suger (1081-1151) fut l'architecte théologien de la première cathédrale gothique — la basilique Saint-Denis (1135-1144) au nord de Paris. Sa théologie de la lumière ('la lumière divine filtre à travers la beauté matérielle') justifiait les grandes fenêtres et vitraux : la beauté physique élève l'âme vers Dieu. Cette 'théologie de la lumière' est la justification théologique de toute l'architecture gothique."
+    },
+    {
+      "id": 87,
+      "niveau": 5,
+      "question": "Quel artiste italien fondateur du futurisme publia le Manifeste futuriste en 1909 dans le journal Le Figaro ?",
+      "reponse": "Filippo Tommaso Marinetti",
+      "variantes": [
+        "Marinetti",
+        "F.T. Marinetti"
+      ],
+      "anecdote": "Filippo Tommaso Marinetti (1876-1944) publia le Manifeste futuriste en première page du Figaro le 20 février 1909, célébrant la vitesse, la machine, la guerre et le mépris du passé. Le futurisme influença les arts visuels (Boccioni, Balla), la littérature et la musique. Son exaltation de la violence et du nationalisme alimentèrent idéologiquement le fascisme mussolinien. Marinetti rejoignit le parti fasciste en 1919."
+    },
+    {
+      "id": 88,
+      "niveau": 5,
+      "question": "Quel peintre américain, fondateur du réalisme magique américain, est célèbre pour 'Christina's World' (1948) ?",
+      "reponse": "Andrew Wyeth",
+      "variantes": [
+        "Wyeth",
+        "andrew wyeth"
+      ],
+      "anecdote": "Andrew Wyeth (1917-2009) est l'un des peintres américains les plus populaires du XXe siècle. 'Christina's World' (1948) représente Anna Christina Olson, atteinte d'une maladie musculaire dégénérative, se traînant vers une ferme dans un champ de Maine. Ce tableau d'une mélancolie sobre, à la technique minutieuse en tempera à l'œuf, est devenu une icône de la culture américaine, exposé au MoMA de New York."
+    },
+    {
+      "id": 89,
+      "niveau": 1,
+      "question": "Quel célèbre musée parisien abrite notamment « La Joconde » de Léonard de Vinci ?",
+      "reponse": "Le Louvre",
+      "variantes": [
+        "Louvre",
+        "Musée du Louvre",
+        "le musée du Louvre"
+      ],
+      "anecdote": "Le Louvre est le plus grand musée d'art du monde. Installé dans un ancien palais royal au cœur de Paris, il accueille chaque année des millions de visiteurs. Sa collection couvre plusieurs millénaires d'histoire et comprend des œuvres emblématiques comme « La Joconde », la « Vénus de Milo » et la « Victoire de Samothrace »."
+    },
+    {
+      "id": 90,
+      "niveau": 5,
+      "question": "Quel artiste américain, pionnier du Body Art dans les années 1970, se tira une balle dans le bras lors d'une performance intitulée 'Shoot' en 1971 ?",
+      "reponse": "Chris Burden",
+      "variantes": [
+        "Burden",
+        "chris burden"
+      ],
+      "anecdote": "Chris Burden (1946-2015) réalisa en novembre 1971 la performance 'Shoot' dans une galerie de Santa Ana : un assistant lui tira une balle de 22 LR dans le bras gauche. Burden explorla les limites du corps, la douleur et la violence dans une série de performances radicales. Plus tard dans sa carrière, il créa d'imposantes sculptures mécaniques et architecturales, comme 'Urban Light' (224 lampadaires vintage) devant le LACMA à Los Angeles."
+    },
+    {
+      "id": 91,
+      "niveau": 2,
+      "question": "Quel peintre italien de la Renaissance a réalisé « La Cène », représentant le dernier repas du Christ avec ses apôtres ?",
+      "reponse": "Léonard de Vinci",
+      "variantes": [
+        "Leonard de Vinci",
+        "Léonard de vinci",
+        "Leonardo da Vinci",
+        "Da Vinci"
+      ],
+      "anecdote": "« La Cène » a été peinte par Léonard de Vinci entre 1495 et 1498 dans le réfectoire du couvent Santa Maria delle Grazie à Milan. L'œuvre représente le moment où Jésus annonce à ses apôtres que l'un d'eux le trahira. Malgré les dégradations subies au fil des siècles, elle demeure l'une des peintures les plus célèbres de l'histoire de l'art."
+    },
+    {
+      "id": 92,
+      "niveau": 4,
+      "question": "Quel est le nom du procédé scientifique de datation utilisé pour authentifier et dater les œuvres d'art à base de carbone organique ?",
+      "reponse": "Carbone 14",
+      "variantes": [
+        "carbone 14",
+        "radiocarbone",
+        "C14"
+      ],
+      "anecdote": "La datation au carbone 14 (radiocarbone) mesure la désintégration du 14C dans les matériaux organiques (bois, charbon, toile, ossements). Précis jusqu'à 50 000 ans, il permit de dater les peintures rupestres de Lascaux (~17 000 ans) et de Chauvet (~36 000 ans). Pour les œuvres plus récentes, la thermoluminescence (céramique), la dendrochronologie (bois) et l'analyse chimique des pigments sont utilisées."
+    },
+    {
+      "id": 93,
+      "niveau": 2,
+      "question": "Comment appelle-t-on une sculpture représentant uniquement la tête et le haut du buste d'une personne ?",
+      "reponse": "Buste",
+      "variantes": [
+        "Un buste",
+        "le buste"
+      ],
+      "anecdote": "Le buste est une forme de sculpture très répandue depuis l'Antiquité. Il représente généralement la tête, les épaules et parfois le haut du torse d'un personnage. Les Romains étaient particulièrement friands de portraits en buste, qui permettaient de célébrer empereurs, hommes politiques et personnalités importantes."
+    },
+    {
+      "id": 94,
+      "niveau": 5,
+      "question": "Quel philosophe français analysa le regard et le corps-sujet dans 'La Phénoménologie de la perception' (1945), revolutionnant la philosophie de l'art ?",
+      "reponse": "Maurice Merleau-Ponty",
+      "variantes": [
+        "Merleau-Ponty",
+        "Merleau Ponty"
+      ],
+      "anecdote": "Merleau-Ponty (1908-1961) renversa le dualisme corps/esprit en affirmant que toute perception est incarnée — nous percevons le monde à travers notre corps vivant (Leib), non depuis un regard désintéressé (Descartes). Son essai 'L'Œil et l'Esprit' (1961), sur Cézanne notamment, influença profondément la philosophie de l'art : le peintre ne représente pas le monde depuis son esprit mais le 'laisse voir' à travers son corps habité par le monde."
+    },
+    {
+      "id": 95,
+      "niveau": 4,
+      "question": "Comment appelle-t-on l'art japonais de la calligraphie réalisée au pinceau ?",
+      "reponse": "Shodō",
+      "variantes": [
+        "Shodo",
+        "shodô",
+        "le shodō",
+        "le shodo"
+      ],
+      "anecdote": "Le shodō, qui signifie littéralement « la voie de l'écriture », est l'art traditionnel japonais de la calligraphie. Hérité des caractères chinois, il accorde autant d'importance à la beauté du geste qu'au résultat final. Les calligraphes s'entraînent pendant des années à maîtriser le pinceau, l'encre et le rythme du trait afin d'exprimer harmonie et personnalité."
+    },
+    {
+      "id": 96,
+      "niveau": 4,
+      "question": "Quelle méthode d'étude des sources iconographiques et des programmes symboliques des œuvres d'art fut développée par Aby Warburg et systématisée par Erwin Panofsky ?",
+      "reponse": "Iconologie",
+      "variantes": [
+        "iconologie",
+        "iconographie",
+        "méthode de Panofsky"
+      ],
+      "anecdote": "Erwin Panofsky ('Studies in Iconology', 1939) développa l'iconologie en trois niveaux : (1) pré-iconographique (description des motifs naturels), (2) iconographique (identification des thèmes et concepts), (3) iconologique (signification profonde culturelle et symbolique). Cette méthode fut fondée sur les travaux d'Aby Warburg, qui étudiait la survivance (Nachleben) des formules expressives antiques dans la Renaissance. L'iconologie reste la méthode dominante de l'histoire de l'art académique."
+    },
+    {
+      "id": 97,
+      "niveau": 4,
+      "question": "Quel est le nom du débat théorique dans lequel Léonard de Vinci défendait la supériorité de la peinture sur la sculpture ?",
+      "reponse": "Paragone",
+      "variantes": [
+        "le Paragone",
+        "débat Paragone"
+      ],
+      "anecdote": "Le Paragone ('comparaison' en italien) était un débat théorique central de la Renaissance italienne opposant peinture et sculpture. Léonard de Vinci défendit la supériorité de la peinture : elle peut représenter l'atmosphère, la lumière, les demi-teintes, la couleur — impossibles en sculpture. Michel-Ange défendait l'inverse. Benedetto Varchi organisa en 1546 un sondage auprès des artistes florentins pour trancher — sans résultat définitif. Ce débat déplace en fait la question vers la 'dignité' des arts libéraux versus mécaniques."
+    },
+    {
+      "id": 98,
+      "niveau": 5,
+      "question": "Quel théoricien américain analysa dans 'The Reconfigured Eye: Visual Truth in the Post-Photographic Era' (1992) les implications de la manipulation numérique de l'image ?",
+      "reponse": "William J. Mitchell",
+      "variantes": [
+        "Mitchell",
+        "William Mitchell"
+      ],
+      "anecdote": "William J. Mitchell (1944-2010) fut l'un des premiers à analyser systématiquement les implications culturelles et épistémologiques de la photographie numérique. Avec le numérique, toute image est potentiellement manipulée — la distinction entre 'photo' (trace du réel) et 'peinture' (création fictive) s'effondre. Cet essai préfigurait les problèmes actuels des deepfakes, de la désinformation visuelle et de la 'post-vérité' médiatique."
+    },
+    {
+      "id": 99,
+      "niveau": 1,
+      "question": "Quel artiste français a conçu la célèbre tour qui porte aujourd'hui son nom à Paris ?",
+      "reponse": "Gustave Eiffel",
+      "variantes": [
+        "Eiffel",
+        "Alexandre Gustave Eiffel"
+      ],
+      "anecdote": "Ingénieur de formation, Gustave Eiffel est surtout connu pour la tour Eiffel, construite pour l'Exposition universelle de 1889. Haute de plus de 300 mètres à l'origine, elle fut longtemps la plus haute structure du monde. Bien qu'elle ait été vivement critiquée par certains artistes et intellectuels de son époque, elle est devenue l'un des monuments les plus célèbres au monde."
+    },
+    {
+      "id": 100,
+      "niveau": 3,
+      "question": "Quel peintre mexicain est célèbre pour ses nombreux autoportraits et son mariage avec Diego Rivera ?",
+      "reponse": "Frida Kahlo",
+      "variantes": [
+        "Kahlo",
+        "Frida"
+      ],
+      "anecdote": "Frida Kahlo est l'une des artistes les plus célèbres du Mexique. Après un grave accident dans sa jeunesse, elle commença à peindre de nombreux autoportraits explorant son identité, sa souffrance physique et sa culture. Son style unique mêle réalisme, symbolisme et éléments du folklore mexicain, faisant d'elle une figure majeure de l'histoire de l'art du XXe siècle."
+    }
+  ]
+}

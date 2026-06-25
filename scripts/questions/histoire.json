@@ -1,0 +1,1187 @@
+{
+  "theme": "histoire",
+  "questions": [
+    {
+      "id": 1,
+      "niveau": 1,
+      "question": "Quel était le nom de Napoléon ?",
+      "reponse": "Bonaparte",
+      "variantes": [
+        "Napoléon Bonaparte"
+      ],
+      "anecdote": "Napoléon Bonaparte (1769-1821) est né en Corse et devint général puis Premier consul avant de se proclamer Empereur des Français en 1804. Considéré comme l'un des plus grands stratèges militaires de l'histoire, il a profondément reconfiguré la carte de l'Europe."
+    },
+    {
+      "id": 2,
+      "niveau": 1,
+      "question": "Quel événement historique s'est produit le 14 juillet 1789 en France ?",
+      "reponse": "Prise de la Bastille",
+      "variantes": [
+        "la prise de la Bastille",
+        "la Révolution française",
+        "la chute de la Bastille",
+        "storming of the Bastille"
+      ],
+      "anecdote": "Le 14 juillet 1789, les Parisiens se soulevèrent contre l'autorité royale et prirent d'assaut la forteresse de la Bastille, symbole du pouvoir arbitraire du roi. Cet événement est considéré comme le début de la Révolution française et est célébré chaque année comme fête nationale en France."
+    },
+    {
+      "id": 3,
+      "niveau": 1,
+      "question": "Qui a construit les pyramides de Gizeh ?",
+      "reponse": "Les Égyptiens de l'Antiquité",
+      "variantes": [
+        "les anciens Égyptiens",
+        "les pharaons",
+        "les Égyptiens antiques",
+        "les Égyptiens",
+        "égyptiens"
+      ],
+      "anecdote": "Les grandes pyramides de Gizeh ont été construites par les anciens Égyptiens il y a environ 4 500 ans, sous le règne des pharaons Khéops, Khéphren et Mykérinos. La pyramide de Khéops, avec ses 138 mètres, fut la plus haute construction humaine pendant plus de 3 800 ans."
+    },
+    {
+      "id": 4,
+      "niveau": 1,
+      "question": "Pendant quelle guerre mondiale les États-Unis ont-ils lancé des bombes atomiques sur le Japon ?",
+      "reponse": "Seconde Guerre mondiale",
+      "variantes": [
+        "la Deuxième Guerre mondiale",
+        "WW2",
+        "la 2e guerre mondiale",
+        "la guerre 39-45"
+      ],
+      "anecdote": "En août 1945, les États-Unis ont largué deux bombes atomiques sur Hiroshima (6 août) et Nagasaki (9 août). Ces bombardements, qui ont causé la mort de 100 000 à 200 000 personnes, ont précipité la capitulation du Japon et mis fin à la Seconde Guerre mondiale en Asie."
+    },
+    {
+      "id": 5,
+      "niveau": 2,
+      "question": "Qui était le premier président des États-Unis ?",
+      "reponse": "George Washington",
+      "variantes": [
+        "washington",
+        "Georges Washington"
+      ],
+      "anecdote": "George Washington (1732-1799) a été le premier président des États-Unis, élu en 1789. Commandant en chef des armées américaines pendant la guerre d'Indépendance, il refusa d'être roi et devint le modèle du chef d'État démocratique. Son portrait figure sur le billet d'un dollar."
+    },
+    {
+      "id": 6,
+      "niveau": 1,
+      "question": "En quelle année Christophe Colomb a-t-il atteint l'Amérique ?",
+      "reponse": "1492",
+      "variantes": [
+        "en 1492"
+      ],
+      "anecdote": "Le 12 octobre 1492, Christophe Colomb, navigateur génois au service de l'Espagne, atteignit les Bahamas, croyant avoir atteint les Indes. Cette date marque le début de la colonisation européenne des Amériques. Colomb ne sut jamais qu'il avait découvert un continent inconnu des Européens."
+    },
+    {
+      "id": 7,
+      "niveau": 1,
+      "question": "Quelle reine d'Angleterre a régné le plus longtemps au XXe siècle ?",
+      "reponse": "Élisabeth II",
+      "variantes": [
+        "Elizabeth II",
+        "la reine Elizabeth",
+        "la reine Élisabeth"
+      ],
+      "anecdote": "La reine Élisabeth II (1926-2022) a régné sur le Royaume-Uni pendant 70 ans, de 1952 jusqu'à sa mort en 2022. C'est le règne le plus long d'un monarque britannique et l'un des plus longs de l'histoire mondiale. Elle a traversé des décennies de transformations politiques et sociales majeures."
+    },
+    {
+      "id": 8,
+      "niveau": 1,
+      "question": "Quel mur séparait Berlin-Est de Berlin-Ouest pendant la Guerre froide ?",
+      "reponse": "Mur de Berlin",
+      "variantes": [
+        "le Mur de Berlin",
+        "mur de berlin",
+        "le mur"
+      ],
+      "anecdote": "Le Mur de Berlin a été érigé le 13 août 1961 par la RDA (Allemagne de l'Est) pour empêcher ses citoyens de fuir vers l'Ouest. Long de 155 km, il symbolisait la division du monde entre bloc capitaliste et bloc communiste. Il tomba le 9 novembre 1989, précipitant la réunification allemande."
+    },
+    {
+      "id": 9,
+      "niveau": 1,
+      "question": "Quel est le nom du premier homme qui a marché sur la Lune ?",
+      "reponse": "Neil Armstrong",
+      "variantes": [
+        "armstrong",
+        "Neil Armstrong"
+      ],
+      "anecdote": "Neil Armstrong (1930-2012) est devenu le premier être humain à marcher sur la Lune le 21 juillet 1969, lors de la mission Apollo 11. Sa phrase historique 'C'est un petit pas pour l'homme, un grand bond pour l'humanité' est l'une des plus célèbres de l'histoire. Son coéquipier Buzz Aldrin le rejoignit 20 minutes plus tard."
+    },
+    {
+      "id": 10,
+      "niveau": 1,
+      "question": "Quel était le prénom de César (l'empereur romain)",
+      "reponse": "Jules",
+      "variantes": [
+        "Jules César"
+      ],
+      "anecdote": "Jules César (100-44 av. J.-C.) était un général, homme politique et écrivain romain. Il conquit la Gaule, traversa le Rubicon pour s'emparer du pouvoir à Rome et fut assassiné aux Ides de mars (15 mars) 44 av. J.-C. par un groupe de sénateurs. Sa mort déclencha une nouvelle guerre civile."
+    },
+    {
+      "id": 11,
+      "niveau": 1,
+      "question": "Quelle bataille de 1815 marque la défaite définitive de Napoléon ?",
+      "reponse": "Waterloo",
+      "variantes": [
+        "la bataille de Waterloo",
+        "bataille de waterloo"
+      ],
+      "anecdote": "La bataille de Waterloo, le 18 juin 1815, opposa Napoléon aux forces de la 7e coalition (Angleterre, Prusse). La victoire décisive des Alliés mit fin aux Cent-Jours et à l'Empire napoléonien. Napoléon fut exilé sur l'île de Sainte-Hélène, dans l'Atlantique, où il mourut en 1821."
+    },
+    {
+      "id": 12,
+      "niveau": 1,
+      "question": "Quelle civilisation a construit le Colisée à Rome ?",
+      "reponse": "Les Romains",
+      "variantes": [
+        "rome antique",
+        "l'empire romain",
+        "les Romains de l'Antiquité"
+      ],
+      "anecdote": "Le Colisée (Amphithéâtre Flavien) a été construit entre 72 et 80 apr. J.-C. sous les empereurs Vespasien et Titus. Il pouvait accueillir 50 000 à 80 000 spectateurs et était le théâtre de combats de gladiateurs, de chasses aux animaux et d'exécutions. C'est l'un des monuments antiques les mieux conservés."
+    },
+    {
+      "id": 13,
+      "niveau": 1,
+      "question": "En quelle année a commencé la Première Guerre mondiale ?",
+      "reponse": "1914",
+      "variantes": [
+        "en 1914"
+      ],
+      "anecdote": "La Première Guerre mondiale a débuté en août 1914, après l'assassinat de l'archiduc François-Ferdinand d'Autriche à Sarajevo le 28 juin 1914. Ce conflit, qui dura jusqu'en novembre 1918, fit environ 20 millions de morts et 20 millions de blessés, et transforma profondément la carte politique de l'Europe."
+    },
+    {
+      "id": 14,
+      "niveau": 2,
+      "question": "Quel pays a été le premier à envoyer un homme dans l'espace ?",
+      "reponse": "URSS",
+      "variantes": [
+        "Union soviétique",
+        "la Russie",
+        "l'URSS",
+        "Russie",
+        "Union Soviétique"
+      ],
+      "anecdote": "Le 12 avril 1961, le Soviétique Youri Gagarine est devenu le premier être humain à voyager dans l'espace à bord du vaisseau Vostok 1. Son vol orbital d'une heure 48 minutes marqua un tournant décisif dans la Guerre froide et la conquête spatiale. Le 12 avril est aujourd'hui la Journée mondiale de l'aviation et des cosmonautes."
+    },
+    {
+      "id": 15,
+      "niveau": 1,
+      "question": "Dans quel pays est née Adolf Hitler ?",
+      "reponse": "Autriche",
+      "variantes": [
+        "Austria"
+      ],
+      "anecdote": "Adolf Hitler (1889-1945) était un dictateur autrichien devenu chancelier d'Allemagne en 1933 puis Führer en 1934. Son idéologie nationale-socialiste (nazisme) a conduit à la Seconde Guerre mondiale et à la Shoah, génocide systématique de 6 millions de Juifs. Il se suicida le 30 avril 1945."
+    },
+    {
+      "id": 16,
+      "niveau": 1,
+      "question": "Quelle reine d'Égypte fut célèbre pour sa liaison avec Jules César et Marc Antoine ?",
+      "reponse": "Cléopâtre",
+      "variantes": [
+        "cléopâtre",
+        "Cléopâtre VII",
+        "Cleopatre"
+      ],
+      "anecdote": "Cléopâtre VII (69-30 av. J.-C.) était la dernière reine de la dynastie ptolémaïque d'Égypte. Réputée pour son intelligence et sa maîtrise des langues (elle parlait neuf langues), elle s'allia successivement à Jules César et à Marc Antoine pour maintenir l'indépendance de l'Égypte. Elle se suicida après la défaite d'Antoine contre Octave."
+    },
+    {
+      "id": 17,
+      "niveau": 1,
+      "question": "Quelle est la date du débarquement allié en Normandie pendant la Seconde Guerre mondiale ?",
+      "reponse": "6 juin 1944",
+      "variantes": [
+        "6 juin",
+        "juin 1944"
+      ],
+      "anecdote": "Le 6 juin 1944, également connu sous le nom de 'Jour J' (D-Day), est la plus grande opération amphibie de l'histoire : 156 000 soldats alliés ont débarqué sur les plages de Normandie. Malgré des pertes considérables, ce débarquement a marqué le tournant final vers la libération de l'Europe occidentale."
+    },
+    {
+      "id": 18,
+      "niveau": 2,
+      "question": "Quel empire a régné sur l'Inde et une grande partie de l'Asie au XIIIe siècle ?",
+      "reponse": "Empire mongol",
+      "variantes": [
+        "les Mongols",
+        "l'empire mongol",
+        "empire de Gengis Khan"
+      ],
+      "anecdote": "L'Empire mongol, fondé par Gengis Khan au début du XIIIe siècle, fut le plus grand empire continu de l'histoire, s'étendant de la Chine à l'Europe. À son apogée sous Kubilaï Khan, il couvrait 24 millions de km². Les Mongols étaient réputés pour leur cavalerie et leur tactique militaire révolutionnaire."
+    },
+    {
+      "id": 19,
+      "niveau": 3,
+      "question": "Qui a écrit la Déclaration d'Indépendance américaine en 1776 ?",
+      "reponse": "Thomas Jefferson",
+      "variantes": [
+        "Jefferson",
+        "thomas jefferson"
+      ],
+      "anecdote": "Thomas Jefferson (1743-1826) est le principal rédacteur de la Déclaration d'Indépendance, adoptée le 4 juillet 1776. Il devint ensuite le troisième président des États-Unis. Il fut aussi un des principaux défenseurs de la séparation de l'Église et de l'État et de la liberté de la presse."
+    },
+    {
+      "id": 20,
+      "niveau": 2,
+      "question": "Quelle langue parlaient les anciens Romains ?",
+      "reponse": "Latin",
+      "variantes": [
+        "le latin",
+        "la langue latine"
+      ],
+      "anecdote": "Le latin était la langue officielle de l'Empire romain et resta la langue savante de l'Europe pendant plus d'un millénaire après la chute de Rome. Il est le père des langues romanes : français, espagnol, portugais, italien, roumain. De nombreux mots scientifiques et juridiques utilisés aujourd'hui sont d'origine latine."
+    },
+    {
+      "id": 21,
+      "niveau": 4,
+      "question": "Quelle est la date de la chute de Constantinople, marquant la fin de l'Empire byzantin ?",
+      "reponse": "1453",
+      "variantes": [
+        "en 1453",
+        "29 mai 1453"
+      ],
+      "anecdote": "Le 29 mai 1453, Constantinople tomba aux mains des Ottomans dirigés par Mehmet II après un siège de 53 jours. Cette date est généralement considérée comme la fin du Moyen Âge. Le jeune sultan avait 21 ans. La ville devint Istanbul et resta la capitale ottomane jusqu'en 1923."
+    },
+    {
+      "id": 22,
+      "niveau": 2,
+      "question": "Quel roi de France fut guillotiné pendant la Révolution française ?",
+      "reponse": "Louis XVI",
+      "variantes": [
+        "Louis XVI",
+        "Louis 16",
+        "le roi Louis XVI"
+      ],
+      "anecdote": "Louis XVI (1754-1793) fut guillotiné le 21 janvier 1793 sur la place de la Révolution (aujourd'hui place de la Concorde) à Paris. Son épouse Marie-Antoinette fut exécutée neuf mois plus tard. Sa mort symbolisa la fin de la monarchie absolue en France."
+    },
+    {
+      "id": 23,
+      "niveau": 2,
+      "question": "Quelle guerre opposa les États-Unis du Nord aux États confédérés du Sud entre 1861 et 1865 ?",
+      "reponse": "Guerre de Sécession",
+      "variantes": [
+        "guerre de sécession",
+        "la guerre civile américaine",
+        "Civil War",
+        "guerre civile américaine"
+      ],
+      "anecdote": "La guerre de Sécession (1861-1865) fut le conflit le plus meurtrier de l'histoire des États-Unis avec 620 000 à 850 000 morts. Elle opposa les États du Nord (Union) aux États du Sud (Confédération) principalement sur la question de l'esclavage et des droits des États. La victoire du Nord entraîna l'abolition de l'esclavage."
+    },
+    {
+      "id": 24,
+      "niveau": 4,
+      "question": "Quel empire a été fondé par Alexandre le Grand au IVe siècle avant J.-C. ?",
+      "reponse": "empire macédonien",
+      "variantes": [
+        "empire macédonien",
+        "l'empire d'Alexandre",
+        "empire grec",
+        "empire hellénistique"
+      ],
+      "anecdote": "Alexandre le Grand (356-323 av. J.-C.) a bâti l'un des plus grands empires de l'Antiquité en seulement 13 ans, s'étendant de la Grèce à l'Inde. Il n'a jamais perdu une bataille. À sa mort à Babylone à 32 ans, son empire fut divisé entre ses généraux (les Diadoques)."
+    },
+    {
+      "id": 25,
+      "niveau": 3,
+      "question": "Quelle était la principale institution politique de la Rome antique républicaine ?",
+      "reponse": "Le Sénat",
+      "variantes": [
+        "le sénat romain",
+        "sénat",
+        "le Sénat romain"
+      ],
+      "anecdote": "Le Sénat romain était une assemblée composée d'environ 300 à 900 membres issus des classes aristocratiques. Il jouait un rôle central dans la politique, la diplomatie et les finances de la République romaine (509-27 av. J.-C.). Ses décisions, appelées 'sénatus-consultes', avaient force de loi."
+    },
+    {
+      "id": 26,
+      "niveau": 3,
+      "question": "Quel traité mit fin à la Première Guerre mondiale en 1919 ?",
+      "reponse": "Traité de Versailles",
+      "variantes": [
+        "versailles",
+        "le traité de Versailles",
+        "traité de versailles"
+      ],
+      "anecdote": "Le Traité de Versailles, signé le 28 juin 1919, imposa à l'Allemagne de lourdes réparations (132 milliards de marks-or), des pertes territoriales importantes et l'article 231 reconnaissant sa 'culpabilité de guerre'. Les humiliations infligées furent partiellement responsables de la montée du nazisme et de la Seconde Guerre mondiale."
+    },
+    {
+      "id": 27,
+      "niveau": 3,
+      "question": "En quelle année la France a-t-elle aboli l'esclavage définitivement ?",
+      "reponse": "1848",
+      "variantes": [
+        "en 1848"
+      ],
+      "anecdote": "L'abolition définitive de l'esclavage en France fut promulguée le 27 avril 1848, sous la IIe République, à l'initiative de Victor Schoelcher. La France avait une première fois aboli l'esclavage en 1794 pendant la Révolution, mais Napoléon l'avait rétabli en 1802 pour des raisons économiques liées aux colonies antillaises."
+    },
+    {
+      "id": 28,
+      "niveau": 2,
+      "question": "Quel pharaon est associé au masque funéraire en or découvert dans la Vallée des Rois ?",
+      "reponse": "Toutânkhamon",
+      "variantes": [
+        "toutânkhamon",
+        "Toutankhamon",
+        "Toutankhamoun",
+        "le roi Tut"
+      ],
+      "anecdote": "Toutânkhamon régna en Égypte de 1332 à 1323 av. J.-C., à seulement 9 ans. Il mourut à 18-19 ans et fut enterré dans la Vallée des Rois. Sa tombe, découverte pratiquement intacte par Howard Carter en 1922, contenait plus de 5 000 objets dont le célèbre masque funéraire en or massif."
+    },
+    {
+      "id": 29,
+      "niveau": 3,
+      "question": "Quel empire a dominé l'Asie Mineure et le Moyen-Orient pendant six siècles jusqu'en 1922 ?",
+      "reponse": "Empire ottoman",
+      "variantes": [
+        "l'empire ottoman",
+        "ottomans",
+        "les Ottomans"
+      ],
+      "anecdote": "L'Empire ottoman a duré de 1299 à 1922, soit 623 ans — l'un des empires les plus durables de l'histoire. À son apogée au XVIe siècle, il s'étendait de l'Algérie à la Perse et de la Hongrie à l'Arabie. Sa capitale, Constantinople (Istanbul), était le carrefour entre l'Orient et l'Occident."
+    },
+    {
+      "id": 30,
+      "niveau": 2,
+      "question": "Quel scientifique publia la théorie de la gravitation universelle au XVIIe siècle ?",
+      "reponse": "Isaac Newton",
+      "variantes": [
+        "Newton",
+        "newton",
+        "sir Isaac Newton"
+      ],
+      "anecdote": "Isaac Newton (1643-1727) a formulé la loi de la gravitation universelle et les lois du mouvement dans ses 'Principia Mathematica' (1687). La légende de la pomme tombant sur sa tête est probablement apocryphe mais illustre sa découverte que la même force gouverne aussi bien la chute des objets que le mouvement des planètes."
+    },
+    {
+      "id": 31,
+      "niveau": 3,
+      "question": "Quel coup d'État porta Napoléon au pouvoir le 9 novembre 1799 ?",
+      "reponse": "Le 18 Brumaire",
+      "variantes": [
+        "18 brumaire",
+        "coup d'état du 18 brumaire",
+        "brumaire"
+      ],
+      "anecdote": "Le coup d'État du 18 Brumaire an VIII (9 novembre 1799) renversa le Directoire et porta Napoléon Bonaparte au pouvoir en tant que Premier consul. Le calendrier révolutionnaire français utilisait des noms tirés de la nature : Brumaire (mois des brumes) était le deuxième mois. Ce coup d'État mit fin à la Révolution française."
+    },
+    {
+      "id": 32,
+      "niveau": 2,
+      "question": "Quelle est la date de l'assassinat de l'archiduc François-Ferdinand, déclencheur de la Première Guerre mondiale ?",
+      "reponse": "1914",
+      "variantes": [
+        "28 juin 1914",
+        "juin 1914"
+      ],
+      "anecdote": "L'archiduc François-Ferdinand d'Autriche et son épouse Sophie furent assassinés le 28 juin 1914 à Sarajevo par Gavrilo Princip, un nationaliste serbe bosniaque de 19 ans. Cet événement déclencha une cascade d'alliances militaires qui mena à la Première Guerre mondiale en quelques semaines."
+    },
+    {
+      "id": 33,
+      "niveau": 4,
+      "question": "Quel traité prit acte en 1648 de la fin de la guerre de Trente Ans et inaugura le système des États-nations en Europe ?",
+      "reponse": "Traités de Westphalie",
+      "variantes": [
+        "Westphalie",
+        "traité de Westphalie",
+        "paix de Westphalie"
+      ],
+      "anecdote": "Les traités de Westphalie (1648) mirent fin à la guerre de Trente Ans (1618-1648) qui avait dévasté l'Europe centrale. Ils établirent le principe de la souveraineté nationale et de la non-ingérence dans les affaires intérieures des États — le fondement du droit international moderne. La guerre fit environ 8 millions de morts."
+    },
+    {
+      "id": 34,
+      "niveau": 4,
+      "question": "Quel conquistador espagnol conquit l'Empire aztèque entre 1519 et 1521 ?",
+      "reponse": "Hernán Cortés",
+      "variantes": [
+        "Cortès",
+        "Cortes",
+        "hernán cortés",
+        "Hernan Cortes"
+      ],
+      "anecdote": "Hernán Cortés (1485-1547) débarqua en 1519 sur les côtes mexicaines avec 600 hommes. Profitant des alliances avec les peuples ennemis des Aztèques et de la croyance en son caractère divin, il captura l'empereur Moctezuma II et fit tomber Tenochtitlan (Mexico) en 1521. Cette conquête marqua la destruction d'une civilisation millénaire."
+    },
+    {
+      "id": 35,
+      "niveau": 2,
+      "question": "Qui fut le premier dirigeant soviétique de l'URSS après la révolution bolchevique de 1917 ?",
+      "reponse": "Lénine",
+      "variantes": [
+        "Vladimir Lénine",
+        "Vladimir Ilitch Lénine",
+        "Vladimir Ilitch Oulianov",
+        "Lénine"
+      ],
+      "anecdote": "Vladimir Ilitch Oulianov, dit Lénine (1870-1924), dirigea la révolution bolchevique d'octobre 1917 qui renversa le gouvernement provisoire russe. Il fonda l'URSS en 1922 et dirigea l'État soviétique jusqu'à sa mort en 1924. Sa dépouille est exposée dans un mausolée sur la Place Rouge à Moscou."
+    },
+    {
+      "id": 36,
+      "niveau": 2,
+      "question": "Quelle grande peste ravagea l'Europe au XIVe siècle, tuant un tiers de sa population ?",
+      "reponse": "Peste noire",
+      "variantes": [
+        "la Peste Noire",
+        "la peste bubonique",
+        "la grande peste",
+        "la mort noire"
+      ],
+      "anecdote": "La Peste noire (1347-1353) fit entre 25 et 50 millions de morts en Europe, soit un tiers à la moitié de la population européenne. Causée par la bactérie Yersinia pestis transmise par les puces des rats, elle arriva en Europe via les ports de Méditerranée. Elle transforma profondément les structures sociales, économiques et religieuses de l'Europe médiévale."
+    },
+    {
+      "id": 37,
+      "niveau": 4,
+      "question": "En quelle année la Russie a-t-elle vendu l'Alaska aux États-Unis ?",
+      "reponse": "1867",
+      "variantes": [
+        "en 1867"
+      ],
+      "anecdote": "Le 30 mars 1867, la Russie vendit l'Alaska aux États-Unis pour 7,2 millions de dollars (soit 2 cents l'acre). Beaucoup d'Américains appelèrent cet achat 'la folie de Seward', du nom du Secrétaire d'État William Seward. La découverte d'or en 1896 et les ressources pétrolières du XXe siècle justifièrent amplement cet investissement."
+    },
+    {
+      "id": 38,
+      "niveau": 2,
+      "question": "Quel était le nom de l'organisation criminelle du régime soviétique sous Staline, responsable de la gestion des camps de travail ?",
+      "reponse": "Goulag",
+      "variantes": [
+        "le Goulag",
+        "goulag"
+      ],
+      "anecdote": "Le Goulag (acronyme de 'Administration principale des camps de travail correctifs') était le système pénitentiaire de l'URSS stalinienne. Entre 1918 et 1956, des millions de personnes y furent internées pour des motifs politiques. On estime que 1,5 à 1,8 million de personnes y moururent, sans compter les exécutions."
+    },
+    {
+      "id": 39,
+      "niveau": 3,
+      "question": "Quel philosophe grec fut condamné à mort et obligé de boire la cigüe en 399 av. J.-C. ?",
+      "reponse": "Socrate",
+      "variantes": [
+        "socrate"
+      ],
+      "anecdote": "Socrate (470-399 av. J.-C.) fut jugé et condamné à mort par un tribunal athénien pour 'impiété' et 'corruption de la jeunesse'. Refusant de s'exiler, il but la cigüe (poison). Il n'a laissé aucun écrit — nous le connaissons à travers les dialogues de son disciple Platon et les écrits de Xénophon."
+    },
+    {
+      "id": 40,
+      "niveau": 2,
+      "question": "Quel est le nom de la révolution qui a transformé l'Angleterre au XVIIIe siècle grâce à la machine à vapeur de James Watt ?",
+      "reponse": "Révolution industrielle",
+      "variantes": [
+        "la Révolution industrielle",
+        "la première révolution industrielle"
+      ],
+      "anecdote": "La Révolution industrielle commença en Angleterre vers 1760 et se propagea en Europe et aux États-Unis au XIXe siècle. L'amélioration de la machine à vapeur par James Watt en 1769 fut déterminante. Ce bouleversement transforma profondément les sociétés : exode rural, urbanisation massive, émergence du prolétariat industriel et du capitalisme moderne."
+    },
+    {
+      "id": 41,
+      "niveau": 3,
+      "question": "Quel amiral britannique vainquit la flotte franco-espagnole à la bataille de Trafalgar en 1805 ?",
+      "reponse": "Nelson",
+      "variantes": [
+        "Horatio Nelson",
+        "lord Nelson",
+        "Lord Nelson",
+        "amiral Nelson"
+      ],
+      "anecdote": "L'amiral Horatio Nelson (1758-1805) remporta la bataille de Trafalgar le 21 octobre 1805 contre la flotte combinée française et espagnole. Cette victoire assura la suprématie navale britannique pour un siècle mais coûta la vie à Nelson, mortellement blessé par un tireur d'élite français. Sa dernière phrase était : 'Dieu merci, j'ai fait mon devoir.'"
+    },
+    {
+      "id": 42,
+      "niveau": 3,
+      "question": "Quel était le métier de Martin Luther, l'initiateur de la Réforme protestante au XVIe siècle ?",
+      "reponse": "Un moine et théologien allemand",
+      "variantes": [
+        "un moine catholique",
+        "un théologien",
+        "un prêtre",
+        "un religieux",
+        "un moine"
+      ],
+      "anecdote": "Martin Luther (1483-1546) était un moine augustinien et professeur de théologie qui affichea ses 95 thèses sur la porte de l'église de Wittenberg en 1517, contestant les indulgences vendues par l'Église catholique. Ce geste déclencha la Réforme protestante, qui divisa le christianisme occidental et engendra de sanglantes guerres de religion."
+    },
+    {
+      "id": 43,
+      "niveau": 4,
+      "question": "Quelle politique Nikita Khrouchtchev a-t-il lancée en 1956 lors du XXe Congrès du Parti communiste ?",
+      "reponse": "Déstalinisation",
+      "variantes": [
+        "la déstalinisation",
+        "dé-stalinisation",
+        "rapport secret"
+      ],
+      "anecdote": "En février 1956, Khrouchtchev prononça un 'rapport secret' devant le XXe Congrès du PCUS, dénonçant le culte de la personnalité de Staline et ses crimes. Cette déstalinisation ouvrit une période de 'dégel' relatif en URSS. Elle choqua les partis communistes du monde entier et contribua aux crises hongroise et polonaise de 1956."
+    },
+    {
+      "id": 44,
+      "niveau": 4,
+      "question": "Quel accord de 1938, dit 'de la honte', permit à Hitler d'annexer les Sudètes tchécoslovaques sans déclencher de guerre ?",
+      "reponse": "Accords de Munich",
+      "variantes": [
+        "Munich",
+        "conférence de Munich",
+        "accords de Munich"
+      ],
+      "anecdote": "Les accords de Munich (30 septembre 1938) furent signés par Hitler, Mussolini, Daladier (France) et Chamberlain (Royaume-Uni). La France et le Royaume-Uni cédèrent les Sudètes à l'Allemagne nazie, croyant préserver la paix. Churchill parla de 'capitulation totale et absolue'. Hitler envahit le reste de la Tchécoslovaquie six mois plus tard."
+    },
+    {
+      "id": 45,
+      "niveau": 2,
+      "question": "Qui dirigea la Chine de 1949 à 1976 et lança la Révolution culturelle ?",
+      "reponse": "Mao Zedong",
+      "variantes": [
+        "Mao Tsé-Toung",
+        "Mao Tse-Tung",
+        "mao zedong",
+        "Mao"
+      ],
+      "anecdote": "Mao Zedong (1893-1976) fonda la République populaire de Chine le 1er octobre 1949. Ses politiques — le Grand Bond en Avant (1958-1962) et la Révolution culturelle (1966-1976) — causèrent entre 40 et 80 millions de morts selon les estimations. Il reste une figure controversée : vénéré par certains, démonisé par d'autres."
+    },
+    {
+      "id": 46,
+      "niveau": 3,
+      "question": "Quel est le nom du procès international organisé après la Seconde Guerre mondiale pour juger les criminels de guerre nazis ?",
+      "reponse": "Procès de Nuremberg",
+      "variantes": [
+        "nuremberg",
+        "les procès de Nuremberg",
+        "tribunal de Nuremberg",
+        "Procès de Nuremberg"
+      ],
+      "anecdote": "Les procès de Nuremberg (1945-1946) furent les premiers tribunaux internationaux à juger des dirigeants d'un État pour crimes contre la paix, crimes de guerre et crimes contre l'humanité. 24 hauts responsables nazis furent jugés, dont Hermann Göring. 12 furent condamnés à mort. Ces procès posèrent les bases du droit pénal international."
+    },
+    {
+      "id": 47,
+      "niveau": 3,
+      "question": "Quelle est la date de la réunification de l'Allemagne après la chute du Mur de Berlin ?",
+      "reponse": "3 octobre 1990",
+      "variantes": [
+        "1990",
+        "octobre 1990",
+        "3 octobre"
+      ],
+      "anecdote": "Le 3 octobre 1990, la République démocratique allemande (Allemagne de l'Est) fut officiellement réunie à la République fédérale d'Allemagne (Allemagne de l'Ouest). Moins d'un an après la chute du Mur de Berlin (9 novembre 1989), la réunification fut menée à une vitesse surprenante. Le 3 octobre est aujourd'hui la fête nationale allemande."
+    },
+    {
+      "id": 48,
+      "niveau": 3,
+      "question": "Qui était nommé le 'Libertador' de l'Amérique du Sud ?",
+      "reponse": "Simón Bolívar",
+      "variantes": [
+        "Bolivar",
+        "Simon Bolivar"
+      ],
+      "anecdote": "Simón Bolívar (1783-1830) fut le principal artisan de l'indépendance de l'Amérique du Sud espagnole. Il libéra six pays actuels : Venezuela, Colombie, Équateur, Pérou, Bolivie (qui porte son nom) et Panama. Son rêve était d'unifier toute l'Amérique latine en une grande fédération, qui ne vit jamais le jour."
+    },
+    {
+      "id": 49,
+      "niveau": 3,
+      "question": "Quelle est la date de la Déclaration d'indépendance des États-Unis ?",
+      "reponse": "4 juillet 1776",
+      "variantes": [
+        "4 juillet",
+        "juillet 1776",
+        "1776"
+      ],
+      "anecdote": "La Déclaration d'Indépendance des États-Unis fut adoptée le 4 juillet 1776 par le Second Congrès continental, séparant les 13 colonies britanniques de la métropole. Ce document proclama que 'tous les hommes sont créés égaux' — principe révolutionnaire mais qui coexistait avec l'esclavage. Le 4 juillet est la fête nationale américaine."
+    },
+    {
+      "id": 50,
+      "niveau": 3,
+      "question": "Quel événement de 1929 déclencha la Grande Dépression mondiale ?",
+      "reponse": "Krach boursier de Wall Street",
+      "variantes": [
+        "le krach de 1929",
+        "le jeudi noir",
+        "la crise de 1929",
+        "Black Thursday",
+        "krach boursier",
+        "crack boursier"
+      ],
+      "anecdote": "Le 'Jeudi Noir' (24 octobre 1929), puis le 'Mardi Noir' (29 octobre) marquèrent l'effondrement de la Bourse de New York. Des millions d'Américains perdirent leurs économies. Le chômage atteignit 25% aux États-Unis. La Grande Dépression s'étendit au monde entier et prépara le terrain aux extrémismes politiques des années 1930."
+    },
+    {
+      "id": 51,
+      "niveau": 4,
+      "question": "Quel maréchal napoléonien fut surnommé 'le Brave des Braves' ?",
+      "reponse": "Ney",
+      "variantes": [
+        "Michel Ney",
+        "le maréchal Ney"
+      ],
+      "anecdote": "Michel Ney (1769-1815), prince de la Moskova et duc d'Elchingen, fut l'un des maréchaux les plus populaires et courageux de Napoléon. Surnommé 'le Brave des Braves' par l'Empereur lui-même, il se distingua dans de nombreuses batailles. Après Waterloo, il fut jugé pour trahison par la Restauration et fusillé en décembre 1815."
+    },
+    {
+      "id": 52,
+      "niveau": 3,
+      "question": "Quelle organisation politique clandestine fut fondée en Russie en 1902 par Lénine et avait pour objectif de renverser le tsarisme ?",
+      "reponse": "Parti bolchevik",
+      "variantes": [
+        "les Bolcheviks",
+        "POSDR",
+        "parti bolchévique",
+        "bolcheviks"
+      ],
+      "anecdote": "Le Parti bolchevik (du russe 'bolshinstvo', majorité) fut la fraction radicale du Parti ouvrier social-démocrate de Russie. Il s'opposait aux mencheviks (minorité) sur la question de l'organisation du parti : Lénine voulait un parti d'élite discipliné, les mencheviks un parti de masse. Les bolcheviks prirent le pouvoir lors de la révolution d'octobre 1917."
+    },
+    {
+      "id": 53,
+      "niveau": 4,
+      "question": "Quels généraux tentèrent un putsch en 1961 ?",
+      "reponse": "Challe, Salan, Jouhaud, Zeller",
+      "variantes": [
+        "Challe",
+        "Salan",
+        "Jouhaud",
+        "Zeller"
+      ],
+      "anecdote": "En avril 1961, quatre généraux français (Challe, Salan, Jouhaud, Zeller) tentèrent un putsch en Algérie contre la politique gaulliste de décolonisation. De Gaulle apparut en uniforme à la télévision et lança un appel aux soldats à la désobéissance. Le putsch échoua en quatre jours, notamment grâce aux soldats qui écoutaient la radio."
+    },
+    {
+      "id": 54,
+      "niveau": 3,
+      "question": "Quelle fut la première nation africaine à obtenir son indépendance au XIXe siècle, après une révolte d'esclaves ?",
+      "reponse": "Haïti",
+      "variantes": [
+        "haïti",
+        "la République d'Haïti"
+      ],
+      "anecdote": "Haïti devint la première République noire indépendante du monde le 1er janvier 1804, après une révolution qui débuta en 1791 sous Toussaint Louverture. C'est la seule révolte d'esclaves de l'histoire à avoir abouti à la création d'un État indépendant. La France reconnut l'indépendance en 1825 contre le paiement d'une indemnité de 150 millions de francs-or."
+    },
+    {
+      "id": 55,
+      "niveau": 4,
+      "question": "Quel accord signé en 1916 entre la France et le Royaume-Uni définit secrètement le partage du Moyen-Orient après l'effondrement de l'Empire ottoman ?",
+      "reponse": "Accord Sykes-Picot",
+      "variantes": [
+        "Sykes-Picot",
+        "accords Sykes-Picot",
+        "traité Sykes-Picot"
+      ],
+      "anecdote": "L'accord Sykes-Picot (mai 1916) fut signé secrètement par le diplomate français François Georges-Picot et le diplomate britannique Mark Sykes. Il divisa le Moyen-Orient en zones d'influence franco-britanniques, traçant des frontières artificielles qui ne tenaient pas compte des réalités ethniques et tribales. Les tensions qu'il engendra alimentent encore aujourd'hui les conflits régionaux."
+    },
+    {
+      "id": 56,
+      "niveau": 4,
+      "question": "Quel roi anglais signa la Magna Carta en 1215, premier texte limitant le pouvoir royal ?",
+      "reponse": "Jean sans Terre",
+      "variantes": [
+        "Jean 1er d'Angleterre",
+        "le roi Jean",
+        "John of England"
+      ],
+      "anecdote": "Le roi Jean d'Angleterre (dit Jean sans Terre, 1166-1216) signa la Magna Carta le 15 juin 1215 à Runnymede, sous la pression des barons révoltés. Ce document limitait pour la première fois les pouvoirs arbitraires du roi et affirmait certains droits individuels. C'est l'un des fondements du constitutionnalisme occidental et des droits de l'homme."
+    },
+    {
+      "id": 57,
+      "niveau": 3,
+      "question": "Quel empire fut détruit en 1898 par la guerre hispano-américaine, perdant Cuba, Porto Rico et les Philippines ?",
+      "reponse": "Empire espagnol",
+      "variantes": [
+        "Espagne",
+        "l'Empire colonial espagnol",
+        "les colonies espagnoles"
+      ],
+      "anecdote": "La guerre hispano-américaine de 1898 marqua la fin de l'empire colonial espagnol dans les Caraïbes et le Pacifique. L'explosion mystérieuse du cuirassé américain USS Maine à La Havane déclencha le conflit. Les États-Unis émergèrent comme puissance mondiale, acquérant Cuba, Porto Rico, Guam et les Philippines par le traité de Paris."
+    },
+    {
+      "id": 58,
+      "niveau": 2,
+      "question": "Quel leader spirituel et politique indien fut assassiné en 1948, quelques mois après l'indépendance de l'Inde ?",
+      "reponse": "Gandhi",
+      "variantes": [
+        "Mahatma Gandhi",
+        "Mohandas Gandhi",
+        "mahatma gandhi"
+      ],
+      "anecdote": "Mohandas Karamchand Gandhi (1869-1948), dit le Mahatma (grande âme), fut assassiné le 30 janvier 1948 à New Delhi par Nathuram Godse, un nationaliste hindou qui lui reprochait son attitude conciliatrice envers les musulmans lors de la partition Inde-Pakistan. Gandhi avait dirigé la résistance non-violente contre la domination britannique."
+    },
+    {
+      "id": 59,
+      "niveau": 3,
+      "question": "Quelle période politique, sous Robespierre, fit environ 40 000 morts en France entre 1793 et 1794 ?",
+      "reponse": "La Terreur",
+      "variantes": [
+        "le règne de la Terreur",
+        "la Grande Terreur",
+        "la période de la Terreur"
+      ],
+      "anecdote": "La Terreur (septembre 1793 - juillet 1794) fut une période de répression politique intense sous le Comité de salut public dirigé par Robespierre. Le Tribunal révolutionnaire envoya à la guillotine des milliers de personnes, nobles, prêtres mais aussi révolutionnaires accusés de modérantisme ou d'extrémisme. Robespierre lui-même fut finalement guillotiné lors du 9 Thermidor."
+    },
+    {
+      "id": 60,
+      "niveau": 4,
+      "question": "Quel amiral japonais planfia l'attaque surprise sur Pearl Harbor le 7 décembre 1941 ?",
+      "reponse": "Isoroku Yamamoto",
+      "variantes": [
+        "Yamamoto",
+        "amiral Yamamoto",
+        "isoroku yamamoto"
+      ],
+      "anecdote": "L'amiral Isoroku Yamamoto (1884-1943) fut l'architecte de l'attaque sur Pearl Harbor, qu'il considérait lui-même risquée. Il avait passé du temps aux États-Unis et connaissait leur puissance industrielle. Après avoir dit 'Je crains que nous n'ayons fait que réveiller un géant endormi', il fut tué en 1943 quand les Américains abattirent son avion grâce aux messages interceptés."
+    },
+    {
+      "id": 61,
+      "niveau": 5,
+      "question": "Quel diplomate représenta la France au Congrès de Vienne en 1815 après la chute de Napoléon ?",
+      "reponse": "Talleyrand",
+      "variantes": [
+        "Charles-Maurice de Talleyrand",
+        "Talleyrand-Périgord",
+        "talleyrand"
+      ],
+      "anecdote": "Charles-Maurice de Talleyrand-Périgord (1754-1838) fut l'un des diplomates les plus habiles de l'histoire française. Évêque avant la Révolution, ministre des Affaires étrangères sous le Directoire, le Consulat et l'Empire, il sauva la France d'un démembrement au Congrès de Vienne en jouant habilement des contradictions entre les vainqueurs. Il servit successivement l'Ancien Régime, la Révolution, Napoléon et Louis XVIII."
+    },
+    {
+      "id": 62,
+      "niveau": 5,
+      "question": "Quel général prussien arriva en renfort à Waterloo et permis la défaite définitive de Napoléon ?",
+      "reponse": "Blücher",
+      "variantes": [
+        "Gebhard von Blücher",
+        "maréchal Blücher",
+        "von Blücher"
+      ],
+      "anecdote": "Gebhard Leberecht von Blücher (1742-1819), surnommé 'Maréchal en Avant' par ses soldats, arriva avec 50 000 Prussiens en fin de journée à Waterloo, transformant ce qui aurait pu être une victoire française incertaine en déroute. Sa détermination contrastait avec les hésitations de ses collègues. Sans son intervention, l'issue de Waterloo aurait pu être très différente."
+    },
+    {
+      "id": 63,
+      "niveau": 4,
+      "question": "Quel général républicain vendéen Napoléon admirait-il au point de dire : 'Voilà un homme' ?",
+      "reponse": "Charette",
+      "variantes": [
+        "François de Charette",
+        "de Charette"
+      ],
+      "anecdote": "François Athanase Charette de la Contrie (1763-1796) fut l'un des chefs militaires les plus redoutables de la guerre de Vendée (1793-1796). Commandant la résistance royaliste vendéenne avec talent et détermination, il résista pendant trois ans aux armées républicaines. Capturé, il fut fusillé à Nantes. Napoléon lui voua une admiration sincère pour ses qualités militaires."
+    },
+    {
+      "id": 64,
+      "niveau": 4,
+      "question": "Quel est le nom de la politique de Bismarck visant à affaiblir l'influence catholique en Allemagne entre 1871 et 1878 ?",
+      "reponse": "Kulturkampf",
+      "variantes": [
+        "kulturkampf",
+        "le Kulturkampf",
+        "combat culturel"
+      ],
+      "anecdote": "Le Kulturkampf ('combat culturel' en allemand) fut une série de lois instaurées par Bismarck pour réduire l'influence de l'Église catholique dans le nouvel Empire allemand (1871). Inspirée par la peur de la loyauté des catholiques envers Rome plutôt que Berlin, cette politique fut finalement abandonnée en 1878, Bismarck ayant besoin du soutien du Zentrum (parti catholique) au Reichstag."
+    },
+    {
+      "id": 65,
+      "niveau": 4,
+      "question": "Quelle conjuration de sénateurs romains assassina Jules César le 15 mars 44 av. J.-C. ?",
+      "reponse": "Les Ides de Mars",
+      "variantes": [
+        "les conjurés",
+        "la conjuration des Ides de mars",
+        "Brutus et Cassius"
+      ],
+      "anecdote": "Jules César fut poignardé 23 fois dans la curie de Pompée par une soixantaine de sénateurs menés par Marcus Junius Brutus et Gaius Cassius Longinus. Shakespeare a immortalisé l'avertissement 'Garde-toi des Ides de mars' et la phrase 'Tu quoque, mi fili' (Toi aussi, mon fils) que César aurait prononcée en reconnaissant Brutus. L'assassinat plongea Rome dans une nouvelle guerre civile."
+    },
+    {
+      "id": 66,
+      "niveau": 4,
+      "question": "Quelle réforme agraire radicale de Mao Zedong dans les années 1950 collectivisa l'agriculture chinoise avec des résultats catastrophiques ?",
+      "reponse": "Grand Bond en Avant",
+      "variantes": [
+        "le Grand Bond en Avant",
+        "Grand Bond en avant"
+      ],
+      "anecdote": "Le Grand Bond en Avant (1958-1962) fut une campagne politique visant à industrialiser rapidement la Chine et à transformer son économie agricole en économie collectivisée. Les réquisitions forcées de nourriture combinées aux mauvaises récoltes et à la mauvaise gestion provoquèrent la Grande Famine chinoise : entre 15 et 55 millions de personnes moururent de faim."
+    },
+    {
+      "id": 67,
+      "niveau": 4,
+      "question": "Quel complot contre Hitler fut déjoué en 1944, dont le principal auteur fut le colonel von Stauffenberg ?",
+      "reponse": "Complot du 20 juillet",
+      "variantes": [
+        "walkyrie",
+        "Opération Walkyrie",
+        "attentat du 20 juillet",
+        "opération valkyrie",
+        "Opération Walkyrie"
+      ],
+      "anecdote": "Le 20 juillet 1944, le colonel Claus von Stauffenberg déposa une mallette piégée dans le quartier général de Hitler à Rastenburg. La bombe explosa mais Hitler survécut par miracle, la table ayant absorbé une partie du souffle. Stauffenberg et 200 autres conjurats furent rapidement arrêtés et exécutés. La résistance interne allemande, souvent méconnue, fut ainsi décimée."
+    },
+    {
+      "id": 68,
+      "niveau": 3,
+      "question": "Quel accord signé en 1939 entre l'Allemagne nazie et l'URSS prévoyait secrètement le partage de l'Europe de l'Est ?",
+      "reponse": "Pacte germano-soviétique",
+      "variantes": [
+        "pacte Molotov-Ribbentrop",
+        "Molotov-Ribbentrop",
+        "pacte germano-soviétique"
+      ],
+      "anecdote": "Le pacte Molotov-Ribbentrop (23 août 1939), signé par les ministres des Affaires étrangères soviétique (Molotov) et allemand (Ribbentrop), stupéfia le monde en associant les deux idéologies ennemies. Ses protocoles secrets divisaient l'Europe de l'Est entre les deux puissances. Hitler viola le pacte en attaquant l'URSS le 22 juin 1941 (Opération Barbarossa)."
+    },
+    {
+      "id": 69,
+      "niveau": 3,
+      "question": "Quelle crise de 1962 faillit provoquer une guerre nucléaire entre les États-Unis et l'URSS ?",
+      "reponse": "Crise des missiles de Cuba",
+      "variantes": [
+        "crise de Cuba",
+        "la crise cubaine",
+        "crise des missiles cubains"
+      ],
+      "anecdote": "La crise des missiles de Cuba (octobre 1962) est considérée comme le moment où le monde fut le plus proche d'une guerre nucléaire. Pendant 13 jours, Kennedy et Khrouchtchev se confrontèrent après la découverte de missiles soviétiques à Cuba. Le dénouement — retrait soviétique contre promesse américaine de ne pas envahir Cuba — fut négocié secrètement."
+    },
+    {
+      "id": 70,
+      "niveau": 4,
+      "question": "Quel chef de guerre mongol brûla Bagdad en 1258, mettant fin au califat abbasside ?",
+      "reponse": "Hulagu Khan",
+      "variantes": [
+        "Hülegü Khan",
+        "Hülegü",
+        "Houlagou Khan"
+      ],
+      "anecdote": "Hulagu Khan (1218-1265), petit-fils de Gengis Khan, ravagea Bagdad en février 1258, massacrant entre 200 000 et 800 000 habitants selon les sources. Le calife Al-Musta'sim fut exécuté enroulé dans un tapis (pour ne pas verser de sang royal sur le sol). Cet événement marqua la fin de l'âge d'or islamique et le déclin irréversible de Bagdad."
+    },
+    {
+      "id": 71,
+      "niveau": 4,
+      "question": "Quel maréchal napoléonien négocia secrètement avec les Alliés et signa la convention de Paris en 1814 ?",
+      "reponse": "Marmont",
+      "variantes": [
+        "Auguste de Marmont",
+        "duc de Raguse",
+        "Marmont"
+      ],
+      "anecdote": "Auguste de Marmont (1774-1852), maréchal et duc de Raguse, capitula avec son corps d'armée et négocia secrètement la reddition de Paris aux Alliés en avril 1814, sans en avoir reçu l'ordre de Napoléon. Cette trahison — que Napoléon ne lui pardonna jamais — permit la chute de l'Empire. Le mot 'raguser' (trahir) entra dans le dictionnaire français."
+    },
+    {
+      "id": 72,
+      "niveau": 4,
+      "question": "Quel amiral ottoman vainquit les flottes vénitiennes à la bataille de Préveza en 1538, dominant ainsi la Méditerranée orientale ?",
+      "reponse": "Barberousse",
+      "variantes": [
+        "Khayr ad-Din Barberousse",
+        "Hayreddin Barberousse",
+        "Hayreddin Pacha"
+      ],
+      "anecdote": "Khayr ad-Din Barberousse (1478-1546) fut l'un des plus grands amiraux de l'histoire ottomane. Né d'un père grec et ayant commencé comme corsaire, il devint amiral-pacha de l'Empire ottoman. Sa victoire à Préveza (1538) contre la flotte de la Sainte Ligue (Venise, Gênes, États pontificaux, Espagne) assura la domination ottomane en Méditerranée pour trois décennies."
+    },
+    {
+      "id": 73,
+      "niveau": 2,
+      "question": "Quel intellectuel français publia 'J'accuse' en 1898, défendant Dreyfus dans le journal L'Aurore ?",
+      "reponse": "Émile Zola",
+      "variantes": [
+        "Zola",
+        "Emile Zola",
+        "émile zola"
+      ],
+      "anecdote": "Le 13 janvier 1898, Émile Zola publia dans L'Aurore une lettre ouverte au président de la République intitulée 'J'accuse...!', dénonçant l'injustice de la condamnation du capitaine Dreyfus pour espionnage. Ce texte divisa la France entre dreyfusards et anti-dreyfusards et donna naissance au rôle de l'intellectuel engagé dans le débat public."
+    },
+    {
+      "id": 74,
+      "niveau": 4,
+      "question": "Quel chef sioux dirigea la résistance contre l'armée américaine et vainquit le général Custer à la bataille de Little Bighorn en 1876 ?",
+      "reponse": "Sitting Bull",
+      "variantes": [
+        "Sitting Bull",
+        "Taureau Assis",
+        "Tatanka Yotanka"
+      ],
+      "anecdote": "Sitting Bull (vers 1831-1890) fut un chef spirituel et militaire Hunkpapa Lakota. La bataille de Little Bighorn (25-26 juin 1876), coordonnée avec Crazy Horse, vit la destruction du 7e régiment de cavalerie de Custer — la plus grande défaite militaire américaine contre les Amérindiens. Sitting Bull fut assassiné en 1890, lors de la répression du mouvement Ghost Dance."
+    },
+    {
+      "id": 75,
+      "niveau": 4,
+      "question": "Quel moine franciscain et inquisiteur espagnol fut nommé Grand Inquisiteur par Isabelle de Castille en 1483 ?",
+      "reponse": "Torquemada",
+      "variantes": [
+        "Tomás de Torquemada",
+        "Tomas de Torquemada"
+      ],
+      "anecdote": "Tomás de Torquemada (1420-1498) fut le premier Grand Inquisiteur d'Espagne. Sous son autorité, l'Inquisition espagnole processa des milliers de personnes (principalement des convertis accusés de judaïser en secret). On estime qu'entre 2 000 et 6 000 personnes furent brûlées sous son inquisitorat. Son nom est devenu synonyme de fanatisme religieux."
+    },
+    {
+      "id": 76,
+      "niveau": 2,
+      "question": "Quelle guerre civile (1936-1939) se termina par la victoire de Franco et fit environ 500 000 morts ?",
+      "reponse": "Guerre civile espagnole",
+      "variantes": [
+        "la guerre d'Espagne",
+        "guerre d'Espagne",
+        "Spanish Civil War"
+      ],
+      "anecdote": "La guerre civile espagnole (1936-1939) opposa les Républicains (soutenu par l'URSS et les Brigades internationales) aux Nationalistes de Franco (soutenus par l'Allemagne nazie et l'Italie fasciste). Elle fut le prélude à la Seconde Guerre mondiale et attira des intellectuels du monde entier. Picasso y répondit par son célèbre tableau Guernica."
+    },
+    {
+      "id": 77,
+      "niveau": 4,
+      "question": "Quel gouverneur militaire japonais de la seconde moitié du XVIe siècle réunifie le Japon après un siècle de guerres civiles ?",
+      "reponse": "Toyotomi Hideyoshi",
+      "variantes": [
+        "Hideyoshi",
+        "Toyotomi"
+      ],
+      "anecdote": "Toyotomi Hideyoshi (1537-1598) était de basse extraction (fils de paysan) mais devint le maître du Japon par sa seule valeur militaire et politique. Il réunifie le Japon après un siècle de guerres civiles (Sengoku). Il fit deux expéditions désastreuses en Corée (1592, 1597) et mourut avant d'avoir pu consolider ses conquêtes. Ses successeurs furent défaits par Tokugawa Ieyasu."
+    },
+    {
+      "id": 78,
+      "niveau": 1,
+      "question": "Qui publia 'Mein Kampf' depuis sa prison de Landsberg en 1924 ?",
+      "reponse": "Adolf Hitler",
+      "variantes": [
+        "Hitler",
+        "adolf hitler"
+      ],
+      "anecdote": "Adolf Hitler rédigea 'Mein Kampf' (Mon Combat) lors de son emprisonnement après le putsch raté de Munich (novembre 1923). Ce livre exposait clairement son idéologie antisémite, son nationalisme exacerbé et ses ambitions expansionnistes. Malgré les avertissements contenus dans ce texte, ses projets ne furent pas pris au sérieux par les démocraties occidentales."
+    },
+    {
+      "id": 79,
+      "niveau": 3,
+      "question": "Quel empire, centré sur Angkor Wat, domina l'Asie du Sud-Est entre le IXe et le XVe siècle ?",
+      "reponse": "Empire khmer",
+      "variantes": [
+        "les Khmers",
+        "empire d'Angkor",
+        "l'empire khmer",
+        "Khmer"
+      ],
+      "anecdote": "L'Empire khmer (802-1431) fut l'un des plus grands empires d'Asie du Sud-Est. Son apogée fut le règne de Suryavarman II (XIIe siècle), qui fit construire Angkor Wat — le plus grand temple du monde et le monument religieux le plus grand jamais construit. L'empire était connu pour ses techniques d'irrigation sophistiquées qui permettaient plusieurs récoltes par an."
+    },
+    {
+      "id": 80,
+      "niveau": 4,
+      "question": "Quel accord secret signé entre la France et la Grande-Bretagne en 1904 mit fin à des décennies de rivalité coloniale ?",
+      "reponse": "Entente cordiale",
+      "variantes": [
+        "l'Entente cordiale",
+        "entente cordiale"
+      ],
+      "anecdote": "L'Entente cordiale (8 avril 1904) était un ensemble d'accords entre la France et le Royaume-Uni réglant leurs différends coloniaux : la France reconnaissait la suprématie britannique en Égypte, le Royaume-Uni reconnaissait celle de la France au Maroc. Cet accord fut le fondement de l'alliance franco-britannique qui allait affronter l'Allemagne en 1914."
+    },
+    {
+      "id": 81,
+      "niveau": 5,
+      "question": "Quel général républicain vendéen Napoléon admira-t-il au point de dire 'Voilà un homme' lors de son exécution en 1796 ?",
+      "reponse": "Charette",
+      "variantes": [
+        "François de Charette",
+        "de Charette",
+        "Charette de la Contrie"
+      ],
+      "anecdote": "Charette fut l'un des derniers chefs vendéens à résister. Capturé blessé en mars 1796 dans la forêt de la Chabotterie, il fut fusillé à Nantes le 29 mars 1796. Face au peloton d'exécution, il plaça lui-même sa main sur son cœur pour guider les tireurs, refusant d'avoir les yeux bandés. Son courage impressionna même ses adversaires républicains, dont le futur Napoléon."
+    },
+    {
+      "id": 82,
+      "niveau": 5,
+      "question": "Quel est le nom de la politique prônée par les États-Unis en Chine en 1899 pour s'opposer au partage de la Chine entre les grandes puissances ?",
+      "reponse": "Politique de la Porte Ouverte",
+      "variantes": [
+        "Open Door Policy",
+        "doctrine de la porte ouverte"
+      ],
+      "anecdote": "La 'Politique de la Porte Ouverte' fut formulée par le Secrétaire d'État américain John Hay en 1899 et 1900. Face au risque de démembrement de la Chine entre les grandes puissances (Russie, Grande-Bretagne, France, Allemagne, Japon), les États-Unis proposèrent un accès commercial égal à tous dans une Chine unifiée. Cette doctrine guida la politique américaine en Asie jusqu'à la Seconde Guerre mondiale."
+    },
+    {
+      "id": 83,
+      "niveau": 5,
+      "question": "Quel chef de l'Armée de la renaissance nationale vietnamienne mena les Viet Minh contre les Français à la bataille de Diên Biên Phu en 1954 ?",
+      "reponse": "Võ Nguyên Giáp",
+      "variantes": [
+        "Giap",
+        "général Giap",
+        "Vo Nguyen Giap"
+      ],
+      "anecdote": "Võ Nguyên Giáp (1911-2013) fut l'architecte de la victoire à Diên Biên Phu (mars-mai 1954) qui mit fin à la présence coloniale française en Indochine. Autodidacte militaire, il tira une leçon définitive de la bataille : aucune armée, aussi technologiquement supérieure soit-elle, ne peut vaincre une guerre de guérilla avec un soutien populaire massif. Il appliqua la même stratégie contre les États-Unis."
+    },
+    {
+      "id": 84,
+      "niveau": 4,
+      "question": "Quel est le nom de la politique de tolérance religieuse promulguée par Henri IV en 1598 et révoquée par Louis XIV en 1685 ?",
+      "reponse": "Édit de Nantes",
+      "variantes": [
+        "l'édit de Nantes",
+        "édit de nantes"
+      ],
+      "anecdote": "L'édit de Nantes (1598) accordait aux protestants huguenots la liberté de culte dans certaines villes et des droits civiques égaux à ceux des catholiques. Sa révocation par Louis XIV en 1685 (édit de Fontainebleau) provoqua l'exil de 200 000 à 400 000 huguenots vers l'Angleterre, la Prusse et les Pays-Bas, privant la France d'une partie de ses artisans et intellectuels les plus compétents."
+    },
+    {
+      "id": 85,
+      "niveau": 5,
+      "question": "Quel moine byzantin, avec son frère Méthode, créa l'alphabet cyrillique au IXe siècle pour écrire les langues slaves ?",
+      "reponse": "Cyrille",
+      "variantes": [
+        "saint Cyrille",
+        "Constantin-Cyrille",
+        "Konstantin Tsyril"
+      ],
+      "anecdote": "Cyrille (826-869), né Constantin, et son frère Méthode (815-885) furent envoyés en Grande-Moravie par l'Église byzantine pour y évangéliser les Slaves en leur langue maternelle. Cyrille créa un alphabet (d'abord le glagolitique, puis ses successeurs développèrent le cyrillique) pour traduire les textes liturgiques. Plus de 250 millions de personnes utilisent aujourd'hui le cyrillique."
+    },
+    {
+      "id": 86,
+      "niveau": 5,
+      "question": "Quel accord de partage du monde fut signé en 1494 entre l'Espagne et le Portugal, arbitré par le pape Alexandre VI ?",
+      "reponse": "Traité de Tordesillas",
+      "variantes": [
+        "Tordesillas",
+        "traité de tordesillas"
+      ],
+      "anecdote": "Le Traité de Tordesillas (7 juin 1494) divisa le monde en deux hémisphères par un méridien imaginaire situé à 370 lieues à l'ouest des îles du Cap-Vert. À l'ouest : l'Espagne ; à l'est : le Portugal. Ce traité explique pourquoi le Brésil parle portugais alors que le reste de l'Amérique du Sud parle espagnol. Les autres puissances européennes ignorèrent largement cet accord."
+    },
+    {
+      "id": 87,
+      "niveau": 5,
+      "question": "Quel mouvement nationaliste arabe panarabiste dirigé par Gamal Abdel Nasser nationalisa le canal de Suez en 1956 ?",
+      "reponse": "Nassérisme",
+      "variantes": [
+        "Nasser",
+        "le nassérisme",
+        "Gamal Abdel Nasser"
+      ],
+      "anecdote": "Gamal Abdel Nasser (1918-1970) nationalisa le canal de Suez le 26 juillet 1956, provoquant la crise de Suez. La France, le Royaume-Uni et Israël attaquèrent l'Égypte, mais durent se retirer sous la pression des États-Unis et de l'URSS. Cet épisode marqua la fin de la puissance coloniale franco-britannique et hissa Nasser au rang de héros du monde arabe."
+    },
+    {
+      "id": 88,
+      "niveau": 4,
+      "question": "Quel philosophe et mathématicien grec, fondateur de l'Académie, fut l'élève de Socrate et le maître d'Aristote ?",
+      "reponse": "Platon",
+      "variantes": [
+        "platon"
+      ],
+      "anecdote": "Platon (428-348 av. J.-C.) est l'un des philosophes les plus influents de l'histoire. Il fonda l'Académie d'Athènes vers 387 av. J.-C. — la première institution d'enseignement supérieur du monde occidental. Ses dialogues socratiques (La République, Le Banquet, Phédon) ont posé les bases de la philosophie, de la métaphysique et de la théorie politique occidentales."
+    },
+    {
+      "id": 89,
+      "niveau": 5,
+      "question": "Quelle expédition scientifique britannique (1768-1771) permit à James Cook de cartographier le Pacifique et d'observer le transit de Vénus ?",
+      "reponse": "Premier voyage de James Cook",
+      "variantes": [
+        "voyage du Endeavour",
+        "expédition du capitaine Cook",
+        "premier voyage de Cook"
+      ],
+      "anecdote": "Le premier voyage de James Cook (1768-1771) à bord du HMS Endeavour fut l'une des plus importantes expéditions scientifiques de l'histoire. Cook cartographia la Nouvelle-Zélande et la côte est de l'Australie, qu'il revendiqua pour la Couronne britannique. Joseph Banks, botaniste embarqué, ramena des milliers de spécimens végétaux inconnus en Europe."
+    },
+    {
+      "id": 90,
+      "niveau": 4,
+      "question": "Quel est le nom de la purge stalinienne de 1936-1938 qui élimina une grande partie des dirigeants du Parti communiste soviétique ?",
+      "reponse": "Grande Terreur",
+      "variantes": [
+        "les grandes purges",
+        "Iejovtchina",
+        "Yejovshchina",
+        "purges staliniennes"
+      ],
+      "anecdote": "La Grande Terreur (1936-1938), parfois appelée Iejovtchina (du nom du chef du NKVD Nikolaï Iejov), fit exécuter environ 750 000 personnes et en envoya des millions dans les camps du Goulag. Elle décapita l'état-major de l'Armée rouge (dont les trois quarts des maréchaux furent éliminés) — ce qui explique en partie les catastrophes militaires soviétiques de 1941."
+    },
+    {
+      "id": 91,
+      "niveau": 5,
+      "question": "Quel maréchal signe la convention de Paris en 1814 après avoir négocié secrètement avec les Alliés, précipitant la chute de Napoléon ?",
+      "reponse": "Marmont",
+      "variantes": [
+        "Auguste de Marmont",
+        "duc de Raguse"
+      ],
+      "anecdote": "Marmont (duc de Raguse) capitula avec son 6e corps d'armée sans ordre de Napoléon dans la nuit du 4 au 5 avril 1814, permettant aux Alliés d'avancer sur Paris. Napoléon, apprenant la nouvelle, dit : 'Ce que Marmont vient de faire surpasse en lâcheté tout ce que j'ai jamais vu.' La trahison de Marmont fut un tournant décisif vers l'abdication de Napoléon."
+    },
+    {
+      "id": 92,
+      "niveau": 3,
+      "question": "Quelle fut la politique de reconstruction économique américaine en Europe après la Seconde Guerre mondiale proposée par le Secrétaire d'État George Marshall en 1947 ?",
+      "reponse": "Plan Marshall",
+      "variantes": [
+        "le plan Marshall",
+        "plan marshall",
+        "European Recovery Program"
+      ],
+      "anecdote": "Le Plan Marshall (European Recovery Program, 1948-1952) injecta 13 milliards de dollars (environ 150 milliards en valeur actuelle) dans la reconstruction de l'Europe occidentale. Motivé autant par la générosité que par la stratégie (prévenir l'expansion communiste), il fut refusé par l'URSS et ses satellites. L'Europe occidentale connut une croissance économique spectaculaire dès les années 1950."
+    },
+    {
+      "id": 93,
+      "niveau": 4,
+      "question": "Quel est le nom de la politique de terreur mise en place par Pol Pot au Cambodge entre 1975 et 1979, qui extermina environ 2 millions de personnes ?",
+      "reponse": "Année zéro",
+      "variantes": [
+        "les Khmers rouges",
+        "régime khmer rouge",
+        "l'année zéro"
+      ],
+      "anecdote": "Les Khmers rouges de Pol Pot prirent le pouvoir en avril 1975 et instaurèrent l'Année Zéro, voulant créer une société agraire communiste pure. Les villes furent vidées, les intellectuels exécutés, et les Champs de la Mort accueillirent les cadavres de 1,5 à 2 millions de personnes (un quart de la population cambodgienne). Le régime fut renversé par l'invasion vietnamienne en 1979."
+    },
+    {
+      "id": 94,
+      "niveau": 5,
+      "question": "Quel agent double soviétique infiltra le MI6 britannique pendant plus de 20 ans et ne fut démasqué qu'en 1963 ?",
+      "reponse": "Kim Philby",
+      "variantes": [
+        "Harold Kim Philby",
+        "philby"
+      ],
+      "anecdote": "Harold 'Kim' Philby (1912-1988) fut l'un des plus grands espions de l'histoire — membre du Cambridge Five, un groupe d'agents soviétiques recrutés à Cambridge dans les années 1930. Chef du contre-espionnage soviétique au MI6, il compromit d'innombrables agents occidentaux. S'enfuyant à Moscou en 1963, il y vécut jusqu'à sa mort, décoré de l'Ordre de Lénine."
+    },
+    {
+      "id": 95,
+      "niveau": 5,
+      "question": "Quel est le nom du traité de 1494 qui, dans sa version précise, établit le méridien de partage à 370 lieues marines à l'ouest des îles du Cap-Vert ?",
+      "reponse": "Traité de Tordesillas",
+      "variantes": [
+        "traité de tordesillas",
+        "Tordesillas"
+      ],
+      "anecdote": "Le méridien de Tordesillas passait approximativement à 46°30' de longitude ouest. Lors du Traité de Saragosse (1529), une ligne similaire fut tracée dans l'hémisphère oriental pour délimiter les zones d'influence espagnole et portugaise dans le Pacifique. Ces traités furent les premiers à prétendre diviser le globe entier entre deux puissances coloniales."
+    },
+    {
+      "id": 96,
+      "niveau": 5,
+      "question": "Quel est le nom de la bataille de 636 qui vit la défaite de l'armée byzantine face aux Arabes musulmans et ouvrit la voie à la conquête du Proche-Orient ?",
+      "reponse": "Bataille du Yarmouk",
+      "variantes": [
+        "Yarmouk",
+        "bataille de Yarmouk"
+      ],
+      "anecdote": "La bataille du Yarmouk (août 636) opposa les forces arabes de Khaled ibn al-Walid à l'armée byzantine de l'empereur Héraclius. La déroute byzantine fut totale, ouvrant le Levant, la Syrie et la Palestine à la conquête arabe. Cette bataille est considérée comme l'une des plus décisives de l'histoire, marquant le début de l'expansion de l'Islam hors de la péninsule arabique."
+    },
+    {
+      "id": 97,
+      "niveau": 5,
+      "question": "Quel économiste britannique publia en 1936 'La théorie générale de l'emploi, de l'intérêt et de la monnaie', révolutionnant la macroéconomie ?",
+      "reponse": "John Maynard Keynes",
+      "variantes": [
+        "Keynes",
+        "Maynard Keynes",
+        "keynes"
+      ],
+      "anecdote": "John Maynard Keynes (1883-1946) révolutionna la pensée économique en affirmant que les gouvernements devaient intervenir activement pour stimuler l'économie en période de crise par la dépense publique. Son influence domina la politique économique mondiale de 1945 aux années 1970. Il fut aussi l'architecte du système monétaire international de Bretton Woods en 1944."
+    },
+    {
+      "id": 98,
+      "niveau": 5,
+      "question": "Quel accord de 1648 reconnut officiellement l'existence de la Confédération suisse comme entité indépendante du Saint-Empire romain germanique ?",
+      "reponse": "Traités de Westphalie",
+      "variantes": [
+        "traité de Westphalie",
+        "paix de Westphalie"
+      ],
+      "anecdote": "Les Traités de Westphalie (octobre 1648) reconnurent l'indépendance des Provinces-Unies (Pays-Bas) et de la Confédération suisse vis-à-vis du Saint-Empire romain germanique. Ils mirent fin à la Guerre de Trente Ans et posèrent les bases du système international moderne fondé sur la souveraineté des États, le principe de non-ingérence et l'équilibre des puissances."
+    },
+    {
+      "id": 99,
+      "niveau": 5,
+      "question": "Quel chef de guerre romain vainquit Hannibal à la bataille de Zama en 202 av. J.-C., mettant fin à la Deuxième Guerre punique ?",
+      "reponse": "Scipion l'Africain",
+      "variantes": [
+        "Scipion",
+        "Publius Cornelius Scipio",
+        "Scipio Africanus"
+      ],
+      "anecdote": "Publius Cornelius Scipio Africanus (236-183 av. J.-C.) fut le premier général romain à porter un surnom tiré d'une conquête étrangère (Africanus). Il emprunta les tactiques d'Hannibal pour le battre à Zama. Après cette victoire, Carthage fut réduite à une puissance secondaire. Scipio répondit à ses accusateurs lors d'un procès ultérieur : 'Romains, aujourd'hui est l'anniversaire de ma victoire sur Carthage. Allons rendre grâce aux dieux.'"
+    },
+    {
+      "id": 100,
+      "niveau": 5,
+      "question": "Quel est le nom de la politique de 'socialisme de marché' lancée par Deng Xiaoping en Chine à partir de 1978, qui transforma le pays en puissance économique mondiale ?",
+      "reponse": "Quatre modernisations",
+      "variantes": [
+        "réforme et ouverture",
+        "gaige kaifang",
+        "politique des quatre modernisations",
+        "les quatre modernisations"
+      ],
+      "anecdote": "Les 'Quatre Modernisations' de Deng Xiaoping (agriculture, industrie, science et technologie, défense) lancées en 1978 transformèrent la Chine d'une économie planifiée maoïste en une économie de marché socialiste. Cette politique sortit 800 millions de Chinois de l'extrême pauvreté en 40 ans et fit de la Chine la deuxième économie mondiale, au prix de contradictions politiques profondes illustrées par les événements de Tiananmen en 1989."
+    }
+  ]
+}

@@ -1,0 +1,647 @@
+{
+  "theme": "nature",
+  "questions": [
+    {
+      "id": 1,
+      "niveau": 1,
+      "question": "Quel est le plus grand animal terrestre du monde ?",
+      "reponse": "Éléphant d'Afrique",
+      "variantes": [
+        "éléphant",
+        "l'éléphant d'Afrique",
+        "éléphant africain"
+      ],
+      "anecdote": "L'éléphant d'Afrique (Loxodonta africana) est le plus grand animal terrestre, pesant jusqu'à 7 tonnes et mesurant jusqu'à 4 mètres au garrot. Sa trompe, qui peut contenir 8 litres d'eau, est un organe multifonctionnel servant à boire, respirer, sentir, toucher et communiquer. Les éléphants ont la mémoire remarquablement précise et vivent jusqu'à 70 ans."
+    },
+    {
+      "id": 2,
+      "niveau": 1,
+      "question": "De quelle couleur est le pelage d'un ours polaire ?",
+      "reponse": "Blanc",
+      "variantes": [
+        "blanc",
+        "blanc crème"
+      ],
+      "anecdote": "Le pelage de l'ours polaire est en réalité transparent et incolore — il paraît blanc par réflexion de la lumière. Sa peau est noire pour absorber la chaleur du soleil. La graisse de l'ours polaire peut atteindre 10 cm d'épaisseur. Ces animaux sont d'excellents nageurs, pouvant parcourir des centaines de kilomètres en mer."
+    },
+    {
+      "id": 3,
+      "niveau": 1,
+      "question": "Comment appelle-t-on l'animal qui mange uniquement des plantes ?",
+      "reponse": "Herbivore",
+      "variantes": [
+        "herbivore",
+        "un herbivore"
+      ],
+      "anecdote": "Un herbivore est un animal qui se nourrit exclusivement de végétaux. Les herbivores ont développé des adaptations anatomiques spécifiques : dents plates pour broyer, système digestif long avec plusieurs estomacs (ruminants), instinct grégaire pour la défense. Les principaux herbivores terrestres sont les vaches, moutons, chevaux, éléphants, cerfs et girafes."
+    },
+    {
+      "id": 4,
+      "niveau": 1,
+      "question": "Quel oiseau ne peut pas voler et est le plus grand du monde ?",
+      "reponse": "Autruche",
+      "variantes": [
+        "l'autruche",
+        "autruche d'Afrique"
+      ],
+      "anecdote": "L'autruche (Struthio camelus) est le plus grand oiseau vivant, atteignant 2,8 m de hauteur et 160 kg. Incapable de voler, elle court à 70 km/h et peut maintenir 50 km/h sur de longues distances. Elle pond les plus grands œufs du monde (1,5 kg). L'autruche est le seul oiseau à avoir deux doigts aux pattes — une adaptation à la course en terrain ouvert."
+    },
+    {
+      "id": 5,
+      "niveau": 1,
+      "question": "Combien de pattes a une araignée ?",
+      "reponse": "8",
+      "variantes": [
+        "huit",
+        "8 pattes"
+      ],
+      "anecdote": "Les araignées appartiennent à la classe des arachnides et possèdent 8 pattes, contrairement aux insectes qui en ont 6. Il existe plus de 45 000 espèces d'araignées décrites. Presque toutes sont venimeuses, mais seules quelques dizaines d'espèces peuvent être dangereuses pour l'homme. Les araignées produisent de la soie, l'un des matériaux naturels les plus résistants proportionnellement à leur poids."
+    },
+    {
+      "id": 6,
+      "niveau": 1,
+      "question": "Quelle est la plus grande forêt tropicale du monde ?",
+      "reponse": "Forêt amazonienne",
+      "variantes": [
+        "Amazonie",
+        "la forêt d'Amazonie",
+        "forêt amazoniaque",
+        "Amazonienne"
+      ],
+      "anecdote": "La forêt amazonienne couvre 5,5 millions de km², dont 60% au Brésil. Elle abrite 10% des espèces animales et végétales connues de la planète. La forêt produit 20% de l'oxygène terrestre et est surnommée 'le poumon de la Terre'. Elle subit une déforestation massive : environ 17% de la forêt originelle a déjà disparu."
+    },
+    {
+      "id": 7,
+      "niveau": 1,
+      "question": "Quel est le plus grand mammifère marin du monde ?",
+      "reponse": "Baleine bleue",
+      "variantes": [
+        "la baleine bleue",
+        "rorqual bleu",
+        "baleine bleue"
+      ],
+      "anecdote": "La baleine bleue (Balaenoptera musculus) est le plus grand animal connu ayant jamais vécu sur Terre, atteignant 30 m de long et 180 tonnes. Son cœur pèse environ 500 kg et bat seulement 8 à 10 fois par minute. Sa langue seule pèse autant qu'un éléphant. Sa voix — des 'chants' de basse fréquence — peut être entendue à des centaines de kilomètres sous l'eau."
+    },
+    {
+      "id": 8,
+      "niveau": 2,
+      "question": "Comment s'appelle le processus par lequel un papillon se développe à partir d'un cocon ?",
+      "reponse": "Métamorphose",
+      "variantes": [
+        "la métamorphose",
+        "transformation"
+      ],
+      "anecdote": "La métamorphose complète (holométabole) du papillon passe par quatre stades : œuf, larve (chenille), chrysalide (cocon), adulte (imago). Dans la chrysalide, la chenille se dissout presque entièrement en une 'soupe' de cellules qui se réorganisent en papillon. Ce processus peut durer de quelques semaines à plusieurs mois selon les espèces."
+    },
+    {
+      "id": 9,
+      "niveau": 1,
+      "question": "Quel animal est considéré comme le meilleur ami de l'homme ?",
+      "reponse": "Le chien",
+      "variantes": [
+        "chien",
+        "le chien domestique",
+        "Canis familiaris"
+      ],
+      "anecdote": "Le chien (Canis lupus familiaris) est le premier animal domestiqué par l'humain, il y a environ 15 000 à 40 000 ans à partir du loup gris. Il existe plus de 350 races officiellement reconnues. Les chiens ont développé la capacité unique à lire les émotions humaines dans notre visage — une aptitude que même les chimpanzés ne possèdent pas à ce degré."
+    },
+    {
+      "id": 10,
+      "niveau": 1,
+      "question": "Comment appelle-t-on l'animal qui produit le miel ?",
+      "reponse": "Abeille",
+      "variantes": [
+        "une abeille",
+        "les abeilles"
+      ],
+      "anecdote": "Les abeilles jouent un rôle essentiel dans la pollinisation des plantes. Une seule colonie peut compter plusieurs dizaines de milliers d'individus."
+    },
+    {
+      "id": 11,
+      "niveau": 1,
+      "question": "Comment appelle-t-on la couche verte qui recouvre parfois les pierres et les troncs d'arbres ?",
+      "reponse": "Mousse",
+      "variantes": [
+        "la mousse",
+        "une mousse"
+      ],
+      "anecdote": "Les mousses sont parmi les plus anciennes plantes terrestres. Elles poussent souvent dans des endroits humides et ombragés."
+    },
+    {
+      "id": 12,
+      "niveau": 1,
+      "question": "Quel est le plus rapide des animaux terrestres ?",
+      "reponse": "Guépard",
+      "variantes": [
+        "le guépard",
+        "Acinonyx jubatus"
+      ],
+      "anecdote": "Le guépard (Acinonyx jubatus) est le mammifère terrestre le plus rapide, atteignant 112 km/h sur de courtes distances. Son accélération est impressionnante : 0 à 96 km/h en 3 secondes. Ses griffes semi-rétractiles lui servent de crampons. Pour chasser, le guépard mise sur la vitesse et la surprise, mais doit récupérer après chaque sprint avant de pouvoir manger sa proie."
+    },
+    {
+      "id": 13,
+      "niveau": 1,
+      "question": "Quel est le nom de la substance protectrice sécrétée par les arbres pour cicatriser leurs blessures, et qui peut fossiliser en ambre ?",
+      "reponse": "Résine",
+      "variantes": [
+        "la résine",
+        "résine végétale",
+        "sève de résine"
+      ],
+      "anecdote": "La résine est une substance visqueuse sécrétée par de nombreuses plantes, notamment les conifères, pour protéger leurs blessures des agents pathogènes. L'ambre est de la résine fossilisée — certains ambres contiennent des insectes vieux de 100 millions d'années parfaitement conservés, permettant aux scientifiques d'étudier des espèces disparues. L'ambre de la Baltique peut avoir 40 à 65 millions d'années."
+    },
+    {
+      "id": 14,
+      "niveau": 4,
+      "question": "Quel est le plus venimeux des serpents du monde ?",
+      "reponse": "Taipan du désert",
+      "variantes": [
+        "taipan intérieur",
+        "Oxyuranus microlepidotus",
+        "fierce snake",
+        "taipan"
+      ],
+      "anecdote": "Le Taipan du désert (Oxyuranus microlepidotus), ou 'fierce snake', d'Australie est le serpent le plus venimeux du monde : son venin est 50 fois plus puissant que celui du cobra royal. Une seule morsure contient suffisamment de venin pour tuer 100 adultes. Cependant, il est extrêmement discret et peu agressif envers l'homme ; aucun décès humain directement attribué n'est documenté."
+    },
+    {
+      "id": 15,
+      "niveau": 1,
+      "question": "Quelle plante est connue pour piéger et digérer des insectes pour se nourrir ?",
+      "reponse": "Plante carnivore",
+      "variantes": [
+        "la vénus attrape-mouche",
+        "la drosère",
+        "plante insectivore",
+        "Dionaea muscipula",
+        "carnivore"
+      ],
+      "anecdote": "Les plantes carnivores (Dionaea, Drosera, Nepenthes, Sarracenia) ont évolué dans des sols pauvres en azote. Elles capturent des insectes pour compléter leur alimentation. La Vénus attrape-mouche (Dionaea muscipula) ferme son piège en 100 millisecondes — l'un des mouvements les plus rapides du règne végétal. Il existe environ 700 espèces de plantes carnivores."
+    },
+    {
+      "id": 16,
+      "niveau": 4,
+      "question": "Quel oiseau migre le plus loin sur la Terre, effectuant un voyage aller-retour de 90 000 km par an ?",
+      "reponse": "Sterne arctique",
+      "variantes": [
+        "la sterne arctique",
+        "Sterna paradisaea"
+      ],
+      "anecdote": "La sterne arctique (Sterna paradisaea) effectue la plus longue migration connue chez les animaux : elle niche en Arctique et passe l'hiver en Antarctique, parcourant 70 000 à 90 000 km par an. Sur une vie de 30 ans, elle voyage ainsi plus de 2,4 millions de km — équivalent à 3 voyages aller-retour de la Terre à la Lune. Elle voit ainsi deux étés par an."
+    },
+    {
+      "id": 17,
+      "niveau": 4,
+      "question": "Quel est le plus petit mammifère du monde ?",
+      "reponse": "Pachyure étrusque",
+      "variantes": [
+        "la musaraigne étrusque",
+        "Suncus etruscus",
+        "musaraigne pygmée",
+        "musaraigne"
+      ],
+      "anecdote": "La pachyure étrusque (ou musaraigne étrusque, Suncus etruscus) dispute avec la chauve-souris bourdon le titre de plus petit mammifère du monde, avec une longueur de 3,5 cm et un poids de 1,5 à 2,5 grammes. Son cœur bat 1 500 fois par minute. Elle doit manger presque sans interruption pour maintenir sa température corporelle."
+    },
+    {
+      "id": 18,
+      "niveau": 1,
+      "question": "Quel phénomène naturel permet à certains animaux (comme les grenouilles) de survivre en hiver en ralentissant leur métabolisme ?",
+      "reponse": "Hibernation",
+      "variantes": [
+        "l'hibernation",
+        "torpeur hivernale"
+      ],
+      "anecdote": "L'hibernation est un état de torpeur profonde permettant aux animaux de survivre à des périodes défavorables. La température corporelle de l'ours descend à 31°C (contre 38°C normalement), son rythme cardiaque de 55 à 9 battements/minute. Le tamia et la marmotte entrent dans une torpeur encore plus profonde. Les grenouilles ne font pas vraiment d'hibernation mais une dormance (sans abaissement majeur de la température)."
+    },
+    {
+      "id": 19,
+      "niveau": 3,
+      "question": "Quel est le nom de la relation où deux espèces vivent ensemble de façon mutuellement bénéfique ?",
+      "reponse": "Symbiose",
+      "variantes": [
+        "la symbiose",
+        "mutualisme"
+      ],
+      "anecdote": "La symbiose est une relation étroite et durable entre deux espèces différentes. Le mutualisme (les deux bénéficient) en est la forme la plus connue : les abeilles et les fleurs (pollinisation), le clown et l'anémone de mer, les bactéries de notre intestin et nous. La symbiose est fondamentale à la vie : les mitochondries de nos cellules sont d'anciennes bactéries symbiotiques intégrées il y a 2 milliards d'années."
+    },
+    {
+      "id": 20,
+      "niveau": 3,
+      "question": "Quelle est la plante à fleurs la plus haute du monde ?",
+      "reponse": "Eucalyptus",
+      "variantes": [
+        "eucalyptus",
+        "Eucalyptus regnans"
+      ],
+      "anecdote": "L'eucalyptus géant (Eucalyptus regnans) d'Australie est la plante à fleurs la plus haute du monde, pouvant atteindre 100 m. Le spécimen le plus grand connu mesure 99,8 m dans la forêt de Tasmanie. L'eucalyptus est aussi un arbre remarquable pour son adaptation au feu : son écorce brûle rapidement mais son tronc survit, et ses graines germent après les incendies."
+    },
+    {
+      "id": 21,
+      "niveau": 2,
+      "question": "Quel est le nom scientifique de l'espèce humaine ?",
+      "reponse": "Homo sapiens",
+      "variantes": [
+        "homo sapiens",
+        "Homo sapiens sapiens"
+      ],
+      "anecdote": "Homo sapiens ('homme qui sait' en latin) est le nom scientifique de l'espèce humaine moderne, apparu il y a environ 300 000 ans en Afrique. Le sous-espèce 'sapiens sapiens' (homme doublement sage) désigne les humains anatomiquement modernes. Nous partageons 98,8% de notre ADN avec le chimpanzé (Pan troglodytes) et 50% avec la banane."
+    },
+    {
+      "id": 22,
+      "niveau": 2,
+      "question": "Quel est le processus par lequel l'eau s'évapore des plantes, principalement par les feuilles ?",
+      "reponse": "Transpiration",
+      "variantes": [
+        "la transpiration végétale",
+        "évapotranspiration"
+      ],
+      "anecdote": "La transpiration des plantes se fait principalement par les stomates (petits pores des feuilles). Un arbre adulte peut transpirer plus de 300 litres d'eau par jour. La transpiration crée une aspiration qui remonte l'eau depuis les racines jusqu'aux feuilles contre la gravité. La forêt amazonienne génère sa propre pluie grâce à la transpiration de ses arbres — si elle est détruite, le régime des pluies d'Amérique du Sud sera bouleversé."
+    },
+    {
+      "id": 23,
+      "niveau": 4,
+      "question": "Quel animal est capable de se régénérer entièrement à partir d'un seul fragment de son corps ?",
+      "reponse": "Planaire",
+      "variantes": [
+        "Planaire",
+        "planaire d'eau douce",
+        "ver plat",
+        "Dugesia"
+      ],
+      "anecdote": "Les planaires (vers plats d'eau douce) possèdent des capacités de régénération extraordinaires : chaque fragment du corps peut régénérer un organisme complet. Si on coupe une planaire en deux, chaque moitié régénère la partie manquante. Une planaire peut être découpée en jusqu'à 279 morceaux, chacun régénérant un organisme entier. Certaines étoiles de mer et certaines éponges ont des capacités similaires."
+    },
+    {
+      "id": 24,
+      "niveau": 2,
+      "question": "Quel biome terrestre est caractérisé par des températures extrêmement froides, l'absence d'arbres et des sols gelés en permanence ?",
+      "reponse": "Toundra",
+      "variantes": [
+        "la toundra",
+        "toundra arctique"
+      ],
+      "anecdote": "La toundra arctique couvre le Nord de l'Alaska, du Canada, de la Russie et de la Scandinavie. Son sol est gelé en permanence jusqu'à plusieurs centaines de mètres de profondeur (permafrost) ; seule la couche superficielle dégèle en été. La végétation se limite aux mousses, lichens, graminées et plantes basses. Le réchauffement climatique fait fondre le permafrost, libérant d'énormes quantités de méthane et CO₂."
+    },
+    {
+      "id": 25,
+      "niveau": 2,
+      "question": "Quel est le nom de la relation écologique où un organisme vit aux dépens d'un autre sans le tuer immédiatement ?",
+      "reponse": "Parasitisme",
+      "variantes": [
+        "le parasitisme",
+        "relation parasite-hôte",
+        "parasite"
+      ],
+      "anecdote": "Le parasitisme est l'une des relations interspécifiques les plus communes : on estime que la moitié de toutes les espèces connues ont un stade parasitaire. Les parasites manipulent parfois le comportement de leurs hôtes : Toxoplasma gondii rend les rats attirés par l'odeur des chats (facilitant ainsi son cycle chez le chat), et des champignons (Ophiocordyceps) 'zombifient' des fourmis pour se reproduire."
+    },
+    {
+      "id": 26,
+      "niveau": 1,
+      "question": "Quel arbre produit des glands ?",
+      "reponse": "Chêne",
+      "variantes": [
+        "un chêne",
+        "le chêne"
+      ],
+      "anecdote": "Le chêne peut vivre plusieurs centaines d'années. Son bois est particulièrement apprécié pour sa solidité."
+    },
+    {
+      "id": 27,
+      "niveau": 3,
+      "question": "Quel mammifère est le seul capable de voler réellement (par opposition aux planeurs comme les écureuils volants) ?",
+      "reponse": "Chauve-souris",
+      "variantes": [
+        "les chauves-souris",
+        "chiroptère"
+      ],
+      "anecdote": "Les chauves-souris (ordre Chiroptera) sont les seuls mammifères capables de vol actif. Il en existe plus de 1 400 espèces, représentant 20% de toutes les espèces de mammifères. Elles jouent des rôles écologiques essentiels : pollinisation (agave pour la tequila), dispersion des graines et contrôle des populations d'insectes. Une seule chauve-souris peut consommer 500 moustiques par heure."
+    },
+    {
+      "id": 28,
+      "niveau": 4,
+      "question": "Quel est le nom de la zone de transition entre deux biomes différents, souvent riche en biodiversité ?",
+      "reponse": "Écotone",
+      "variantes": [
+        "l'écotone",
+        "zone de transition"
+      ],
+      "anecdote": "Un écotone est une zone de transition entre deux écosystèmes adjacents (ex : lisière de forêt-prairie, mangrove entre terre et mer). Ces zones sont souvent plus riches en espèces que les biomes qu'elles séparent, car elles combinent les ressources des deux habitats — c'est l'effet de lisière. Les mangroves sont les écotones les plus productifs de la planète, servant de nurseries à de nombreuses espèces marines."
+    },
+    {
+      "id": 29,
+      "niveau": 3,
+      "question": "Quel phénomène géologique produit des séismes et des volcans lorsque deux plaques tectoniques entrent en collision ?",
+      "reponse": "Subduction",
+      "variantes": [
+        "la subduction",
+        "zone de subduction",
+        "frontière de convergence"
+      ],
+      "anecdote": "La subduction se produit quand une plaque tectonique s'enfonce sous une autre. La plaque plongeante fond partiellement en s'enfonçant dans l'asthénosphère, alimentant le volcanisme des arcs insulaires (Japon, Indonésie) et des chaînes côtières (Andes). Les zones de subduction produisent les séismes les plus puissants : Valdivia 1960 (9,5), Sumatra 2004 (9,1), Tōhoku 2011 (9,0) sont tous des séismes de subduction."
+    },
+    {
+      "id": 30,
+      "niveau": 2,
+      "question": "Comment appelle-t-on l'ensemble des micro-organismes vivant dans l'intestin humain ?",
+      "reponse": "Microbiote intestinal",
+      "variantes": [
+        "microbiome intestinal",
+        "flore intestinale",
+        "microbiote"
+      ],
+      "anecdote": "Le microbiote intestinal humain comprend environ 100 000 milliards de micro-organismes de 1 000 à 1 500 espèces différentes. Il pèse environ 2 kg. Il joue un rôle dans la digestion, le système immunitaire, la production de vitamines et même le comportement (l'axe intestin-cerveau). Un microbiote déséquilibré (dysbiose) est associé à l'obésité, les maladies auto-immunes, l'anxiété et la dépression."
+    },
+    {
+      "id": 31,
+      "niveau": 4,
+      "question": "Quel phénomène permet à certains animaux (comme les poulpes) de changer de couleur pour se camoufler ?",
+      "reponse": "Chromatophores",
+      "variantes": [
+        "les chromatophores",
+        "cellules à pigments"
+      ],
+      "anecdote": "Les chromatophores sont des cellules spécialisées contenant des pigments que l'animal peut contracter ou étirer pour changer de couleur instantanément. Les poulpes et seiches possèdent trois couches de cellules : chromatophores (pigments), iridocytes (couches réfléchissantes) et leucophores (blancs). Malgré leur daltonisme, ils peuvent imiter des centaines de textures et couleurs de leur environnement — un exploit neuronal extraordinaire."
+    },
+    {
+      "id": 32,
+      "niveau": 4,
+      "question": "Quel processus écologique permet à une espèce pionnière de préparer le terrain pour des espèces plus complexes ?",
+      "reponse": "Succession écologique",
+      "variantes": [
+        "la succession écologique",
+        "succession végétale"
+      ],
+      "anecdote": "La succession écologique est le processus par lequel les communautés d'espèces se succèdent dans un milieu jusqu'à atteindre un état stable (climax). Les espèces pionnières (mousses, lichens, plantes rudérales) modifient le sol et le microclimat, permettant l'établissement d'espèces plus exigeantes. Après un incendie ou une éruption volcanique, la succession peut conduire à une forêt mature en quelques décennies à quelques siècles."
+    },
+    {
+      "id": 33,
+      "niveau": 4,
+      "question": "Quelle est la différence entre les animaux endothermes et ectothermes ?",
+      "reponse": "Chaleur du sang",
+      "variantes": [
+        "sang froid/sang chaud",
+        "sang chaud/sang froid"
+      ],
+      "anecdote": "Les endothermes (oiseaux, mammifères) maintiennent une température corporelle stable grâce au métabolisme. Les ectothermes (reptiles, amphibiens, poissons, insectes) dépendent de la chaleur externe. Les endothermes consomment 90% de leur énergie pour maintenir leur chaleur corporelle. La découverte que certains dinosaures étaient endothermes (comme les oiseaux qui en descendent) a révolutionné notre compréhension de la paléontologie."
+    },
+    {
+      "id": 34,
+      "niveau": 3,
+      "question": "Comment appelle-t-on une espèce présente naturellement uniquement dans une région géographique donnée ?",
+      "reponse": "Endémique",
+      "variantes": [
+        "espèce endémique",
+        "une espèce endémique"
+      ],
+      "anecdote": "Les espèces endémiques ont souvent évolué de manière isolée. Les îles comme Madagascar abritent un grand nombre d'espèces endémiques."
+    },
+    {
+      "id": 35,
+      "niveau": 4,
+      "question": "Quel est le nom du pollinisateur le plus efficace pour les forêts tropicales, qui opère la nuit ?",
+      "reponse": "Chauve-souris pollinisatrice",
+      "variantes": [
+        "les chauves-souris",
+        "chiroptères pollinisateurs"
+      ],
+      "anecdote": "De nombreuses plantes tropicales, notamment le manguier, le bananier, la goyave et l'agave (pour la tequila), dépendent des chauves-souris pour leur pollinisation. Ces plantes 'chiroptérophiles' s'ouvrent la nuit, produisent un parfum musqué et ont des fleurs résistantes. En l'absence de ces chauves-souris, l'industrie du mezcal et de la tequila s'effondrerait."
+    },
+    {
+      "id": 38,
+      "niveau": 2,
+      "question": "Quel est le terme désignant l'ensemble des organismes vivants et de leur environnement non vivant interagissant comme un système ?",
+      "reponse": "Écosystème",
+      "variantes": [
+        "l'écosystème"
+      ],
+      "anecdote": "Le terme 'écosystème' fut inventé par Arthur Tansley en 1935. Un écosystème comprend la communauté biotique (tous les êtres vivants) et l'environnement abiotique (sol, eau, air, lumière). Les cycles biogéochimiques (carbone, azote, eau) lient les composants biotiques et abiotiques. Les grands écosystèmes fournissent des services essentiels : purification de l'eau, régulation du climat, pollinisation."
+    },
+    {
+      "id": 39,
+      "niveau": 2,
+      "question": "Quel est l'animal terrestre qui vit le plus longtemps à l'état naturel ?",
+      "reponse": "Tortue géante des Seychelles",
+      "variantes": [
+        "Aldabrachelys gigantea",
+        "tortue géante d'Aldabra",
+        "Jonathan la tortue"
+      ],
+      "anecdote": "Jonathan, une tortue géante d'Aldabra (Aldabrachelys gigantea) vivant à Sainte-Hélène, est né vers 1832 et vit toujours — il est âgé d'au moins 190 ans et est reconnu comme le plus vieil animal terrestre vivant connu. Les tortues géantes des Galapagos peuvent aussi dépasser 150 ans. L'oursin rouge de Californie peut vivre plus de 200 ans."
+    },
+    {
+      "id": 40,
+      "niveau": 2,
+      "question": "Quel est le phénomène d'éclaircissement des récifs coralliens dû au réchauffement climatique ?",
+      "reponse": "Blanchissement des coraux",
+      "variantes": [
+        "blanchiment des coraux",
+        "bleaching corallien",
+        "blanchissement",
+        "blanchiment"
+      ],
+      "anecdote": "Le blanchissement des coraux se produit quand la température de l'eau dépasse le seuil de tolérance : les coraux expulsent les algues symbiotiques (zooxanthelles) qui leur donnent leur couleur et 90% de leur énergie. Le corail blanchit et peut mourir si le stress se prolonge. La Grande Barrière de Corail australienne a subi des épisodes massifs de blanchissement depuis 1998, affectant plus de 50% des récifs."
+    },
+    {
+      "id": 42,
+      "niveau": 4,
+      "question": "Quel est le phénomène par lequel des organismes non apparentés développent des caractères similaires en réponse aux mêmes pressions environnementales ?",
+      "reponse": "Convergence évolutive",
+      "variantes": [
+        "évolution convergente",
+        "convergence évolutive"
+      ],
+      "anecdote": "La convergence évolutive est une preuve de la puissance de la sélection naturelle : des solutions similaires émergent indépendamment. Les ailes des chauves-souris, des oiseaux et des ptérosaures ; les yeux du poulpe et des vertébrés ; les formes hydrodynamiques des dauphins et des ichtyosaures (reptiles marins) — convergences remarquables entre des lignées qui ont divergé il y a des centaines de millions d'années."
+    },
+    {
+      "id": 43,
+      "niveau": 3,
+      "question": "Quel est le phénomène par lequel une population isolée accumule des mutations aléatoires qui finissent par diverger de la population mère (base de la spéciation allopatrique) ?",
+      "reponse": "Dérive génétique",
+      "variantes": [
+        "la dérive génétique"
+      ],
+      "anecdote": "La dérive génétique est le changement aléatoire des fréquences alléliques dans une population, plus intense dans les petites populations. L'effet fondateur (une population issue d'un petit groupe fondateur isolé) en est une manifestation. La dérive génétique explique pourquoi les populations des îles Galapagos ont rapidement divergé des populations continentales, conduisant Darwin à ses intuitions sur la spéciation."
+    },
+    {
+      "id": 47,
+      "niveau": 3,
+      "question": "Quel est le processus par lequel certaines plantes peuvent reproduire asexuellement à partir d'une partie du corps d'une plante parente ?",
+      "reponse": "Reproduction végétative",
+      "variantes": [
+        "multiplication végétative",
+        "propagation végétative"
+      ],
+      "anecdote": "La reproduction végétative permet la multiplication d'une plante sans graines, à partir de feuilles, tiges, racines ou bourgeons. Les fraisiers se multiplient par stolons, les pommes de terre par tubercules, les iris par rhizomes. Les peupliers trembles peuvent former des colonies de milliers d'arbres génétiquement identiques issus d'un seul individu par rejets racinaires. La colonie Pando (Utah, États-Unis) — 47 000 tiges d'un seul clone d'Aspen — est l'organisme le plus pesant de la Terre (6 000 tonnes)."
+    },
+    {
+      "id": 48,
+      "niveau": 5,
+      "question": "Quel est le nom du processus par lequel un organisme entre dans un état de dormance physiologique pour survivre à une période chaude et sèche ?",
+      "reponse": "Estivation",
+      "variantes": [
+        "estivation"
+      ],
+      "anecdote": "Contrairement à l'hibernation hivernale, l'estivation permet à certains animaux (escargots, crocodiles, lémuriens nains de Madagascar) de réduire drastiquement leur métabolisme pour survivre à la sécheresse estivale. Le lémur nain de queue grasse est le seul primate connu capable d'hiberner ou d'estiver selon les conditions."
+    },
+    {
+      "id": 49,
+      "niveau": 5,
+      "question": "Quel est le nom de la structure vasculaire en réseau qui permet aux girafes de réguler la pression artérielle dans leur long cou ?",
+      "reponse": "Rete mirabile",
+      "variantes": [
+        "rete mirabile",
+        "réseau admirable"
+      ],
+      "anecdote": "Ce 'réseau admirable' de vaisseaux sanguins, situé à la base du cerveau, amortit les variations brutales de pression lorsque la girafe baisse ou relève soudainement la tête. Sans lui, l'afflux de sang provoqué par ces mouvements provoquerait un évanouissement immédiat."
+    },
+    {
+      "id": 50,
+      "niveau": 5,
+      "question": "Quel champignon de la forêt nationale de Malheur en Oregon est considéré comme le plus grand organisme vivant connu sur Terre ?",
+      "reponse": "Armillaria ostoyae",
+      "variantes": [
+        "armillaria ostoyae",
+        "armillaire couleur de miel",
+        "humongous fungus"
+      ],
+      "anecdote": "Surnommé 'humongous fungus', ce mycélium souterrain s'étend sur près de 9 km² et serait âgé de 2 400 à 8 600 ans. Ce que l'on voit en surface (les champignons) n'est qu'une infime partie de cet organisme essentiellement constitué de filaments souterrains appelés mycélium."
+    },
+    {
+      "id": 51,
+      "niveau": 5,
+      "question": "Quel est le nom du phylum regroupant les tardigrades, ces micro-animaux capables de survivre dans le vide spatial ?",
+      "reponse": "Tardigrada",
+      "variantes": [
+        "tardigrada",
+        "tardigrades"
+      ],
+      "anecdote": "Les tardigrades peuvent entrer en cryptobiose, un état où leur métabolisme s'arrête presque totalement, leur permettant de résister à des températures extrêmes, à des radiations massives et même au vide de l'espace, comme l'a démontré la mission FOTON-M3 en 2007."
+    },
+    {
+      "id": 52,
+      "niveau": 5,
+      "question": "Quelle enzyme végétale permet aux plantes en photosynthèse C4, comme le maïs, de limiter la photorespiration et d'être plus efficaces en climat chaud ?",
+      "reponse": "PEP carboxylase",
+      "variantes": [
+        "pep carboxylase",
+        "phosphoénolpyruvate carboxylase"
+      ],
+      "anecdote": "Contrairement aux plantes en C3 qui utilisent la Rubisco directement, les plantes en C4 (maïs, canne à sucre, sorgho) pré-concentrent le CO2 grâce à la PEP carboxylase, une enzyme insensible à l'oxygène. Cette adaptation leur donne un avantage compétitif majeur dans les climats chauds et arides."
+    },
+    {
+      "id": 53,
+      "niveau": 5,
+      "question": "Quel terme désigne la capacité de certains animaux migrateurs, comme les tortues marines, à percevoir le champ magnétique terrestre pour s'orienter ?",
+      "reponse": "Magnétoréception",
+      "variantes": [
+        "magnétoréception",
+        "magnétoception"
+      ],
+      "anecdote": "Les tortues luth naissent sur une plage précise et peuvent y revenir des décennies plus tard après des milliers de kilomètres de migration, grâce à une carte magnétique innée. Des cristaux de magnétite dans leur organisme seraient impliqués dans ce sens encore mal compris des chercheurs."
+    },
+    {
+      "id": 54,
+      "niveau": 5,
+      "question": "Quel est le nom de la plante carnivore originaire des tourbières de Caroline qui referme ses feuilles en forme de mâchoire en moins d'une seconde ?",
+      "reponse": "Dionée attrape-mouche",
+      "variantes": [
+        "dionée attrape-mouche",
+        "dionaea muscipula",
+        "dionée"
+      ],
+      "anecdote": "La Dionée détecte ses proies grâce à de minuscules poils sensitifs : il faut que deux poils soient touchés en moins de 20 secondes pour déclencher la fermeture du piège, évitant ainsi de se refermer sur une simple goutte de pluie. Chaque piège ne peut se refermer qu'une vingtaine de fois avant de mourir."
+    },
+    {
+      "id": 55,
+      "niveau": 5,
+      "question": "Quel est le nom du processus bactérien permettant de convertir l'azote atmosphérique (N2) en ammoniac assimilable par les plantes, notamment chez les bactéries du genre Rhizobium ?",
+      "reponse": "Fixation de l'azote",
+      "variantes": [
+        "fixation de l'azote",
+        "fixation symbiotique de l'azote",
+        "diazotrophie"
+      ],
+      "anecdote": "Les bactéries Rhizobium s'installent dans des nodosités sur les racines des légumineuses (pois, haricots, trèfle) et leur fournissent de l'azote assimilable en échange de sucres. Ce processus est si important pour l'agriculture qu'il a inspiré la rotation des cultures pratiquée depuis l'Antiquité."
+    },
+    {
+      "id": 56,
+      "niveau": 5,
+      "question": "Quel est le nom de la stratégie de reproduction du coucou, qui pond ses œufs dans le nid d'autres espèces d'oiseaux ?",
+      "reponse": "Parasitisme de couvée",
+      "variantes": [
+        "parasitisme de couvée",
+        "parasitisme de nidification"
+      ],
+      "anecdote": "Le jeune coucou éclot souvent avant les œufs de l'hôte et pousse instinctivement les autres œufs hors du nid pour monopoliser les soins de ses parents adoptifs. Certains oiseaux hôtes ont développé en retour la capacité de reconnaître et rejeter les œufs intrus, dans une véritable course évolutive."
+    },
+    {
+      "id": 57,
+      "niveau": 5,
+      "question": "Quel mécanisme moléculaire permet à certaines bactéries de former une structure dormante extrêmement résistante à la chaleur, à la dessiccation et aux radiations ?",
+      "reponse": "Sporulation",
+      "variantes": [
+        "sporulation",
+        "endospore",
+        "formation d'endospores"
+      ],
+      "anecdote": "Les endospores de Bacillus ou Clostridium peuvent rester viables pendant des décennies, voire des siècles, dans des conditions extrêmes. Des spores de Bacillus retrouvées dans des sédiments vieux de plusieurs millions d'années ont parfois pu être réactivées en laboratoire."
+    },
+    {
+      "id": 58,
+      "niveau": 5,
+      "question": "Quel est le nom du composé chimique qui permet aux poissons des grandes profondeurs abyssales de résister à l'énorme pression sans que leurs protéines ne se déforment ?",
+      "reponse": "Oxyde de triméthylamine (TMAO)",
+      "variantes": [
+        "oxyde de triméthylamine",
+        "tmao",
+        "triméthylamine n-oxyde"
+      ],
+      "anecdote": "Plus un poisson vit profond, plus sa concentration en TMAO est élevée, une corrélation si nette qu'elle a permis de prédire qu'aucun poisson ne pourrait survivre au-delà de 8 200 mètres environ — limite confirmée par la découverte du poisson le plus profond jamais observé, dans la fosse des Mariannes."
+    },
+    {
+      "id": 59,
+      "niveau": 5,
+      "question": "Quel est le nom du phénomène par lequel un individu change de sexe fonctionnel au cours de sa vie, observé chez le poisson-clown ou certains labres ?",
+      "reponse": "Hermaphrodisme séquentiel",
+      "variantes": [
+        "hermaphrodisme séquentiel",
+        "changement de sexe séquentiel"
+      ],
+      "anecdote": "Chez le poisson-clown, c'est la femelle dominante du groupe qui contrôle la hiérarchie ; si elle meurt, le mâle dominant se transforme en femelle (protandrie). Chez d'autres espèces comme le mérou, c'est l'inverse : les femelles deviennent mâles en vieillissant (protogynie)."
+    },
+    {
+      "id": 60,
+      "niveau": 5,
+      "question": "Dans un lichen, comment appelle-t-on respectivement le partenaire fongique et le partenaire photosynthétique (algue ou cyanobactérie) ?",
+      "reponse": "Mycobionte et photobionte",
+      "variantes": [
+        "mycobionte et photobionte",
+        "photobionte et mycobionte",
+        "mycobionte / photobionte",
+        "photobionte / mycobionte",
+        "Mycobionte",
+        "photobionte"
+      ],
+      "anecdote": "Le lichen n'est pas un organisme unique mais une symbiose stable entre un champignon (le mycobionte, qui fournit la structure et l'eau) et une algue ou cyanobactérie (le photobionte, qui réalise la photosynthèse). Certains lichens vivent plusieurs milliers d'années et sont parmi les organismes les plus résistants aux conditions extrêmes, supportant même un séjour dans l'espace."
+    },
+    {
+      "id": 61,
+      "niveau": 5,
+      "question": "Quel est le nom de la relation symbiotique entre les fourmis et certains pucerons, où les fourmis protègent les pucerons en échange du miellat qu'ils sécrètent ?",
+      "reponse": "Trophobiose",
+      "variantes": [
+        "trophobiose"
+      ],
+      "anecdote": "Certaines fourmis vont jusqu'à 'élever' des colonies de pucerons comme du bétail, les déplaçant vers de meilleures plantes-hôtes et les défendant contre les coccinelles, en échange du miellat sucré riche en énergie que les pucerons excrètent après avoir digéré la sève."
+    },
+    {
+      "id": 62,
+      "niveau": 5,
+      "question": "Quel est le nom du processus par lequel les axolotls et certains amphibiens peuvent régénérer intégralement un membre amputé, y compris les os, muscles et nerfs ?",
+      "reponse": "Régénération épimorphique",
+      "variantes": [
+        "régénération épimorphique",
+        "épimorphose"
+      ],
+      "anecdote": "Au site de l'amputation, les cellules de l'axolotl se dédifférencient pour former un blastème, une masse de cellules capables de redonner naissance à n'importe quel tissu du membre manquant. Ce mécanisme fascine les chercheurs en médecine régénérative humaine, qui étudient les gènes impliqués dans l'espoir d'applications cliniques."
+    }
+  ]
+}

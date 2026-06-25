@@ -1,0 +1,685 @@
+[
+  {
+    "id": 1,
+    "theme": "Géographie",
+    "difficulte": 1,
+    "question": "Quelle est la capitale de la France ?",
+    "reponses_acceptees": [
+      "paris",
+      "Paris"
+    ],
+    "explication": "Paris est la capitale de la France depuis le Xe siècle. Située au bord de la Seine, elle est aujourd'hui l'une des métropoles les plus visitées au monde avec plus de 30 millions de touristes par an.",
+    "time": 20
+  },
+  {
+    "id": 2,
+    "theme": "Géographie",
+    "difficulte": 3,
+    "question": "Quel est le plus long fleuve d'Afrique ?",
+    "reponses_acceptees": [
+      "nil",
+      "le nil",
+      "Nil",
+      "Le Nil"
+    ],
+    "explication": "Le Nil s'étend sur environ 6 650 km, traversant notamment l'Éthiopie, le Soudan et l'Égypte. Il a été le berceau de l'une des plus grandes civilisations de l'Antiquité. L'Amazone lui dispute parfois ce titre selon les méthodes de mesure.",
+    "time": 20
+  },
+  {
+    "id": 3,
+    "theme": "Géographie",
+    "difficulte": 5,
+    "question": "Quel pays possède le plus grand nombre de lacs au monde ?",
+    "reponses_acceptees": [
+      "canada",
+      "Canada"
+    ],
+    "explication": "Le Canada abrite environ 879 000 lacs, soit près de 60 % des lacs d'eau douce de la planète. Le lac Supérieur, partagé avec les États-Unis, est le plus grand lac d'eau douce du monde par sa superficie.",
+    "time": 25
+  },
+  {
+    "id": 4,
+    "theme": "Géographie",
+    "difficulte": 6,
+    "question": "Quelle est la capitale du Kazakhstan ?",
+    "reponses_acceptees": [
+      "astana",
+      "Astana",
+      "nour-soultan",
+      "Nour-Soultan",
+      "nur-sultan",
+      "Nur-Sultan"
+    ],
+    "explication": "La capitale du Kazakhstan s'appelle Astana. Elle a été rebaptisée Nour-Soultan en 2019 en l'honneur de l'ancien président Noursoultan Nazarbaïev, avant de reprendre son nom d'Astana en 2022. C'est une ville ultramoderne construite ex nihilo dans la steppe kazakhe.",
+    "time": 20
+  },
+  {
+    "id": 5,
+    "theme": "Géographie",
+    "difficulte": 8,
+    "question": "Quelle est la plus petite mer du monde par sa superficie ?",
+    "reponses_acceptees": [
+      "mer de marmara",
+      "Mer de Marmara",
+      "marmara"
+    ],
+    "explication": "La mer de Marmara, en Turquie, est la plus petite mer du monde avec environ 11 350 km². Elle relie la mer Noire à la mer Égée via les détroits du Bosphore et des Dardanelles. Istanbul la borde au nord.",
+    "time": 25
+  },
+  {
+    "id": 6,
+    "theme": "Géographie",
+    "difficulte": 9,
+    "question": "Quel est le nom du point le plus profond de l'océan Pacifique ?",
+    "reponses_acceptees": [
+      "fosse des mariannes",
+      "Fosse des Mariannes",
+      "abîme du challenger",
+      "Abîme du Challenger",
+      "challenger deep"
+    ],
+    "explication": "L'Abîme du Challenger, situé dans la Fosse des Mariannes, est le point le plus profond des océans à environ 10 994 mètres sous la surface. Il a été atteint pour la première fois en 1960 par le bathyscaphe Trieste, avec à bord Jacques Piccard et Don Walsh.",
+    "time": 25
+  },
+  {
+    "id": 7,
+    "theme": "Histoire",
+    "difficulte": 1,
+    "question": "En quelle année a eu lieu la Révolution française ?",
+    "reponses_acceptees": [
+      "1789"
+    ],
+    "explication": "La Révolution française débute en 1789 avec la prise de la Bastille le 14 juillet. Ce mouvement renverse la monarchie absolue et proclame les droits de l'Homme et du Citoyen. Elle transforme profondément la société française et influence le monde entier.",
+    "time": 20
+  },
+  {
+    "id": 8,
+    "theme": "Histoire",
+    "difficulte": 3,
+    "question": "Qui était le premier président des États-Unis ?",
+    "reponses_acceptees": [
+      "george washington",
+      "George Washington",
+      "washington",
+      "Washington"
+    ],
+    "explication": "George Washington devient le premier président des États-Unis en 1789. Général en chef lors de la guerre d'indépendance, il refuse de briguer un troisième mandat, établissant ainsi une tradition républicaine. Son visage figure sur le billet d'un dollar.",
+    "time": 20
+  },
+  {
+    "id": 9,
+    "theme": "Histoire",
+    "difficulte": 5,
+    "question": "Quel empire a construit le Colisée de Rome ?",
+    "reponses_acceptees": [
+      "empire romain",
+      "Empire romain",
+      "rome",
+      "Rome",
+      "les romains",
+      "Romains"
+    ],
+    "explication": "Le Colisée, ou Amphithéâtre Flavien, a été construit sous l'Empire romain entre 70 et 80 après J.-C., sous les empereurs Vespasien et Titus. Il pouvait accueillir jusqu'à 80 000 spectateurs pour des combats de gladiateurs et des spectacles publics.",
+    "time": 20
+  },
+  {
+    "id": 10,
+    "theme": "Histoire",
+    "difficulte": 6,
+    "question": "Quelle bataille de 1815 marque la défaite définitive de Napoléon Bonaparte ?",
+    "reponses_acceptees": [
+      "waterloo",
+      "Waterloo",
+      "bataille de waterloo",
+      "Bataille de Waterloo"
+    ],
+    "explication": "La bataille de Waterloo, livrée le 18 juin 1815 en Belgique, oppose Napoléon aux armées coalisées menées par le duc de Wellington et le maréchal Blücher. Cette défaite entraîne la seconde abdication de Napoléon et son exil définitif à Sainte-Hélène.",
+    "time": 25
+  },
+  {
+    "id": 11,
+    "theme": "Histoire",
+    "difficulte": 7,
+    "question": "En quelle année l'empire ottoman prend-il Constantinople ?",
+    "reponses_acceptees": [
+      "1453"
+    ],
+    "explication": "Constantinople tombe le 29 mai 1453 sous les assauts du sultan ottoman Mehmed II, dit 'le Conquérant'. Cet événement marque la fin de l'Empire byzantin et est souvent cité comme la date symbolique de la fin du Moyen Âge en Europe occidentale.",
+    "time": 25
+  },
+  {
+    "id": 12,
+    "theme": "Histoire",
+    "difficulte": 9,
+    "question": "Comment s'appelait le traité de 1648 qui mit fin à la guerre de Trente Ans ?",
+    "reponses_acceptees": [
+      "traité de westphalie",
+      "Traité de Westphalie",
+      "paix de westphalie",
+      "Paix de Westphalie",
+      "westphalie"
+    ],
+    "explication": "Les traités de Westphalie, signés en 1648 à Münster et Osnabrück, mettent fin à la guerre de Trente Ans en Europe. Ils posent les bases du système moderne des États-nations et du principe de souveraineté nationale, fondements encore centraux du droit international.",
+    "time": 25
+  },
+  {
+    "id": 13,
+    "theme": "Sciences",
+    "difficulte": 1,
+    "question": "Quelle est la formule chimique de l'eau ?",
+    "reponses_acceptees": [
+      "h2o",
+      "H2O"
+    ],
+    "explication": "L'eau est composée de deux atomes d'hydrogène (H) et d'un atome d'oxygène (O), d'où sa formule H₂O. Elle couvre environ 71 % de la surface terrestre et est indispensable à toutes les formes de vie connues.",
+    "time": 20
+  },
+  {
+    "id": 14,
+    "theme": "Sciences",
+    "difficulte": 3,
+    "question": "Combien de planètes compte notre système solaire ?",
+    "reponses_acceptees": [
+      "8",
+      "huit"
+    ],
+    "explication": "Depuis 2006, le système solaire compte officiellement 8 planètes : Mercure, Vénus, Terre, Mars, Jupiter, Saturne, Uranus et Neptune. Pluton a été reclassifiée en 'planète naine' par l'Union astronomique internationale cette même année.",
+    "time": 20
+  },
+  {
+    "id": 15,
+    "theme": "Sciences",
+    "difficulte": 4,
+    "question": "Quel scientifique a formulé la théorie de la relativité générale ?",
+    "reponses_acceptees": [
+      "einstein",
+      "Einstein",
+      "albert einstein",
+      "Albert Einstein"
+    ],
+    "explication": "Albert Einstein publie sa théorie de la relativité générale en 1915. Elle révolutionne notre compréhension de la gravité en la décrivant comme une courbure de l'espace-temps causée par la masse. Cette théorie a notamment permis de prédire l'existence des trous noirs.",
+    "time": 25
+  },
+  {
+    "id": 16,
+    "theme": "Sciences",
+    "difficulte": 6,
+    "question": "Quel est le symbole chimique de l'or ?",
+    "reponses_acceptees": [
+      "au",
+      "Au"
+    ],
+    "explication": "L'or a pour symbole chimique Au, du latin 'aurum'. C'est un métal précieux de numéro atomique 79. Il est utilisé depuis des millénaires pour la fabrication de bijoux et de monnaies, et aujourd'hui dans l'électronique en raison de son excellente conductivité.",
+    "time": 20
+  },
+  {
+    "id": 17,
+    "theme": "Sciences",
+    "difficulte": 7,
+    "question": "Quelle est la vitesse de la lumière dans le vide, en km/s ?",
+    "reponses_acceptees": [
+      "299792",
+      "299 792",
+      "300000",
+      "300 000",
+      "environ 300 000"
+    ],
+    "explication": "La vitesse de la lumière dans le vide est exactement 299 792,458 km/s, souvent arrondie à 300 000 km/s. Notée 'c', elle est une constante fondamentale de la physique. Selon la relativité restreinte, aucune information ne peut se propager plus vite.",
+    "time": 25
+  },
+  {
+    "id": 18,
+    "theme": "Sciences",
+    "difficulte": 9,
+    "question": "Quel phénomène physique explique la supraconductivité selon la théorie BCS ?",
+    "reponses_acceptees": [
+      "paires de cooper",
+      "Paires de Cooper",
+      "couplage électron-phonon",
+      "condensation de paires"
+    ],
+    "explication": "La théorie BCS (Bardeen, Cooper, Schrieffer), publiée en 1957, explique la supraconductivité par la formation de 'paires de Cooper' : des électrons qui, grâce aux vibrations du réseau cristallin (phonons), s'apparient et se déplacent sans résistance. Ses auteurs reçurent le prix Nobel de physique en 1972.",
+    "time": 25
+  },
+  {
+    "id": 19,
+    "theme": "Art",
+    "difficulte": 1,
+    "question": "Qui a peint la Joconde ?",
+    "reponses_acceptees": [
+      "léonard de vinci",
+      "leonard de vinci",
+      "Leonardo de Vinci",
+      "Léonard de Vinci",
+      "de vinci",
+      "De Vinci",
+      "da vinci",
+      "Da Vinci",
+      "davinci",
+      "devinci"
+    ],
+    "explication": "La Joconde (ou Mona Lisa) a été peinte par Léonard de Vinci entre 1503 et 1519. À cette époque, il avait environ 51 ans. Le tableau est conservé au musée du Louvre à Paris. Le sourire énigmatique du modèle, probablement Lisa Gherardini, fascine les historiens depuis des siècles.",
+    "time": 20
+  },
+  {
+    "id": 20,
+    "theme": "Art",
+    "difficulte": 3,
+    "question": "Dans quelle ville se trouve le musée du Prado ?",
+    "reponses_acceptees": [
+      "madrid",
+      "Madrid"
+    ],
+    "explication": "Le musée du Prado, inauguré en 1819, est situé à Madrid en Espagne. Il abrite l'une des plus grandes collections de peinture européenne au monde, avec des œuvres de Velázquez, Goya, Raphaël, Rubens ou El Greco.",
+    "time": 20
+  },
+  {
+    "id": 21,
+    "theme": "Art",
+    "difficulte": 5,
+    "question": "Quel mouvement artistique Monet a-t-il contribué à fonder ?",
+    "reponses_acceptees": [
+      "impressionnisme",
+      "l'impressionnisme",
+      "Impressionnisme"
+    ],
+    "explication": "Claude Monet est l'une des figures fondatrices de l'impressionnisme. Ce mouvement nait en France dans les années 1870 et tire son nom du tableau de Monet 'Impression, soleil levant' (1872). Il se caractérise par des touches de peinture visibles et une attention portée à la lumière.",
+    "time": 25
+  },
+  {
+    "id": 22,
+    "theme": "Art",
+    "difficulte": 7,
+    "question": "Qui a sculpté 'La Pietà' conservée à la basilique Saint-Pierre de Rome ?",
+    "reponses_acceptees": [
+      "michel-ange",
+      "Michel-Ange",
+      "michelangelo",
+      "Michelangelo",
+      "michel ange"
+    ],
+    "explication": "La Pietà a été sculptée par Michel-Ange entre 1498 et 1499, alors qu'il n'avait que 24 ans. Elle représente la Vierge Marie tenant le corps du Christ après la crucifixion. C'est la seule œuvre que Michel-Ange ait signée — son nom est gravé sur la ceinture de la Vierge.",
+    "time": 25
+  },
+  {
+    "id": 23,
+    "theme": "Art",
+    "difficulte": 8,
+    "question": "Quel artiste néerlandais du XVIIe siècle est surnommé 'le maître de la lumière' pour ses scènes d'intérieur ?",
+    "reponses_acceptees": [
+      "vermeer",
+      "Vermeer",
+      "jan vermeer",
+      "Johannes Vermeer"
+    ],
+    "explication": "Johannes Vermeer (1632–1675) est célèbre pour ses scènes d'intérieur baignées d'une lumière naturelle douce et précise. Son œuvre la plus connue, 'La Jeune Fille à la perle', est conservée à La Haye. Il n'a produit qu'une quarantaine de tableaux connus.",
+    "time": 30
+  },
+  {
+    "id": 24,
+    "theme": "Art",
+    "difficulte": 10,
+    "question": "Quelle technique picturale, inventée au XVe siècle en Flandre, consiste à superposer des couches de peinture translucides à l'huile ?",
+    "reponses_acceptees": [
+      "glacis",
+      "technique du glacis",
+      "Glacis"
+    ],
+    "explication": "Le glacis est une technique consistant à appliquer des couches très fines et transparentes de peinture à l'huile sur une couche sèche, créant une profondeur et une luminosité exceptionnelles. Elle est associée aux Primitifs flamands comme Jan van Eyck, qui l'a popularisée au XVe siècle.",
+    "time": 35
+  },
+  {
+    "id": 25,
+    "theme": "Littérature",
+    "difficulte": 1,
+    "question": "Qui a écrit 'Les Misérables' ?",
+    "reponses_acceptees": [
+      "victor hugo",
+      "Victor Hugo",
+      "hugo",
+      "Hugo"
+    ],
+    "explication": "'Les Misérables' est publié en 1862 par Victor Hugo. Ce roman monumental suit Jean Valjean, ancien bagnard, dans sa quête de rédemption dans la France du XIXe siècle. Il est l'une des œuvres les plus traduites et adaptées de la littérature mondiale.",
+    "time": 20
+  },
+  {
+    "id": 26,
+    "theme": "Littérature",
+    "difficulte": 3,
+    "question": "Dans quel pays se déroule l'intrigue de 'Don Quichotte' de Cervantes ?",
+    "reponses_acceptees": [
+      "espagne",
+      "Espagne"
+    ],
+    "explication": "'Don Quichotte', publié en 1605 et 1615 par Miguel de Cervantes, se déroule principalement dans la région de La Mancha, en Espagne. Considéré comme le premier roman moderne, il raconte les aventures d'un hidalgo qui s'imagine chevalier errant.",
+    "time": 25
+  },
+  {
+    "id": 27,
+    "theme": "Littérature",
+    "difficulte": 5,
+    "question": "Quel auteur français a écrit 'À la recherche du temps perdu' ?",
+    "reponses_acceptees": [
+      "proust",
+      "Proust",
+      "marcel proust",
+      "Marcel Proust"
+    ],
+    "explication": "'À la recherche du temps perdu' est une œuvre fleuve de Marcel Proust publiée en sept volumes entre 1913 et 1927. C'est l'un des romans les plus longs jamais écrits. La fameuse 'madeleine de Proust' désigne aujourd'hui tout objet déclenchant un souvenir involontaire.",
+    "time": 25
+  },
+  {
+    "id": 28,
+    "theme": "Littérature",
+    "difficulte": 6,
+    "question": "Quel écrivain a créé le personnage du détective Sherlock Holmes ?",
+    "reponses_acceptees": [
+      "arthur conan doyle",
+      "Arthur Conan Doyle",
+      "conan doyle",
+      "Conan Doyle"
+    ],
+    "explication": "Sherlock Holmes est créé en 1887 par l'écrivain britannique Arthur Conan Doyle dans 'Une étude en rouge'. Le personnage vit au 221B Baker Street à Londres avec son ami le Dr Watson. Conan Doyle essaya de tuer son personnage en 1893 avant de le ressusciter sous la pression du public.",
+    "time": 25
+  },
+  {
+    "id": 29,
+    "theme": "Littérature",
+    "difficulte": 8,
+    "question": "Quel roman de Stendhal prend son titre de deux couleurs symbolisant l'Église et l'armée ?",
+    "reponses_acceptees": [
+      "le rouge et le noir",
+      "Rouge et le Noir",
+      "Le Rouge et le Noir"
+    ],
+    "explication": "'Le Rouge et le Noir', publié en 1830 par Stendhal, suit Julien Sorel, jeune homme ambitieux dans la France de la Restauration. Le rouge symbolise l'armée napoléonienne (la gloire passée) et le noir, la soutane du clergé (la voie de l'ascension sociale de l'époque).",
+    "time": 30
+  },
+  {
+    "id": 30,
+    "theme": "Littérature",
+    "difficulte": 9,
+    "question": "Quel auteur irlandais a écrit 'Ulysse', publié en 1922 ?",
+    "reponses_acceptees": [
+      "james joyce",
+      "James Joyce",
+      "joyce",
+      "Joyce"
+    ],
+    "explication": "'Ulysse' de James Joyce, publié le 2 février 1922, retrace une seule journée à Dublin le 16 juin 1904. Ce chef-d'œuvre du modernisme utilise le flux de conscience et de nombreux styles narratifs. Le 16 juin est désormais célébré chaque année comme le 'Bloomsday'.",
+    "time": 25
+  },
+  {
+    "id": 31,
+    "theme": "Culture",
+    "difficulte": 1,
+    "question": "Dans quelle ville se déroulent les Jeux olympiques d'été de 2024 ?",
+    "reponses_acceptees": [
+      "paris",
+      "Paris"
+    ],
+    "explication": "Les Jeux olympiques d'été de 2024 se sont tenus à Paris du 26 juillet au 11 août 2024. C'était la troisième fois que Paris accueillait les JO, après 1900 et 1924. La cérémonie d'ouverture s'est tenue de manière inédite sur la Seine.",
+    "time": 25
+  },
+  {
+    "id": 32,
+    "theme": "Culture",
+    "difficulte": 3,
+    "question": "Quelle série télévisée met en scène un professeur de chimie devenu trafiquant de drogue ?",
+    "reponses_acceptees": [
+      "breaking bad",
+      "Breaking Bad"
+    ],
+    "explication": "'Breaking Bad' est une série américaine créée par Vince Gilligan diffusée de 2008 à 2013. Elle suit Walter White, professeur de chimie au lycée, qui se tourne vers la fabrication de méthamphétamine après avoir appris qu'il a un cancer du poumon. Bryan Cranston y incarne le personnage principal.",
+    "time": 30
+  },
+  {
+    "id": 33,
+    "theme": "Culture",
+    "difficulte": 4,
+    "question": "Quel jeu de société consiste à construire des mots sur un plateau à partir de lettres tirées au sort ?",
+    "reponses_acceptees": [
+      "scrabble",
+      "Scrabble"
+    ],
+    "explication": "Le Scrabble a été inventé par Alfred Mosher Butts en 1938 aux États-Unis. Il est commercialisé à grande échelle à partir de 1948. En France, il existe une version avec des lettres dont les fréquences ont été adaptées à la langue française. Des championnats du monde francophones s'y consacrent.",
+    "time": 30
+  },
+  {
+    "id": 34,
+    "theme": "Culture",
+    "difficulte": 6,
+    "question": "Quel pays est à l'origine de la cérémonie du thé dite 'chanoyu' ?",
+    "reponses_acceptees": [
+      "japon",
+      "Japon"
+    ],
+    "explication": "Le 'chanoyu' ou 'chadō' est la cérémonie du thé japonaise, codifiée au XVIe siècle par le maître Sen no Rikyū. Elle est fondée sur quatre principes : harmonie (wa), respect (kei), pureté (sei) et tranquillité (jaku). Elle représente une forme d'art à part entière, mêlant esthétique, philosophie zen et savoir-vivre.",
+    "time": 25
+  },
+  {
+    "id": 35,
+    "theme": "Culture",
+    "difficulte": 8,
+    "question": "Quel philosophe grec est à l'origine de la méthode dialectique dite 'maïeutique' ?",
+    "reponses_acceptees": [
+      "socrate",
+      "Socrate"
+    ],
+    "explication": "La maïeutique est une méthode philosophique inventée par Socrate (470–399 av. J.-C.) consistant à faire accoucher les esprits de leurs pensées par une série de questions. Le terme vient du grec 'maieutikê', l'art de l'accouchement — en référence à la profession de sa mère, sage-femme.",
+    "time": 25
+  },
+  {
+    "id": 36,
+    "theme": "Culture",
+    "difficulte": 9,
+    "question": "Quel mouvement intellectuel du XXe siècle affirme que l'existence précède l'essence ?",
+    "reponses_acceptees": [
+      "existentialisme",
+      "l'existentialisme",
+      "Existentialisme"
+    ],
+    "explication": "L'existentialisme est un courant philosophique associé à Jean-Paul Sartre, qui formule ce principe dans 'L'Existentialisme est un humanisme' (1945). Cette thèse signifie que l'être humain n'a pas de nature prédéfinie et se construit par ses choix et ses actes. Simone de Beauvoir et Albert Camus sont aussi liés à ce mouvement.",
+    "time": 25
+  },
+  {
+    "id": 37,
+    "theme": "Nature",
+    "difficulte": 1,
+    "question": "Quel est le plus grand mammifère terrestre ?",
+    "reponses_acceptees": [
+      "éléphant",
+      "elephant",
+      "Éléphant",
+      "éléphant d'afrique",
+      "Éléphant d'Afrique"
+    ],
+    "explication": "L'éléphant d'Afrique est le plus grand mammifère terrestre, pouvant peser jusqu'à 7 tonnes et mesurer 4 mètres au garrot. Il possède une trompe multifonction composée de plus de 40 000 muscles. Son intelligence et sa mémoire exceptionnelles lui ont valu l'expression 'avoir une mémoire d'éléphant'.",
+    "time": 20
+  },
+  {
+    "id": 38,
+    "theme": "Nature",
+    "difficulte": 3,
+    "question": "Quel arbre produit les glands ?",
+    "reponses_acceptees": [
+      "chêne",
+      "chene",
+      "Chêne",
+      "le chêne"
+    ],
+    "explication": "Le gland est le fruit du chêne (genre Quercus). Il joue un rôle écologique majeur en nourrissant de nombreux animaux comme les sangliers, les écureuils et les geais. Ces derniers enterrent des glands pour l'hiver et en oublient une partie, contribuant ainsi à la reproduction de l'arbre.",
+    "time": 20
+  },
+  {
+    "id": 39,
+    "theme": "Nature",
+    "difficulte": 5,
+    "question": "Comment appelle-t-on le phénomène par lequel certains animaux ralentissent leur métabolisme en hiver ?",
+    "reponses_acceptees": [
+      "hibernation",
+      "l'hibernation",
+      "Hibernation"
+    ],
+    "explication": "L'hibernation est un état de vie ralentie que certains animaux adoptent en hiver pour survivre au froid et au manque de nourriture. Le cœur bat très lentement, la température corporelle chute et la respiration se réduit. L'ours, la marmotte ou le hérisson en sont de célèbres exemples.",
+    "time": 30
+  },
+  {
+    "id": 40,
+    "theme": "Nature",
+    "difficulte": 6,
+    "question": "Quelle est la plante à fleurs la plus grande du monde ?",
+    "reponses_acceptees": [
+      "rafflesia",
+      "Rafflesia",
+      "rafflesia arnoldii",
+      "Rafflesia arnoldii"
+    ],
+    "explication": "La Rafflesia arnoldii est la plus grande fleur du monde, atteignant jusqu'à 1 mètre de diamètre et pesant jusqu'à 10 kg. Elle pousse en Asie du Sud-Est, notamment à Sumatra et Bornéo. Parasite totale, elle n'a ni feuilles ni tiges et émet une odeur de chair en décomposition pour attirer les insectes pollinisateurs.",
+    "time": 25
+  },
+  {
+    "id": 41,
+    "theme": "Nature",
+    "difficulte": 7,
+    "question": "Quel est le seul mammifère capable d'un vol battu (et non planeur) ?",
+    "reponses_acceptees": [
+      "chauve-souris",
+      "Chauve-souris",
+      "chauves-souris",
+      "les chauves-souris"
+    ],
+    "explication": "La chauve-souris est le seul mammifère capable de voler vraiment en battant des ailes, grâce à une membrane cutanée (le patagium) tendue entre ses doigts. Il existe plus de 1 400 espèces. L'écholocation lui permet de naviguer et chasser dans l'obscurité totale.",
+    "time": 25
+  },
+  {
+    "id": 42,
+    "theme": "Nature",
+    "difficulte": 9,
+    "question": "Quel est le processus par lequel les plantes fabriquent leur propre nourriture à partir de la lumière solaire ?",
+    "reponses_acceptees": [
+      "photosynthèse",
+      "photosynthese",
+      "Photosynthèse",
+      "la photosynthèse"
+    ],
+    "explication": "La photosynthèse est le processus par lequel les plantes, algues et certaines bactéries convertissent la lumière solaire, le dioxyde de carbone (CO₂) et l'eau (H₂O) en glucose et dioxygène (O₂). Elle se déroule dans les chloroplastes, grâce à la chlorophylle. Elle est à la base de presque toute la chaîne alimentaire terrestre.",
+    "time": 30
+  },
+  {
+    "id": 43,
+    "theme": "Musique",
+    "difficulte": 1,
+    "question": "Combien de touches blanches et noires compte un piano standard à 88 touches ?",
+    "reponses_acceptees": [
+      "88",
+      "quatre-vingt-huit"
+    ],
+    "explication": "Un piano standard possède 88 touches : 52 blanches et 36 noires. Cela couvre 7 octaves et une tierce mineure. Les premiers pianos du XVIIIe siècle n'avaient que 54 touches. Le nombre de 88 s'est standardisé au XIXe siècle.",
+    "time": 25
+  },
+  {
+    "id": 44,
+    "theme": "Musique",
+    "difficulte": 2,
+    "question": "Quel compositeur allemand a écrit la 9e Symphonie alors qu'il était sourd ?",
+    "reponses_acceptees": [
+      "beethoven",
+      "Beethoven",
+      "ludwig van beethoven",
+      "Ludwig van Beethoven"
+    ],
+    "explication": "Ludwig van Beethoven compose sa 9e Symphonie en ré mineur, op. 125, et la fait créer en 1824, alors qu'il est totalement sourd. Il doit être retourné vers le public après la première pour voir les applaudissements qu'il n'entend pas. L'Ode à la joie du dernier mouvement est devenue l'hymne de l'Union européenne.",
+    "time": 25
+  },
+  {
+    "id": 45,
+    "theme": "Musique",
+    "difficulte": 4,
+    "question": "Quel groupe britannique a sorti l'album 'Abbey Road' en 1969 ?",
+    "reponses_acceptees": [
+      "the beatles",
+      "The Beatles",
+      "beatles",
+      "Beatles"
+    ],
+    "explication": "'Abbey Road' est le onzième album des Beatles, enregistré en 1969 dans les studios Abbey Road à Londres. Sa pochette, montrant les quatre membres traversant un passage piéton, est l'une des plus imitées de l'histoire de la musique. Il contient des titres emblématiques comme 'Come Together' et 'Something'.",
+    "time": 25
+  },
+  {
+    "id": 46,
+    "theme": "Musique",
+    "difficulte": 6,
+    "question": "Quel genre musical est né dans les années 1970 dans les quartiers défavorisés de New York ?",
+    "reponses_acceptees": [
+      "hip-hop",
+      "hip hop",
+      "Hip-Hop",
+      "Hip hop",
+      "rap",
+      "Rap"
+    ],
+    "explication": "Le hip-hop naît dans le South Bronx à New York au début des années 1970, dans des communautés afro-américaines et latinos. Il comprend quatre éléments : le DJing, le MCing (rap), le breakdance et le graffiti. DJ Kool Herc est souvent cité comme l'un de ses pères fondateurs.",
+    "time": 30
+  },
+  {
+    "id": 47,
+    "theme": "Musique",
+    "difficulte": 7,
+    "question": "Quel compositeur autrichien a écrit le 'Requiem en ré mineur', laissé inachevé à sa mort en 1791 ?",
+    "reponses_acceptees": [
+      "mozart",
+      "Mozart",
+      "wolfgang amadeus mozart",
+      "Wolfgang Amadeus Mozart"
+    ],
+    "explication": "Wolfgang Amadeus Mozart commence son Requiem en ré mineur (KV 626) en 1791, l'année de sa mort à 35 ans. L'œuvre reste inachevée et est complétée par son élève Franz Xaver Süssmayr. Les circonstances mystérieuses de sa composition, notamment la commande anonyme, ont alimenté de nombreuses légendes.",
+    "time": 30
+  },
+  {
+    "id": 48,
+    "theme": "Musique",
+    "difficulte": 8,
+    "question": "Quel terme désigne le passage en musique classique où le soliste improvise seul, sans accompagnement orchestral ?",
+    "reponses_acceptees": [
+      "cadence",
+      "la cadence",
+      "Cadence"
+    ],
+    "explication": "La cadence (ou cadenza en italien) est un passage virtuose joué par le soliste seul dans un concerto. À l'époque baroque et classique, les cadences étaient souvent improvisées. Beethoven fut l'un des premiers à les noter précisément dans ses concertos. Elles permettent au soliste de démontrer sa technique et sa musicalité.",
+    "time": 30
+  },
+  {
+    "id": 49,
+    "theme": "Musique",
+    "difficulte": 9,
+    "question": "Quel compositeur russe est l'auteur du ballet 'Le Sacre du Printemps', dont la première en 1913 provoqua un scandale ?",
+    "reponses_acceptees": [
+      "stravinski",
+      "Stravinski",
+      "stravinsky",
+      "Stravinsky",
+      "igor stravinski",
+      "Igor Stravinski"
+    ],
+    "explication": "'Le Sacre du Printemps' d'Igor Stravinski est créé à Paris le 29 mai 1913 par les Ballets Russes de Diaghilev. La première provoque un scandale mémorable : le public hue et se bat dans la salle. L'œuvre révolutionne la musique du XXe siècle par ses rythmes asymétriques et ses dissonances radicales.",
+    "time": 30
+  },
+  {
+    "id": 50,
+    "theme": "Musique",
+    "difficulte": 10,
+    "question": "Comment appelle-t-on la technique vocale qui consiste à produire simultanément deux hauteurs de son distinctes avec la gorge ?",
+    "reponses_acceptees": [
+      "chant diphonique",
+      "Chant diphonique",
+      "throat singing",
+      "chant de gorge",
+      "Chant de gorge",
+      "overtone singing",
+      "chant harmonique"
+    ],
+    "explication": "Le chant diphonique (ou chant de gorge) est une technique vocale où le chanteur produit plusieurs notes simultanément grâce à des résonances harmoniques contrôlées. Pratiqué notamment en Mongolie (khöömei) et chez les Touvas de Sibérie, il est reconnu par l'UNESCO comme patrimoine culturel immatériel. Il faut plusieurs années de pratique pour maîtriser cette technique.",
+    "time": 35
+  }
+]

@@ -1,0 +1,932 @@
+{
+  "theme": "sciences",
+  "questions": [
+    {
+      "id": 1,
+      "niveau": 1,
+      "question": "Quelle est la formule chimique de l'eau ?",
+      "reponse": "H2O",
+      "variantes": [
+        "h2o",
+        "H₂O"
+      ],
+      "anecdote": "L'eau (H₂O) est composée de deux atomes d'hydrogène et un atome d'oxygène. C'est la seule substance naturelle qui existe sous les trois états (solide, liquide, gazeux) dans les conditions normales de la Terre. Elle couvre 71% de la surface terrestre mais seule 2,5% est de l'eau douce."
+    },
+    {
+      "id": 3,
+      "niveau": 1,
+      "question": "Combien de planètes y a-t-il dans notre système solaire ?",
+      "reponse": "8",
+      "variantes": [
+        "huit",
+        "8 planètes"
+      ],
+      "anecdote": "Notre système solaire compte 8 planètes (depuis la reclassification de Pluton en 'planète naine' en 2006 par l'Union Astronomique Internationale) : Mercure, Vénus, Terre, Mars, Jupiter, Saturne, Uranus et Neptune. Jupiter est la plus grande, Mercure la plus petite des 8."
+    },
+    {
+      "id": 4,
+      "niveau": 1,
+      "question": "Quel gaz respirons-nous principalement pour vivre ?",
+      "reponse": "Oxygène",
+      "variantes": [
+        "l'oxygène",
+        "l'O2",
+        "O2"
+      ],
+      "anecdote": "L'oxygène représente environ 21% de l'atmosphère terrestre. Nos cellules l'utilisent pour produire de l'énergie par respiration cellulaire. Sans oxygène, le cerveau commence à mourir après 4 à 6 minutes. Curieusement, c'est l'oxygène lui-même qui est nocif en grande quantité : une concentration de 100% est toxique."
+    },
+    {
+      "id": 5,
+      "niveau": 1,
+      "question": "Quel scientifique a découvert la gravité en observant une pomme tomber d'un arbre selon la légende ?",
+      "reponse": "Isaac Newton",
+      "variantes": [
+        "Newton",
+        "newton"
+      ],
+      "anecdote": "Isaac Newton (1643-1727) aurait eu l'idée de la gravitation universelle en voyant une pomme tomber dans le jardin de sa mère à Woolsthorpe, vers 1666. Si l'anecdote est probablement embellie, Newton a bien développé la loi de la gravitation universelle expliquant aussi bien la chute des objets que les orbites planétaires."
+    },
+    {
+      "id": 6,
+      "niveau": 2,
+      "question": "Quelle planète est la plus grande de notre système solaire ?",
+      "reponse": "Jupiter",
+      "variantes": [
+        "jupiter"
+      ],
+      "anecdote": "Jupiter est la plus grande planète de notre système solaire : elle est 318 fois plus massive que la Terre et pourrait contenir 1 300 Terres en volume. Sa Grande Tache Rouge est une tempête qui dure depuis au moins 350 ans, avec des vents atteignant 600 km/h. Jupiter possède 95 lunes connues, dont Europe qui pourrait abriter un océan sous sa surface glacée."
+    },
+    {
+      "id": 7,
+      "niveau": 2,
+      "question": "Quel est le symbole chimique de l'or ?",
+      "reponse": "Au",
+      "variantes": [
+        "au",
+        "AU"
+      ],
+      "anecdote": "L'or a pour symbole 'Au' du latin 'Aurum'. C'est l'un des métaux les plus précieux de l'histoire humaine. L'or est un métal inerte qui ne rouille ni ne se corrode. L'ensemble de l'or extrait dans l'histoire humaine tiendrait dans un cube d'environ 22 mètres de côté."
+    },
+    {
+      "id": 8,
+      "niveau": 3,
+      "question": "Quel est le plus petit os du corps humain ?",
+      "reponse": "L'étrier",
+      "variantes": [
+        "étrier",
+        "os de l'oreille",
+        "stapes"
+      ],
+      "anecdote": "L'étrier (stapes en latin) est le plus petit os du corps humain avec seulement 3 mm de long. Il se trouve dans l'oreille moyenne et fait partie de la chaîne des osselets (marteau, enclume, étrier) qui transmettent les vibrations sonores du tympan à l'oreille interne."
+    },
+    {
+      "id": 9,
+      "niveau": 2,
+      "question": "Combien de dents permanentes a un adulte humain ?",
+      "reponse": "32",
+      "variantes": [
+        "trente-deux",
+        "32 dents"
+      ],
+      "anecdote": "Un adulte humain possède normalement 32 dents permanentes : 8 incisives, 4 canines, 8 prémolaires et 12 molaires (dont 4 dents de sagesse). Les dents de sagesse n'apparaissent pas chez tout le monde et sont souvent extraites car l'mâchoire humaine moderne est trop petite pour les accueillir — conséquence de l'évolution."
+    },
+    {
+      "id": 10,
+      "niveau": 1,
+      "question": "Quel organe pompe le sang dans le corps humain ?",
+      "reponse": "Le cœur",
+      "variantes": [
+        "cœur",
+        "coeur"
+      ],
+      "anecdote": "Le cœur humain bat environ 100 000 fois par jour, soit 3 milliards de fois au cours d'une vie. Il pompe environ 7 000 litres de sang par jour. Gros comme un poing fermé, il est composé principalement de muscle cardiaque (myocarde), un tissu unique qui ne se fatigue jamais et ne peut pas être remplacé par du muscle squelettique."
+    },
+    {
+      "id": 11,
+      "niveau": 2,
+      "question": "Quel est le symbole chimique du fer ?",
+      "reponse": "Fe",
+      "variantes": [
+        "fe",
+        "FE"
+      ],
+      "anecdote": "Le symbole 'Fe' du fer vient du latin 'Ferrum'. C'est l'élément chimique le plus abondant sur Terre en masse (constitue environ 35% de la masse totale de la Terre). Le noyau de notre planète est principalement composé de fer et de nickel. Sans le fer dans nos globules rouges (hémoglobine), nous ne pourrions pas transporter l'oxygène dans le sang."
+    },
+    {
+      "id": 12,
+      "niveau": 2,
+      "question": "Quel est le nom de l'os de la cuisse ?",
+      "reponse": "Fémur",
+      "variantes": [
+        "le fémur",
+        "femur"
+      ],
+      "anecdote": "Le fémur est le plus long et le plus résistant os du corps humain. Il peut supporter jusqu'à 30 fois le poids du corps humain. La partie supérieure du fémur forme l'articulation de la hanche avec le bassin. Le fémur est souvent utilisé en anthropologie judiciaire pour estimer la taille et l'âge d'un individu."
+    },
+    {
+      "id": 13,
+      "niveau": 2,
+      "question": "Quelle planète est surnommée la 'planète rouge' ?",
+      "reponse": "Mars",
+      "variantes": [
+        "mars",
+        "la planète Mars"
+      ],
+      "anecdote": "Mars doit sa couleur rougeâtre à l'oxyde de fer (rouille) présent en grande quantité dans son sol. Elle possède le plus grand volcan du système solaire (Olympus Mons, 21 km de haut) et le plus grand canyon (Valles Marineris, 4 000 km de long). Des robots comme Curiosity et Perseverance y explorent le sol depuis 2012 et 2021."
+    },
+    {
+      "id": 15,
+      "niveau": 2,
+      "question": "Quel scientifique publia la théorie de l'évolution par sélection naturelle en 1859 ?",
+      "reponse": "Charles Darwin",
+      "variantes": [
+        "Darwin",
+        "charles darwin"
+      ],
+      "anecdote": "Charles Darwin (1809-1882) publia 'L'Origine des espèces' en 1859 après 23 ans de travail. Il y exposa la théorie de la sélection naturelle : les individus les mieux adaptés à leur environnement ont plus de chances de survivre et de se reproduire. Son voyage à bord du HMS Beagle (1831-1836) fut déterminant pour sa réflexion."
+    },
+    {
+      "id": 16,
+      "niveau": 2,
+      "question": "Quel est le gaz à effet de serre le plus important produit par les activités humaines ?",
+      "reponse": "Dioxyde de carbone",
+      "variantes": [
+        "CO2",
+        "CO₂",
+        "dioxyde de carbone",
+        "le CO2",
+        "gaz carbonique"
+      ],
+      "anecdote": "Le dioxyde de carbone (CO₂) est le principal gaz à effet de serre d'origine humaine. Sa concentration dans l'atmosphère est passée de 280 ppm à l'ère préindustrielle à plus de 420 ppm aujourd'hui, un niveau sans précédent depuis 800 000 ans. Il est principalement produit par la combustion de combustibles fossiles et la déforestation."
+    },
+    {
+      "id": 17,
+      "niveau": 2,
+      "question": "Quel est le nom du plus grand organe du corps humain ?",
+      "reponse": "La peau",
+      "variantes": [
+        "peau",
+        "la peau humaine"
+      ],
+      "anecdote": "La peau est le plus grand organe du corps humain : elle couvre environ 1,7 à 2 m² chez un adulte et pèse environ 5 kg. Elle joue de nombreux rôles : protection contre les agents extérieurs, régulation thermique, perception sensorielle et synthèse de la vitamine D. Nous renouvelons notre peau entièrement environ toutes les 4 semaines."
+    },
+    {
+      "id": 18,
+      "niveau": 2,
+      "question": "À quelle vitesse se déplace la lumière dans le vide en km/s ?",
+      "reponse": "300 000",
+      "variantes": [
+        "299 792 km/s",
+        "environ 300 000 km par seconde",
+        "3×10⁸ m/s"
+      ],
+      "anecdote": "La vitesse de la lumière dans le vide est exactement 299 792 458 m/s, soit environ 300 000 km/s. C'est la vitesse maximale dans l'univers selon la théorie de la relativité d'Einstein. À cette vitesse, la lumière peut faire 7,5 fois le tour de la Terre en une seconde ou atteindre la Lune en 1,3 seconde."
+    },
+    {
+      "id": 19,
+      "niveau": 3,
+      "question": "Quel est l'atome le plus léger du tableau périodique ?",
+      "reponse": "Hydrogène",
+      "variantes": [
+        "l'hydrogène",
+        "H",
+        "hydrogène (H)"
+      ],
+      "anecdote": "L'hydrogène (H, numéro atomique 1) est l'élément le plus léger et le plus abondant de l'univers — il constitue environ 75% de la masse de toute la matière ordinaire dans le cosmos. Les étoiles sont essentiellement des réacteurs nucléaires qui fusionnent l'hydrogène en hélium. L'hydrogène est aussi exploré comme carburant propre pour l'avenir."
+    },
+    {
+      "id": 20,
+      "niveau": 2,
+      "question": "Quelle force maintient la Lune en orbite autour de la Terre ?",
+      "reponse": "La gravité",
+      "variantes": [
+        "gravitation",
+        "la gravitation",
+        "la force gravitationnelle",
+        "la pesanteur"
+      ],
+      "anecdote": "La gravité (force d'attraction gravitationnelle) maintient la Lune en orbite autour de la Terre en une attraction mutuelle. La Lune ne 'tombe' pas sur la Terre car elle se déplace latéralement assez vite pour que la courbure de sa trajectoire corresponde à la courbure de la Terre. La Lune s'éloigne de la Terre d'environ 3,8 cm par an."
+    },
+    {
+      "id": 21,
+      "niveau": 3,
+      "question": "Quel est le numéro atomique du carbone ?",
+      "reponse": "6",
+      "variantes": [
+        "six",
+        "Z=6"
+      ],
+      "anecdote": "Le carbone (C) a le numéro atomique 6, signifiant qu'il possède 6 protons dans son noyau. C'est la base de toute la chimie organique et de la vie telle que nous la connaissons. Le carbone peut former jusqu'à 4 liaisons covalentes, ce qui lui permet de créer des molécules extrêmement complexes comme les protéines et l'ADN."
+    },
+    {
+      "id": 22,
+      "niveau": 2,
+      "question": "Quel scientifique a développé la théorie de la relativité restreinte en 1905 ?",
+      "reponse": "Albert Einstein",
+      "variantes": [
+        "Einstein",
+        "albert einstein"
+      ],
+      "anecdote": "Albert Einstein (1879-1955) publia en 1905 ('année miraculeuse') quatre articles révolutionnaires, dont celui sur la relativité restreinte et la célèbre équation E=mc². Il obtint le Prix Nobel de physique en 1921, non pour la relativité, mais pour l'explication de l'effet photoélectrique (qui contribua au développement de la mécanique quantique)."
+    },
+    {
+      "id": 23,
+      "niveau": 2,
+      "question": "Quel est le nom de la molécule porteuse de l'information génétique dans les cellules ?",
+      "reponse": "ADN",
+      "variantes": [
+        "acide désoxyribonucléique",
+        "DNA",
+        "l'ADN"
+      ],
+      "anecdote": "L'ADN (acide désoxyribonucléique) est une molécule en double hélice qui contient les instructions génétiques de tous les organismes vivants. Il est composé de 4 bases azotées (adénine, thymine, guanine, cytosine). La structure en double hélice fut découverte par Watson et Crick en 1953, grâce aux travaux de Rosalind Franklin."
+    },
+    {
+      "id": 24,
+      "niveau": 2,
+      "question": "Quel état de la matière n'a pas de forme propre mais a un volume fixe ?",
+      "reponse": "Liquide",
+      "variantes": [
+        "l'état liquide",
+        "l'état liquide de la matière"
+      ],
+      "anecdote": "Un liquide n'a pas de forme propre (il prend la forme de son contenant) mais possède un volume fixe — contrairement au gaz qui occupe tout le volume disponible. Cette propriété est due aux liaisons intermoléculaires : assez fortes pour maintenir un volume, assez faibles pour permettre le mouvement. L'eau liquide est exceptionnellement dense juste au-dessus de 4°C."
+    },
+    {
+      "id": 25,
+      "niveau": 3,
+      "question": "Quelle loi physique stipule que l'énergie ne peut être ni créée ni détruite, seulement transformée ?",
+      "reponse": "Loi de conservation de l'énergie",
+      "variantes": [
+        "premier principe de la thermodynamique",
+        "conservation de l'énergie",
+        "La loi de conservation de l'énergie"
+      ],
+      "anecdote": "La loi de conservation de l'énergie (1er principe de la thermodynamique) stipule que l'énergie totale d'un système isolé reste constante. Elle peut changer de forme (énergie cinétique en chaleur, électricité en lumière, etc.) mais ne peut jamais apparaître de nulle part ni disparaître. Ce principe interdit l'existence des 'machines à énergie perpétuelle'."
+    },
+    {
+      "id": 26,
+      "niveau": 2,
+      "question": "Quel organe du corps humain filtre le sang et produit l'urine ?",
+      "reponse": "Les reins",
+      "variantes": [
+        "rein",
+        "les reins",
+        "le rein"
+      ],
+      "anecdote": "Les reins filtrent environ 180 litres de sang par jour, produisant 1 à 2 litres d'urine. Ils régulent l'équilibre hydrique, la pression sanguine, l'acidité du sang et activent la vitamine D. Chaque rein contient environ 1 million de néphrons (unités de filtration). Un seul rein suffit à assurer une fonction rénale normale — c'est pourquoi le don de rein est possible."
+    },
+    {
+      "id": 27,
+      "niveau": 2,
+      "question": "Dans quelle unité mesure-t-on la fréquence des sons ?",
+      "reponse": "Hertz",
+      "variantes": [
+        "Hz",
+        "hertz",
+        "Hertz (Hz)"
+      ],
+      "anecdote": "Le hertz (Hz) mesure le nombre de cycles par seconde d'une onde. L'oreille humaine peut entendre les sons entre 20 Hz et 20 000 Hz. Les ultrasons (>20 000 Hz) sont utilisés en médecine (échographies) et par les chauves-souris pour l'écholocalisation. Les infrasons (<20 Hz) sont produits par les tremblements de terre et certains animaux comme les éléphants."
+    },
+    {
+      "id": 28,
+      "niveau": 3,
+      "question": "Quel est le nom du processus par lequel un solide se transforme directement en gaz sans passer par l'état liquide ?",
+      "reponse": "Sublimation",
+      "variantes": [
+        "la sublimation"
+      ],
+      "anecdote": "La sublimation est le passage direct de l'état solide à l'état gazeux sans passer par l'état liquide. La glace sèche (CO₂ solide) se sublime à -78,5°C sous pression atmosphérique normale. L'iode se sublime facilement à température ambiante. La 'vapeur' visible autour de la glace sèche n'est pas de la fumée mais de la condensation de l'air humide refroidi."
+    },
+    {
+      "id": 29,
+      "niveau": 1,
+      "question": "Quel est le nom de la théorie scientifique décrivant l'origine de l'univers il y a environ 13,8 milliards d'années ?",
+      "reponse": "Big Bang",
+      "variantes": [
+        "le Big Bang",
+        "la théorie du Big Bang",
+        "big bang"
+      ],
+      "anecdote": "La théorie du Big Bang décrit l'expansion de l'univers à partir d'un état extrêmement dense et chaud il y a 13,8 milliards d'années. Elle est confirmée par la découverte de l'expansion de l'univers (Hubble, 1929) et du fond diffus cosmologique (Penzias et Wilson, 1964). L'appellation ironique 'Big Bang' fut inventée par Fred Hoyle, qui s'opposait à cette théorie."
+    },
+    {
+      "id": 30,
+      "niveau": 3,
+      "question": "Quel est le nom de la plus grande artère du corps humain ?",
+      "reponse": "Aorte",
+      "variantes": [
+        "l'aorte",
+        "aorte"
+      ],
+      "anecdote": "L'aorte est la plus grande artère du corps humain, mesurant environ 30 cm de long et 2,5 à 3,5 cm de diamètre. Elle part directement du cœur gauche et distribue le sang oxygéné à tout le corps. Une rupture d'anévrisme de l'aorte est l'une des urgences médicales les plus mortelles, avec un taux de mortalité dépassant 80%."
+    },
+    {
+      "id": 31,
+      "niveau": 3,
+      "question": "Quelle particule subatomique possède une charge négative ?",
+      "reponse": "Électron",
+      "variantes": [
+        "l'électron",
+        "les électrons"
+      ],
+      "anecdote": "L'électron, découvert par J.J. Thomson en 1897, est une particule fondamentale de charge négative qui orbite autour du noyau atomique. Sa masse est environ 1836 fois inférieure à celle d'un proton. Les électrons sont responsables des liaisons chimiques, de l'électricité et de la plupart des phénomènes qui structurent notre quotidien."
+    },
+    {
+      "id": 32,
+      "niveau": 4,
+      "question": "Quel type de rayonnement a la longueur d'onde la plus courte dans le spectre électromagnétique ?",
+      "reponse": "Rayons gamma",
+      "variantes": [
+        "rayonnement gamma",
+        "rayon gamma",
+        "les rayons gamma"
+      ],
+      "anecdote": "Les rayons gamma ont la longueur d'onde la plus courte (moins de 0,01 nm) et donc l'énergie la plus élevée du spectre électromagnétique. Ils sont émis lors de désintégrations radioactives et de phénomènes astrophysiques extrêmes (supernovae, fusions d'étoiles à neutrons). Des sursauts gamma cosmiques sont les explosions les plus énergétiques connues dans l'univers."
+    },
+    {
+      "id": 33,
+      "niveau": 5,
+      "question": "Quelle est la formule du glucose, principal sucre utilisé par les cellules comme énergie ?",
+      "reponse": "C6H12O6",
+      "variantes": [
+        "C₆H₁₂O₆",
+        "c6h12o6"
+      ],
+      "anecdote": "Le glucose (C₆H₁₂O₆) est le carburant privilégié des cellules, notamment des neurones qui ne peuvent pas utiliser d'autre source d'énergie. Il est produit par la photosynthèse dans les plantes et stocké sous forme de glycogène dans les muscles et le foie chez les animaux. Le glucose sanguin (glycémie) est strictement régulé par l'insuline et le glucagon."
+    },
+    {
+      "id": 34,
+      "niveau": 3,
+      "question": "Quel scientifique formula les lois du mouvement des planètes au début du XVIIe siècle ?",
+      "reponse": "Kepler",
+      "variantes": [
+        "Johannes Kepler",
+        "kepler"
+      ],
+      "anecdote": "Johannes Kepler (1571-1630) formula ses trois lois du mouvement planétaire entre 1609 et 1619. La première affirme que les planètes décrivent des ellipses avec le Soleil à l'un des foyers (et non des cercles parfaits comme Copernic le pensait). Ces lois, déduites des observations de Tycho Brahe, furent plus tard expliquées par la gravitation de Newton."
+    },
+    {
+      "id": 35,
+      "niveau": 2,
+      "question": "Quel est le pH de l'eau pure ?",
+      "reponse": "7",
+      "variantes": [
+        "pH 7",
+        "7 (neutre)",
+        "neutre"
+      ],
+      "anecdote": "L'eau pure a un pH de 7, la valeur neutre sur l'échelle pH (0 à 14). Les solutions acides ont un pH inférieur à 7, les solutions basiques un pH supérieur à 7. L'estomac a un pH de 1-3 (très acide), le sang humain doit rester entre 7,35 et 7,45 (légèrement basique) — des variations de 0,1 peuvent être mortelles."
+    },
+    {
+      "id": 37,
+      "niveau": 3,
+      "question": "Quel organe produit l'insuline, hormone régulant la glycémie ?",
+      "reponse": "Pancréas",
+      "variantes": [
+        "le pancréas"
+      ],
+      "anecdote": "Le pancréas produit l'insuline (dans les cellules bêta des îlots de Langerhans) qui permet aux cellules d'absorber le glucose sanguin, abaissant la glycémie. Il produit aussi le glucagon qui fait l'inverse. Le diabète de type 1 résulte de la destruction auto-immune de ces cellules bêta, le type 2 d'une résistance à l'insuline. L'insuline thérapeutique fut isolée en 1921 par Banting et Best."
+    },
+    {
+      "id": 38,
+      "niveau": 4,
+      "question": "Quel est le nom du modèle qui décrit les constituants élémentaires de la matière et leurs interactions ?",
+      "reponse": "Modèle standard",
+      "variantes": [
+        "le modèle standard de la physique des particules",
+        "Standard Model"
+      ],
+      "anecdote": "Le Modèle Standard est la théorie physique décrivant les 17 particules élémentaires connues (quarks, leptons, bosons de jauge) et trois des quatre forces fondamentales (forte, faible, électromagnétique). Il fut confirmé par la découverte du boson de Higgs au CERN en 2012. La gravité n'est pas encore intégrée dans ce modèle — c'est l'un des grands problèmes ouverts de la physique."
+    },
+    {
+      "id": 39,
+      "niveau": 3,
+      "question": "Quelle molécule transporte l'oxygène dans le sang des mammifères ?",
+      "reponse": "Hémoglobine",
+      "variantes": [
+        "l'hémoglobine"
+      ],
+      "anecdote": "L'hémoglobine est une protéine contenue dans les globules rouges (érythrocytes). Chaque molécule d'hémoglobine peut transporter 4 molécules d'oxygène grâce à ses atomes de fer. L'oxyde de carbone (CO) se lie à l'hémoglobine 200 fois plus fort que l'oxygène, ce qui explique sa toxicité mortelle même en petites concentrations."
+    },
+    {
+      "id": 40,
+      "niveau": 3,
+      "question": "Quelle est l'unité de mesure de la pression atmosphérique ?",
+      "reponse": "Pascal",
+      "variantes": [
+        "Pa",
+        "hectopascal",
+        "hPa",
+        "atmosphère",
+        "bar"
+      ],
+      "anecdote": "La pression atmosphérique standard au niveau de la mer est de 101 325 pascals (101,3 kPa ou 1013,25 hPa). Elle est mesurée par un baromètre. Un baromètre en chute indique l'arrivée d'une dépression (mauvais temps) ; en hausse, un anticyclone (beau temps). Blaise Pascal donna son nom à cette unité en 1971, trois siècles après ses travaux sur la pression."
+    },
+    {
+      "id": 41,
+      "niveau": 4,
+      "question": "Quelle est la deuxième loi de Newton en physique (loi fondamentale de la dynamique) ?",
+      "reponse": "F = ma",
+      "variantes": [
+        "Fma",
+        "force = masse × accélération",
+        "F=ma"
+      ],
+      "anecdote": "La deuxième loi de Newton stipule que la force (F) appliquée sur un objet est égale au produit de sa masse (m) et de son accélération (a) : F = ma. Cette loi fondamentale explique pourquoi une voiture accélère plus vite avec un moteur plus puissant, ou pourquoi il faut plus de force pour déplacer un objet lourd. Elle est à la base de l'ingénierie moderne."
+    },
+    {
+      "id": 42,
+      "niveau": 4,
+      "question": "Quel type de liaison chimique partage des électrons entre deux atomes non métalliques ?",
+      "reponse": "Liaison covalente",
+      "variantes": [
+        "liaisons covalentes",
+        "liaison covalente"
+      ],
+      "anecdote": "La liaison covalente consiste en le partage d'une paire (ou plusieurs paires) d'électrons entre deux atomes. Elle est caractéristique des molécules organiques et est généralement plus forte que les liaisons ioniques. L'eau (H₂O), le méthane (CH₄) et la quasi-totalité des molécules du vivant sont maintenues par des liaisons covalentes."
+    },
+    {
+      "id": 43,
+      "niveau": 3,
+      "question": "Quel est le phénomène par lequel une étoile massive explose en fin de vie en libérant une quantité d'énergie colossale ?",
+      "reponse": "Supernova",
+      "variantes": [
+        "une supernova",
+        "explosion de supernova"
+      ],
+      "anecdote": "Une supernova est l'explosion cataclysmique d'une étoile massive en fin de vie, libérant en quelques secondes plus d'énergie que notre Soleil n'en émettra durant toute son existence. Ces explosions sont les principaux mécanismes de dispersion des éléments lourds dans l'univers — presque tous les atomes de votre corps (sauf l'hydrogène) ont été forgés dans des étoiles ou lors de supernovae."
+    },
+    {
+      "id": 45,
+      "niveau": 3,
+      "question": "Quel est le nom du processus par lequel une cellule se divise pour donner deux cellules filles identiques ?",
+      "reponse": "Mitose",
+      "variantes": [
+        "la mitose",
+        "division cellulaire"
+      ],
+      "anecdote": "La mitose est le processus de division cellulaire produisant deux cellules filles génétiquement identiques à la cellule mère (mêmes chromosomes). Elle est essentielle à la croissance, à la réparation des tissus et à la reproduction asexuée. La méiose, différente, produit des cellules avec la moitié des chromosomes (gamètes). Une cellule cancéreuse est une cellule dont la mitose est devenue incontrôlable."
+    },
+    {
+      "id": 46,
+      "niveau": 4,
+      "question": "Quelle est la température du zéro absolu en degrés Celsius ?",
+      "reponse": "-273,15°C",
+      "variantes": [
+        "-273 degrés Celsius",
+        "-273°C",
+        "0 Kelvin",
+        "0 K"
+      ],
+      "anecdote": "Le zéro absolu (0 Kelvin = -273,15°C) est la température la plus basse théoriquement possible, à laquelle l'agitation thermique des particules est minimale. Il est impossible à atteindre en pratique (troisième loi de la thermodynamique), mais les scientifiques ont refroidi des atomes à quelques nanokelvins au-dessus du zéro absolu, créant des états de la matière exotiques (condensats de Bose-Einstein)."
+    },
+    {
+      "id": 47,
+      "niveau": 3,
+      "question": "Quel est le symbole de l'élément radioactif le plus naturellement abondant dans la croûte terrestre ?",
+      "reponse": "Uranium (U)",
+      "variantes": [
+        "uranium",
+        "U",
+        "l'uranium"
+      ],
+      "anecdote": "L'uranium (U, numéro atomique 92) est l'élément radioactif naturel le plus lourd existant en quantité significative dans la croûte terrestre. Sa désintégration radioactive produit de la chaleur interne qui maintient la Terre géologiquement active (tectonique des plaques, volcanisme). Il est aussi le combustible des réacteurs nucléaires, où 1 kg d'uranium enrichi libère autant d'énergie que 3 000 tonnes de charbon."
+    },
+    {
+      "id": 49,
+      "niveau": 3,
+      "question": "Dans quel organe se passe la digestion chimique des graisses par la bile ?",
+      "reponse": "Intestin grêle",
+      "variantes": [
+        "l'intestin grêle",
+        "duodénum"
+      ],
+      "anecdote": "L'intestin grêle (environ 6 m de long) est le principal site de digestion et d'absorption des nutriments. La bile, produite par le foie et stockée dans la vésicule biliaire, y est déversée pour émulsifier les graisses. Le pancréas y sécrète des enzymes digestives. La surface d'absorption de l'intestin grêle, grâce aux villosités, est d'environ 250 m² — la taille d'un court de tennis."
+    },
+    {
+      "id": 50,
+      "niveau": 2,
+      "question": "Quelle est la théorie qui explique le mouvement et la dérive des continents à la surface de la Terre ?",
+      "reponse": "Tectonique des plaques",
+      "variantes": [
+        "tectonique des plaques",
+        "dérive des continents",
+        "tectonique"
+      ],
+      "anecdote": "La tectonique des plaques explique que la lithosphère terrestre est divisée en 7 grandes plaques rigides et plusieurs petites, qui se déplacent sur l'asthénosphère visqueuse. Alfred Wegener proposa la théorie de la dérive des continents en 1912, ridiculisé par ses pairs. La théorie moderne ne fut acceptée qu'à la fin des années 1960 grâce à l'étude des fonds océaniques."
+    },
+    {
+      "id": 51,
+      "niveau": 2,
+      "question": "Quelle est l'équation la plus célèbre d'Einstein reliant énergie, masse et vitesse de la lumière ?",
+      "reponse": "E = mc²",
+      "variantes": [
+        "E=mc2",
+        "E = mc²",
+        "énergie = masse × vitesse de la lumière au carré"
+      ],
+      "anecdote": "E = mc² signifie que l'énergie (E) est égale à la masse (m) multipliée par le carré de la vitesse de la lumière (c ≈ 3×10⁸ m/s). Cette équation révèle qu'une infime quantité de masse peut produire une quantité colossale d'énergie — c'est le principe des bombes atomiques et des réacteurs nucléaires. 1 gramme de matière converti en énergie libère 90 térajoules, soit l'équivalent de 21,5 kilotonnes de TNT."
+    },
+    {
+      "id": 53,
+      "niveau": 4,
+      "question": "Quelle est la valeur du nombre d'Avogadro ?",
+      "reponse": "6,022 × 10²³",
+      "variantes": [
+        "6,02×10²³",
+        "6,022 × 10^23",
+        "6.022 × 10^23"
+      ],
+      "anecdote": "Le nombre d'Avogadro (6,022 × 10²³ mol⁻¹) est le nombre de particules (atomes, molécules) dans une mole d'une substance. C'est un nombre astronomiquement grand : si vous empiliez 6×10²³ feuilles de papier, la pile s'étendrait sur 70 milliards d'années-lumière. Il honore Amedeo Avogadro (1776-1856) qui formula la loi des volumes égaux de gaz."
+    },
+    {
+      "id": 54,
+      "niveau": 3,
+      "question": "Quel type de réaction chimique libère de l'énergie sous forme de chaleur ?",
+      "reponse": "Réaction exothermique",
+      "variantes": [
+        "réaction exothermique",
+        "exotherme",
+        "exothermique"
+      ],
+      "anecdote": "Une réaction exothermique libère de l'énergie (le plus souvent sous forme de chaleur) dans l'environnement : la combustion, l'oxydation des métaux (rouille) et la plupart des réactions explosives sont exothermiques. À l'inverse, une réaction endothermique absorbe de l'énergie (comme la photosynthèse ou la fonte de la glace). La dissolution de certains sels en eau est endothermique — c'est le principe des poches de froid chirurgicales."
+    },
+    {
+      "id": 55,
+      "niveau": 4,
+      "question": "Quel est le nom du processus par lequel les cellules produisent de l'ATP en l'absence d'oxygène ?",
+      "reponse": "Fermentation",
+      "variantes": [
+        "la fermentation",
+        "glycolyse anaérobie",
+        "respiration anaérobie"
+      ],
+      "anecdote": "La fermentation permet aux cellules de produire de l'ATP (énergie) sans oxygène via la glycolyse anaérobie. La fermentation lactique (muscle qui manque d'O₂) produit du lactate, responsable des crampes. La fermentation alcoolique (levures) produit de l'éthanol et du CO₂ — à la base de la vinification et de la boulangerie. Ces processus existaient avant l'apparition de l'oxygène atmosphérique."
+    },
+    {
+      "id": 56,
+      "niveau": 4,
+      "question": "Quel phénomène astrophysique se produit quand une étoile à neutrons émet des pulsations régulières de rayonnement électromagnétique ?",
+      "reponse": "Pulsar",
+      "variantes": [
+        "un pulsar",
+        "les pulsars"
+      ],
+      "anecdote": "Un pulsar est une étoile à neutrons en rotation rapide émettant des faisceaux de rayonnement électromagnétique de ses pôles magnétiques. Quand ces faisceaux balaient la Terre, on les détecte comme des pulsations régulières (comme un phare). Découverts en 1967 par Jocelyn Bell, ils servent aujourd'hui d'horloges cosmiques extrêmement précises. Les pulsars millisecondes tournent sur eux-mêmes des centaines de fois par seconde."
+    },
+    {
+      "id": 57,
+      "niveau": 3,
+      "question": "Quelle est la charge électrique du proton ?",
+      "reponse": "+1",
+      "variantes": [
+        "positive",
+        "charge positive",
+        "+e",
+        "1,6 × 10⁻¹⁹ coulombs",
+        "1"
+      ],
+      "anecdote": "Le proton possède une charge électrique positive de +1 (en unités de charge élémentaire) ou +1,602 × 10⁻¹⁹ coulombs. C'est exactement l'opposé de la charge de l'électron. Le proton est 1836 fois plus massif que l'électron mais sa charge est identique en valeur absolue. Le nombre de protons dans un noyau (numéro atomique Z) définit l'élément chimique."
+    },
+    {
+      "id": 58,
+      "niveau": 4,
+      "question": "Quel est le phénomène par lequel la lumière est déviée par un champ gravitationnel massif, prévu par la relativité générale d'Einstein ?",
+      "reponse": "Lentille gravitationnelle",
+      "variantes": [
+        "lentille gravitationnelle",
+        "déflexion gravitationnelle de la lumière",
+        "effet de lentille"
+      ],
+      "anecdote": "La relativité générale d'Einstein (1915) prédit que la masse courbe l'espace-temps, déviant les rayons lumineux. Cela fut confirmé lors de l'éclipse solaire de 1919 par Arthur Eddington qui mesura le déplacement apparent d'étoiles proches du Soleil. Aujourd'hui, les lentilles gravitationnelles des amas de galaxies sont utilisées pour étudier des objets encore plus lointains — et pour cartographier la matière noire invisible."
+    },
+    {
+      "id": 59,
+      "niveau": 4,
+      "question": "Quel est le nom de la réaction chimique inverse de l'oxydation, par laquelle un atome gagne des électrons ?",
+      "reponse": "Réduction",
+      "variantes": [
+        "la réduction",
+        "réduction chimique"
+      ],
+      "anecdote": "Dans une réaction d'oxydo-réduction (redox), l'oxydation (perte d'électrons) et la réduction (gain d'électrons) se produisent toujours simultanément. Le mémorisé : 'OIL RIG' (Oxidation Is Loss, Reduction Is Gain). La corrosion du fer (oxydation), les piles électriques et la respiration cellulaire sont des réactions redox. La photosynthèse est une réduction du CO₂ en glucose."
+    },
+    {
+      "id": 60,
+      "niveau": 5,
+      "question": "Quel est le nom de la loi reliant la pression et le volume d'un gaz à température constante ?",
+      "reponse": "Loi de Boyle-Mariotte",
+      "variantes": [
+        "loi de Boyle",
+        "loi de Mariotte",
+        "loi Boyle-Mariotte"
+      ],
+      "anecdote": "La loi de Boyle-Mariotte (1662, indépendamment par Boyle et Mariotte) stipule que pour un gaz parfait à température constante, le produit P×V est constant (si la pression double, le volume est divisé par deux). C'est pourquoi les plongeurs ne doivent jamais remonter en apnée : l'air dans leurs poumons se dilate et peut causer une rupture pulmonaire."
+    },
+    {
+      "id": 61,
+      "niveau": 2,
+      "question": "Quel est le nom du paradoxe quantique suggérant qu'un chat peut être simultanément mort et vivant ?",
+      "reponse": "Chat de Schrödinger",
+      "variantes": [
+        "paradoxe de Schrödinger",
+        "le chat de Schrödinger"
+      ],
+      "anecdote": "Erwin Schrödinger imagina en 1935 ce paradoxe pour critiquer l'interprétation de Copenhague : un chat enfermé avec un dispositif déclenchant un poison selon la désintégration d'un atome radioactif est dans une 'superposition' d'états (mort et vivant) jusqu'à l'observation. Ce gedankenexperiment illustre le problème de la mesure en mécanique quantique et reste philosophiquement débattu."
+    },
+    {
+      "id": 63,
+      "niveau": 4,
+      "question": "Quel est le nombre de chromosomes dans une cellule humaine somatique normale ?",
+      "reponse": "46",
+      "variantes": [
+        "46 chromosomes",
+        "23 paires",
+        "quarante-six"
+      ],
+      "anecdote": "Les cellules somatiques humaines (toutes les cellules du corps sauf les gamètes) contiennent 46 chromosomes (23 paires). Les gamètes (spermatozoïdes, ovules) en contiennent 23 — ils fusionnent lors de la fécondation pour reformer 46. La trisomie 21 résulte d'un chromosome 21 supplémentaire (47 chromosomes au total), causant le syndrome de Down."
+    },
+    {
+      "id": 65,
+      "niveau": 5,
+      "question": "Quelle enzyme est responsable de la réplication de l'ADN lors de la division cellulaire ?",
+      "reponse": "ADN polymérase",
+      "variantes": [
+        "la polymérase",
+        "DNA polymérase",
+        "ADN-polymérase"
+      ],
+      "anecdote": "L'ADN polymérase est l'enzyme qui copie le brin d'ADN lors de la réplication cellulaire. Elle ne peut synthétiser l'ADN que dans le sens 5'→3' et nécessite une amorce (primer) — c'est pourquoi un brin est copié de façon continue (brin avancé) et l'autre de façon discontinue (brin retardé, fragments d'Okazaki). Sa fidélité est extraordinaire : elle fait moins d'une erreur pour un milliard de bases copiées."
+    },
+    {
+      "id": 66,
+      "niveau": 5,
+      "question": "Quel est le nom de la constante valant h = 6,626 × 10⁻³⁴ J·s en physique quantique ?",
+      "reponse": "Constante de planck",
+      "variantes": [
+        "plank",
+        "la constante de Planck"
+      ],
+      "anecdote": "La constante de Planck (h ≈ 6,626 × 10⁻³⁴ J·s) est la grandeur fondamentale de la physique quantique, introduite par Max Planck en 1900. Elle relie l'énergie d'un photon à sa fréquence (E = hν). Sa valeur infime explique pourquoi les effets quantiques sont imperceptibles à l'échelle macroscopique. Depuis 2019, elle sert à redéfinir le kilogramme dans le Système international d'unités."
+    },
+    {
+      "id": 67,
+      "niveau": 3,
+      "question": "Quel est le nom du processus par lequel une cellule détruit ses propres composants défectueux ou inutiles via des lysosomes ?",
+      "reponse": "Autophagie",
+      "variantes": [
+        "l'autophagie",
+        "autophagie cellulaire"
+      ],
+      "anecdote": "L'autophagie (du grec 'se manger soi-même') est le processus par lequel les cellules dégradent et recyclent leurs propres composants endommagés ou inutiles via des vacuoles (autophagosomes) fusionnant avec des lysosomes. Ce mécanisme crucial d'entretien cellulaire est activé par le stress, le jeûne et l'exercice. Yoshinori Ohsumi a reçu le Prix Nobel de médecine 2016 pour ses découvertes sur l'autophagie."
+    },
+    {
+      "id": 68,
+      "niveau": 4,
+      "question": "Quel est le symbole de l'antimoine dans le tableau périodique ?",
+      "reponse": "Sb",
+      "variantes": [
+        "sb",
+        "SB"
+      ],
+      "anecdote": "L'antimoine (Sb, du latin 'Stibium', numéro atomique 51) est un métalloïde connu depuis l'Antiquité. Son symbole 'Sb' vient du latin. Il était utilisé par les Égyptiens comme fard à paupières (khôl). Aujourd'hui, il est principalement utilisé comme retardateur de flamme dans les plastiques et les textiles, et comme composant des batteries plomb-acide."
+    },
+    {
+      "id": 69,
+      "niveau": 4,
+      "question": "Quel est le nom du mouvement décrit par Einstein en 1905 ?",
+      "reponse": "mouvement brownien",
+      "variantes": [
+        "mouvement brownien",
+        "agitation brownienne"
+      ],
+      "anecdote": "Le mouvement brownien (observé par Robert Brown sur des grains de pollen en 1827, expliqué par Einstein en 1905) est l'agitation aléatoire des particules microscopiques en suspension dans un fluide, causée par leurs chocs avec les molécules du fluide. L'explication d'Einstein de ce phénomène constitua la première preuve expérimentale solide de l'existence des atomes (niant les thèses des atomistes sceptiques de l'époque)."
+    },
+    {
+      "id": 73,
+      "niveau": 4,
+      "question": "Quel est le nom du modèle mathématique décrivant l'évolution temporelle d'un système quantique ?",
+      "reponse": "Équation de Schrödinger",
+      "variantes": [
+        "l'équation de Schrödinger",
+        "equation de Schrödinger"
+      ],
+      "anecdote": "L'équation de Schrödinger (1926) est l'équation fondamentale de la mécanique quantique non-relativiste. Elle décrit l'évolution temporelle de la fonction d'onde d'un système quantique. Sa solution donne la probabilité de trouver une particule dans un état donné. L'interprétation probabiliste (Born) fut contestée par Einstein, Schrödinger lui-même et d'autres physiciemns jusqu'à la fin de leur vie."
+    },
+    {
+      "id": 74,
+      "niveau": 4,
+      "question": "Quelle protéine anormalement repliée est responsable de maladies neurodégénératives comme la maladie de Creutzfeldt-Jakob ?",
+      "reponse": "Prion",
+      "variantes": [
+        "le prion",
+        "protéine prion"
+      ],
+      "anecdote": "Un prion est une protéine dont le repliement est anormal et qui peut propager sa conformation pathologique aux protéines normales, sans nécessiter d'acide nucléique (ADN ou ARN). C'est un agent infectieux sans génome — concept révolutionnaire. Stanley Prusiner reçut le Nobel en 1997 pour cette découverte. La maladie de Creutzfeldt-Jakob chez l'humain, la tremblante chez le mouton et la ESB ('maladie de la vache folle') sont des maladies à prions."
+    },
+    {
+      "id": 76,
+      "niveau": 5,
+      "question": "Quelle constante a pour valeur 6,674 × 10⁻¹¹ N·m²/kg² ?",
+      "reponse": "Constante gravitationnelle",
+      "variantes": [
+        "La constante gravitationnelle"
+      ],
+      "anecdote": "La constante gravitationnelle G (≈ 6,674 × 10⁻¹¹ N·m²/kg²) est la constante de proportionnalité dans la loi de gravitation universelle de Newton. Sa valeur extrêmement faible explique la faiblesse relative de la force gravitationnelle par rapport aux autres forces fondamentales. G est la constante physique fondamentale la moins précisément mesurée — sa valeur reste incertaine au dixième de pourcent."
+    },
+    {
+      "id": 77,
+      "niveau": 4,
+      "question": "Quel est le nom de l'inhibiteur compétitif enzymatique le plus célèbre en médecine, qui bloque la synthèse de la paroi bactérienne ?",
+      "reponse": "Pénicilline",
+      "variantes": [
+        "la pénicilline",
+        "penicilline"
+      ],
+      "anecdote": "La pénicilline inhibe la transpeptidase bactérienne (PBP — Penicillin-Binding Protein), enzyme essentielle à la synthèse de la paroi cellulaire bactérienne. Sans paroi, la bactérie éclate par pression osmotique. Découverte par Fleming en 1928 par accident, elle fut purifiée par Florey et Chain en 1940. Elle a sauvé des dizaines de millions de vies. Malheureusement, la résistance bactérienne la rend de moins en moins efficace."
+    },
+    {
+      "id": 79,
+      "niveau": 4,
+      "question": "Quel est le nom du phénomène par lequel deux particules quantiquement intriquées semblent influencer instantanément l'état l'une de l'autre quelle que soit leur distance ?",
+      "reponse": "Intrication quantique",
+      "variantes": [
+        "entanglement quantique",
+        "corrélations quantiques",
+        "intrication"
+      ],
+      "anecdote": "L'intrication quantique (entanglement) est un phénomène prévu par la mécanique quantique et vérifié expérimentalement. Deux particules intriquées partagent un état quantique commun : mesurer l'une détermine instantanément l'état de l'autre, même à des distances cosmiques. Einstein appelait ça 'action fantôme à distance'. Alain Aspect, John Clauser et Anton Zeilinger ont reçu le Nobel 2022 pour leurs expériences sur l'intrication."
+    },
+    {
+      "id": 80,
+      "niveau": 5,
+      "question": "Quel principe de mécanique quantique énoncé par Werner Heisenberg en 1927 stipule qu'on ne peut connaître simultanément avec une précision arbitraire la position et la quantité de mouvement d'une particule ?",
+      "reponse": "Principe d'incertitude",
+      "variantes": [
+        "principe d'incertitude",
+        "principe d'incertitude de heisenberg",
+        "relation d'incertitude"
+      ],
+      "anecdote": "Ce principe n'est pas une limite de nos instruments de mesure mais une propriété fondamentale de la nature à l'échelle quantique. Il implique qu'une particule n'a simplement pas de position et de vitesse parfaitement définies en même temps, remettant en cause le déterminisme classique de la physique newtonienne."
+    },
+    {
+      "id": 81,
+      "niveau": 4,
+      "question": "Quel boson, découvert au CERN en 2012 et confirmant une prédiction théorique de 1964, est responsable du mécanisme donnant leur masse aux particules élémentaires ?",
+      "reponse": "Boson de Higgs",
+      "variantes": [
+        "boson de higgs",
+        "higgs"
+      ],
+      "anecdote": "Surnommé à tort 'particule de Dieu' par les médias, le boson de Higgs a été détecté par les expériences ATLAS et CMS du LHC après des décennies de recherche. Sa découverte a valu le prix Nobel de physique 2013 à François Englert et Peter Higgs, qui avaient théorisé le mécanisme en 1964."
+    },
+    {
+      "id": 82,
+      "niveau": 5,
+      "question": "Quelle particule subatomique, quasiment sans masse et n'interagissant presque pas avec la matière, a été postulée par Wolfgang Pauli en 1930 pour expliquer la conservation de l'énergie dans la désintégration bêta ?",
+      "reponse": "Le neutrino",
+      "variantes": [
+        "neutrino",
+        "le neutrino"
+      ],
+      "anecdote": "Pauli qualifia lui-même sa proposition de 'remède désespéré' tant la particule semblait indétectable. Des milliards de neutrinos solaires traversent votre corps chaque seconde sans jamais interagir avec lui, ce qui explique qu'il fallut attendre 1956 pour les détecter expérimentalement."
+    },
+    {
+      "id": 83,
+      "niveau": 4,
+      "question": "Quelle équation fondamentale de la mécanique quantique, formulée en 1925, décrit l'évolution dans le temps de la fonction d'onde d'un système quantique ?",
+      "reponse": "Équation de Schrödinger",
+      "variantes": [
+        "équation de schrödinger",
+        "équation de schrodinger"
+      ],
+      "anecdote": "Erwin Schrödinger conçut cette équation après avoir entendu parler des travaux de Louis de Broglie sur la dualité onde-corpuscule. Il est aussi l'auteur de la célèbre expérience de pensée du 'chat de Schrödinger', destinée à illustrer les paradoxes de la superposition quantique appliquée au monde macroscopique."
+    },
+    {
+      "id": 84,
+      "niveau": 5,
+      "question": "Quel principe de mécanique quantique stipule que deux fermions identiques, comme deux électrons, ne peuvent occuper simultanément le même état quantique ?",
+      "reponse": "Principe d'exclusion de Pauli",
+      "variantes": [
+        "principe d'exclusion de pauli",
+        "exclusion de pauli"
+      ],
+      "anecdote": "Ce principe explique pourquoi les électrons d'un atome se répartissent en couches successives plutôt que de s'accumuler tous sur le niveau d'énergie le plus bas, ce qui structure l'ensemble du tableau périodique des éléments et la chimie qui en découle."
+    },
+    {
+      "id": 85,
+      "niveau": 5,
+      "question": "Quel théorème mathématique, démontré par Emmy Noether en 1915, établit un lien fondamental entre les symétries d'un système physique et ses lois de conservation ?",
+      "reponse": "Théorème de Noether",
+      "variantes": [
+        "théorème de noether",
+        "theoreme de noether"
+      ],
+      "anecdote": "Le théorème de Noether révèle que la conservation de l'énergie découle de l'invariance des lois physiques dans le temps, tandis que la conservation de la quantité de mouvement découle de l'invariance dans l'espace. Einstein qualifia Emmy Noether de mathématicienne la plus importante depuis le début de l'éducation des femmes dans cette discipline."
+    },
+    {
+      "id": 86,
+      "niveau": 5,
+      "question": "Quelle est la particule médiatrice de l'interaction forte, responsable de la cohésion des protons et neutrons à l'intérieur du noyau atomique ?",
+      "reponse": "Le gluon",
+      "variantes": [
+        "gluon",
+        "le gluon"
+      ],
+      "anecdote": "Les gluons 'collent' les quarks entre eux pour former les protons et les neutrons (leur nom vient de l'anglais 'glue', colle). Contrairement aux photons, les gluons portent eux-mêmes une charge de couleur, ce qui rend l'interaction forte beaucoup plus complexe à décrire mathématiquement que l'électromagnétisme."
+    },
+    {
+      "id": 87,
+      "niveau": 5,
+      "question": "Quel phénomène géophysique, dû aux mouvements de convection du fer liquide dans le noyau externe de la Terre, génère le champ magnétique terrestre ?",
+      "reponse": "Effet dynamo",
+      "variantes": [
+        "effet dynamo",
+        "géodynamo",
+        "dynamo terrestre"
+      ],
+      "anecdote": "Ce champ magnétique protège la Terre du vent solaire et des rayonnements cosmiques, rendant la vie possible en surface. Sans lui, comme sur Mars qui a perdu sa dynamo interne, l'atmosphère serait progressivement arrachée par le vent solaire."
+    },
+    {
+      "id": 88,
+      "niveau": 5,
+      "question": "Quelle réaction nucléaire en chaîne, se déroulant au cœur du Soleil, fusionne quatre noyaux d'hydrogène en un noyau d'hélium en libérant de l'énergie ?",
+      "reponse": "Cycle proton-proton",
+      "variantes": [
+        "cycle proton-proton",
+        "chaîne proton-proton",
+        "réaction proton-proton"
+      ],
+      "anecdote": "Ce cycle est la principale source d'énergie des étoiles de masse comparable ou inférieure à celle du Soleil. Il faut en moyenne plusieurs milliers d'années à un photon produit au cœur du Soleil pour atteindre sa surface par diffusions successives, bien que la lumière ne mette que 8 minutes pour ensuite atteindre la Terre."
+    },
+    {
+      "id": 89,
+      "niveau": 5,
+      "question": "Quelle loi de l'électromagnétisme énonce qu'une variation du flux magnétique à travers un circuit induit une force électromotrice dans ce circuit ?",
+      "reponse": "Loi de Faraday",
+      "variantes": [
+        "loi de faraday",
+        "loi d'induction de faraday"
+      ],
+      "anecdote": "Découverte par Michael Faraday en 1831, cette loi est le fondement physique des alternateurs, des transformateurs électriques et des génératrices qui produisent la quasi-totalité de l'électricité mondiale. James Clerk Maxwell la formalisa ensuite mathématiquement dans ses célèbres équations de l'électromagnétisme."
+    },
+    {
+      "id": 90,
+      "niveau": 5,
+      "question": "Quelle loi de la physique du rayonnement énonce que la longueur d'onde d'émission maximale d'un corps noir est inversement proportionnelle à sa température ?",
+      "reponse": "Loi de Wien",
+      "variantes": [
+        "loi de wien",
+        "loi du déplacement de wien"
+      ],
+      "anecdote": "Cette loi explique pourquoi un métal chauffé passe du rouge sombre au blanc puis au bleu en s'échauffant davantage, et permet aux astronomes d'estimer la température de surface des étoiles uniquement à partir de la couleur de leur lumière."
+    },
+    {
+      "id": 91,
+      "niveau": 5,
+      "question": "Quel modèle cinétique enzymatique, formulé en 1913, décrit la relation entre la vitesse d'une réaction enzymatique et la concentration du substrat ?",
+      "reponse": "Équation de Michaelis-Menten",
+      "variantes": [
+        "michaelis-menten",
+        "équation de michaelis-menten",
+        "cinétique de michaelis-menten"
+      ],
+      "anecdote": "Leonor Michaelis et Maud Menten ont établi ce modèle en étudiant l'action de l'invertase sur le saccharose. Il reste aujourd'hui le cadre de référence en biochimie pour caractériser l'efficacité d'une enzyme via ses paramètres Km (affinité) et Vmax (vitesse maximale)."
+    },
+    {
+      "id": 92,
+      "niveau": 5,
+      "question": "Quel est le nom du processus astrophysique, se produisant lors de la fusion d'étoiles à neutrons, capable de produire les éléments chimiques plus lourds que le fer comme l'or et l'uranium ?",
+      "reponse": "Nucléosynthèse explosive (processus r)",
+      "variantes": [
+        "nucléosynthèse explosive",
+        "processus r",
+        "nucléosynthèse stellaire"
+      ],
+      "anecdote": "À l'intérieur des étoiles, la fusion nucléaire ne peut produire des éléments plus lourds que le fer car ces réactions deviennent énergétiquement défavorables. Les éléments lourds comme l'or, le platine ou l'uranium proviennent presque exclusivement de la fusion de deux étoiles à neutrons, un événement observé directement pour la première fois en 2017 (GW170817)."
+    },
+    {
+      "id": 93,
+      "niveau": 5,
+      "question": "Quelle grandeur thermodynamique, liée au second principe, mesure le degré de désordre d'un système et ne peut, dans un système isolé, que rester constante ou augmenter au cours du temps ?",
+      "reponse": "Entropie",
+      "variantes": [
+        "entropie",
+        "l'entropie"
+      ],
+      "anecdote": "Ludwig Boltzmann a relié l'entropie macroscopique définie par Clausius au nombre de configurations microscopiques possibles d'un système, gravée sur sa tombe sous la forme S = k log W. Cette flèche du temps thermodynamique est l'une des seules lois physiques fondamentales qui distingue clairement le passé du futur."
+    },
+    {
+      "id": 94,
+      "niveau": 5,
+      "question": "Quel est le nom de la constante physique fondamentale, notée h, reliant l'énergie d'un photon à la fréquence de son onde électromagnétique (E = hf) ?",
+      "reponse": "Constante de Planck",
+      "variantes": [
+        "constante de planck",
+        "h de planck"
+      ],
+      "anecdote": "Max Planck introduisit cette constante en 1900 pour résoudre la 'catastrophe ultraviolette', un paradoxe théorique sur le rayonnement du corps noir, posant ainsi sans le vouloir les bases de la physique quantique. Sa valeur extrêmement petite (environ 6,626 × 10⁻³⁴ J·s) explique pourquoi les effets quantiques sont invisibles à notre échelle."
+    }
+  ]
+}

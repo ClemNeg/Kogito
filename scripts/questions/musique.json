@@ -1,0 +1,648 @@
+{
+  "theme": "musique",
+  "questions": [
+    {
+      "id": 1,
+      "niveau": 4,
+      "question": "Qui a composé la célèbre mélodie 'Au clair de la lune' ?",
+      "reponse": "anonyme",
+      "variantes": [
+        "anonyme",
+        "inconnu",
+        "auteur inconnu",
+        "folklore français"
+      ],
+      "anecdote": "'Au clair de la lune' est une chanson populaire française dont l'auteur est inconnu. Elle est célèbre aussi pour avoir été enregistrée en 1860 par Édouard-Léon Scott de Martinville sur son phonautographe, ce qui en fait l'un des premiers enregistrements sonores de l'histoire."
+    },
+    {
+      "id": 2,
+      "niveau": 1,
+      "question": "Quel instrument de musique a des touches noires et blanches ?",
+      "reponse": "piano",
+      "variantes": [
+        "piano",
+        "clavier",
+        "pianoforte"
+      ],
+      "anecdote": "Le piano a été inventé vers 1700 par Bartolomeo Cristofori en Italie. Son nom complet est 'pianoforte', ce qui signifie 'doux-fort' en italien, car contrairement au clavecin, il peut jouer à différentes intensités selon la force avec laquelle on frappe les touches."
+    },
+    {
+      "id": 3,
+      "niveau": 2,
+      "question": "Combien de cordes a une guitare classique ?",
+      "reponse": "6",
+      "variantes": [
+        "6",
+        "six"
+      ],
+      "anecdote": "La guitare classique possède 6 cordes accordées en mi, la, ré, sol, si, mi. Cependant, les guitares basses en ont généralement 4, et certaines guitares jazz ou classiques modernes peuvent en avoir 7 ou 8. La guitare descend du luth, instrument très répandu au Moyen-Âge."
+    },
+    {
+      "id": 4,
+      "niveau": 2,
+      "question": "Quel animal est représenté dans le conte musical 'Pierre et le ...' de Prokofiev ?",
+      "reponse": "loup",
+      "variantes": [
+        "loup",
+        "le loup",
+        "un loup"
+      ],
+      "anecdote": "'Pierre et le Loup' (1936) est une œuvre pédagogique de Sergueï Prokofiev dans laquelle chaque personnage est représenté par un instrument : le canard par le hautbois, le chat par la clarinette, le loup par trois cors, et Pierre par les cordes. C'est une façon ludique d'initier les enfants aux instruments d'orchestre."
+    },
+    {
+      "id": 5,
+      "niveau": 1,
+      "question": "Comment appelle-t-on quelqu'un qui dirige un orchestre avec une baguette ?",
+      "reponse": "chef d'orchestre",
+      "variantes": [
+        "chef d'orchestre",
+        "chef orchestre",
+        "chef",
+        "maestro",
+        "directeur"
+      ],
+      "anecdote": "Le chef d'orchestre dirige les musiciens en battant la mesure avec sa baguette et ses mains, tout en exprimant les nuances musicales par ses gestes et ses expressions. Les premières baguettes de chef n'apparaissent qu'au XIXe siècle — avant, on battait la mesure avec un rouleau de papier ou simplement le pied."
+    },
+    {
+      "id": 6,
+      "niveau": 1,
+      "question": "Comment appelle-t-on l'objet utilisé pour frapper une batterie ?",
+      "reponse": "Baguette",
+      "variantes": [
+        "baguettes",
+        "une baguette",
+        "des baguettes"
+      ],
+      "anecdote": "Les baguettes de batterie sont généralement fabriquées en bois, mais peuvent aussi être en carbone ou dans d'autres matériaux. Leur taille et leur poids influencent le son et le confort de jeu. Les batteurs en utilisent habituellement deux, une dans chaque main."
+    },
+    {
+      "id": 7,
+      "niveau": 1,
+      "question": "De quelle famille d'instruments fait partie la flûte ?",
+      "reponse": "vents",
+      "variantes": [
+        "vents",
+        "instruments à vent",
+        "bois",
+        "instruments à bois",
+        "aérophones"
+      ],
+      "anecdote": "La flûte appartient à la famille des instruments à vent en bois (bois), même si les flûtes modernes sont souvent en métal. Elle est l'un des plus anciens instruments de musique : des flûtes en os ont été retrouvées datant de plus de 40 000 ans. La flûte traversière est tenue horizontalement, contrairement à la flûte à bec."
+    },
+    {
+      "id": 8,
+      "niveau": 1,
+      "question": "Quel est le style musical emblématique de la Jamaïque, popularisé par Bob Marley ?",
+      "reponse": "reggae",
+      "variantes": [
+        "reggae",
+        "le reggae"
+      ],
+      "anecdote": "Le reggae est né en Jamaïque à la fin des années 1960. Bob Marley en est le représentant le plus célèbre dans le monde entier. Il se caractérise par un rythme syncopé et des paroles souvent liées à la religion rastafari et à la lutte sociale. 'No Woman No Cry' et 'One Love' sont parmi ses chansons les plus connues."
+    },
+    {
+      "id": 9,
+      "niveau": 2,
+      "question": "Quel groupe britannique des années 1960 comprenait John Lennon et Paul McCartney ?",
+      "reponse": "The Beatles",
+      "variantes": [
+        "the beatles",
+        "beatles",
+        "les beatles"
+      ],
+      "anecdote": "Les Beatles, formés à Liverpool en 1960, sont souvent considérés comme le groupe de rock le plus influent de tous les temps. Outre Lennon et McCartney, ils comprenaient George Harrison et Ringo Starr. Leur arrivée aux États-Unis en 1964 déclencha la 'Beatlemania', une hystérie collective sans précédent dans l'histoire de la musique pop."
+    },
+    {
+      "id": 10,
+      "niveau": 1,
+      "question": "Comment appelle-t-on les sept notes de musique dans l'ordre ?",
+      "reponse": "do ré mi fa sol la si",
+      "variantes": [
+        "do ré mi fa sol la si",
+        "do re mi fa sol la si",
+        "ut ré mi fa sol la si"
+      ],
+      "anecdote": "Les noms des notes (do, ré, mi, fa, sol, la, si) viennent d'une hymne au saint Jean-Baptiste du XIe siècle, dont chaque vers commençait par la syllabe correspondant à une note. Ce système fut codifié par le moine Guido d'Arezzo, qui inventa aussi le solfège et la notation sur portée."
+    },
+    {
+      "id": 11,
+      "niveau": 4,
+      "question": "Qui a composé la 'Symphonie du Nouveau Monde' ?",
+      "reponse": "Dvořák",
+      "variantes": [
+        "dvořák",
+        "dvorak",
+        "antonín dvořák",
+        "antonin dvorak"
+      ],
+      "anecdote": "La Symphonie n°9 'Du Nouveau Monde' fut composée par Antonín Dvořák en 1893 lors de son séjour aux États-Unis, où il dirigeait le Conservatoire national de musique de New York. Il y intégra des éléments de musique spirituelle afro-américaine et de chants améridiens pour créer une œuvre qui célèbre l'âme musicale américaine."
+    },
+    {
+      "id": 12,
+      "niveau": 1,
+      "question": "Quel compositeur allemand devint sourd mais continua à composer des chefs-d'œuvre ?",
+      "reponse": "Beethoven",
+      "variantes": [
+        "beethoven",
+        "ludwig van beethoven",
+        "ludwig beethoven"
+      ],
+      "anecdote": "Ludwig van Beethoven (1770-1827) commença à perdre l'ouïe vers l'âge de 26 ans et devint totalement sourd à 45 ans. Pourtant, il composa certaines de ses œuvres les plus grandioses après sa surdité, dont la Neuvième Symphonie avec son célèbre 'Ode à la Joie', qu'il ne put jamais entendre. Il ressentait les vibrations en posant le menton sur son piano."
+    },
+    {
+      "id": 13,
+      "niveau": 3,
+      "question": "Comment s'appelle la clé musicale utilisée pour les instruments graves comme la contrebasse ?",
+      "reponse": "clé de fa",
+      "variantes": [
+        "clé de fa",
+        "cle de fa",
+        "clef de fa",
+        "fa"
+      ],
+      "anecdote": "La clé de fa est utilisée pour les instruments graves : contrebasse, violoncelle, trombone, tuba et la main gauche du piano. Elle indique que la note écrite sur la quatrième ligne de la portée est un fa. Il existe aussi la clé de sol (pour instruments aigus) et la clé d'ut (pour instruments médiums comme l'alto)."
+    },
+    {
+      "id": 14,
+      "niveau": 2,
+      "question": "Quel est le nom du célèbre opéra de Mozart mettant en scène une flûte magique ?",
+      "reponse": "La Flûte enchantée",
+      "variantes": [
+        "la flûte enchantée",
+        "la flute enchantée",
+        "die zauberflöte",
+        "die zauberflote",
+        "flûte enchantée"
+      ],
+      "anecdote": "'La Flûte enchantée' (Die Zauberflöte) fut la dernière œuvre majeure de Mozart, composée en 1791, quelques mois avant sa mort à 35 ans. C'est un Singspiel (opéra parlé) mêlant conte initiatique, symboles maçonniques et musique sublime. L'air de la Reine de la Nuit, avec ses notes extrêmement aiguës, est l'un des plus difficiles du répertoire."
+    },
+    {
+      "id": 15,
+      "niveau": 1,
+      "question": "Quel est l'instrument à cordes frottées le plus grave de l'orchestre symphonique ?",
+      "reponse": "contrebasse",
+      "variantes": [
+        "contrebasse",
+        "la contrebasse",
+        "double basse"
+      ],
+      "anecdote": "La contrebasse est le plus grand et le plus grave des instruments à cordes frottées. Elle mesure environ 1,80 m et le musicien joue debout ou assis sur un tabouret haut. Elle a généralement 4 cordes accordées en mi, la, ré, sol (graves). Dans le jazz, on la joue souvent en pizzicato (pincée)."
+    },
+    {
+      "id": 16,
+      "niveau": 1,
+      "question": "Quel instrument à cordes est souvent associé à la musique classique et se joue avec un archet ?",
+      "reponse": "Violon",
+      "variantes": [
+        "un violon",
+        "le violon"
+      ],
+      "anecdote": "Le violon est l'un des instruments les plus importants de l'orchestre symphonique. Certains violons anciens fabriqués par Stradivarius valent plusieurs millions d'euros."
+    },
+    {
+      "id": 17,
+      "niveau": 1,
+      "question": "Quel chanteur américain est surnommé 'Le Roi du Rock and Roll' ?",
+      "reponse": "Elvis Presley",
+      "variantes": [
+        "elvis presley",
+        "elvis",
+        "presley"
+      ],
+      "anecdote": "Elvis Presley (1935-1977) est considéré comme l'une des figures les plus importantes de la culture populaire du XXe siècle. Il popularisa le rock and roll en mélangeant country, rhythm and blues et gospel. Son style de scène provocateur (déhanchements) fut controversé dans les années 1950. Sa résidence à Las Vegas dans les années 1970 est devenue légendaire."
+    },
+    {
+      "id": 18,
+      "niveau": 1,
+      "question": "Quel est le tempo indiqué par le terme 'allegro' en musique ?",
+      "reponse": "rapide",
+      "variantes": [
+        "rapide",
+        "vif",
+        "vite",
+        "allègre et vif",
+        "tempo rapide"
+      ],
+      "anecdote": "L'allegro (mot italien signifiant 'gai, allègre') indique un tempo vif et rapide, généralement entre 120 et 168 battements par minute. Les indications de tempo en musique classique sont traditionnellement en italien : adagio (lent), andante (allant), moderato (modéré), allegro (vif), presto (très vite). Ces conventions remontent au XVIIe siècle."
+    },
+    {
+      "id": 19,
+      "niveau": 4,
+      "question": "Qui a composé le célèbre 'Boléro' ?",
+      "reponse": "Ravel",
+      "variantes": [
+        "ravel",
+        "maurice ravel",
+        "Maurice Ravel"
+      ],
+      "anecdote": "Le 'Boléro' de Maurice Ravel (1928) est l'une des œuvres orchestrales les plus jouées au monde. Il consiste en une mélodie répétée 18 fois, avec une orchestration progressivement enrichie et un volume croissant, jusqu'à une explosion finale. Ravel lui-même la considérait comme une expérience orchestrale sans véritable musique, mais le public en fut immédiatement conquis."
+    },
+    {
+      "id": 20,
+      "niveau": 2,
+      "question": "Dans quel pays est né le tango ?",
+      "reponse": "Argentine",
+      "variantes": [
+        "argentine",
+        "l'argentine",
+        "rio de la plata",
+        "buenos aires"
+      ],
+      "anecdote": "Le tango est né à Buenos Aires et Montevideo à la fin du XIXe siècle dans les quartiers populaires d'immigrants européens et africains. Longtemps jugé obscène pour ses postures rapprochées, il fut pourtant adopté par Paris dans les années 1910, ce qui lui conféra une respectabilité mondiale. Carlos Gardel reste le chanteur de tango le plus légendaire."
+    },
+    {
+      "id": 21,
+      "niveau": 2,
+      "question": "Comment appelle-t-on une œuvre musicale écrite pour être interprétée par un orchestre complet ?",
+      "reponse": "Symphonie",
+      "variantes": [
+        "une symphonie",
+        "la symphonie"
+      ],
+      "anecdote": "Les symphonies sont généralement divisées en plusieurs mouvements. Les œuvres de Beethoven et Mozart figurent parmi les plus célèbres du genre."
+    },
+    {
+      "id": 22,
+      "niveau": 2,
+      "question": "Comment s'appelle le procédé musical consistant à répéter un thème dans une voix différente, légèrement décalé dans le temps ?",
+      "reponse": "canon",
+      "variantes": [
+        "canon",
+        "un canon",
+        "imitation canonique"
+      ],
+      "anecdote": "Le canon est une forme d'imitation stricte où plusieurs voix interprètent la même mélodie à des intervalles de temps différents. Le 'Kanon' de Johann Pachelbel (vers 1680) est l'un des canons les plus célèbres. La 'Frère Jacques' ou 'Row your boat' en sont des exemples simples. J.S. Bach porta cet art à son apogée dans ses 'Variations Goldberg'."
+    },
+    {
+      "id": 23,
+      "niveau": 2,
+      "question": "Quel compositeur baroque est l'auteur des 'Quatre Saisons' ?",
+      "reponse": "Vivaldi",
+      "variantes": [
+        "vivaldi",
+        "antonio vivaldi"
+      ],
+      "anecdote": "Antonio Vivaldi (1678-1741) composa 'Les Quatre Saisons' vers 1723, quatre concertos pour violon décrivant musicalement le Printemps, l'Été, l'Automne et l'Hiver. C'est l'un des premiers exemples de musique à programme. Vivaldi, surnommé 'le prêtre roux' pour sa chevelure rousse, composa plus de 500 concertos et travailla longtemps à l'orphelinat de la Pietà à Venise."
+    },
+    {
+      "id": 24,
+      "niveau": 2,
+      "question": "Quel terme désigne la vitesse d'exécution d'un morceau de musique ?",
+      "reponse": "Tempo",
+      "variantes": [
+        "le tempo",
+        "un tempo"
+      ],
+      "anecdote": "Le tempo est souvent indiqué en battements par minute. Un tempo rapide donne une impression d'énergie, tandis qu'un tempo lent crée souvent une ambiance plus calme."
+    },
+    {
+      "id": 25,
+      "niveau": 2,
+      "question": "Quel mouvement artistique musical, né en France vers 1890, cherchait à évoquer des atmosphères et des sensations plutôt que des formes strictes ?",
+      "reponse": "impressionnisme",
+      "variantes": [
+        "impressionnisme musical",
+        "impressionnisme",
+        "courant impressionniste"
+      ],
+      "anecdote": "L'impressionnisme musical, associé principalement à Debussy et Ravel, cherche à évoquer des atmosphères, des lumières et des sensations par des harmonies flottantes, des gammes par tons et des textures orchestrales irisées. Debussy détestait cette étiquette empruntée à la peinture, mais elle reste attachée à son style. 'La Mer' et 'Prélude à l'après-midi d'un faune' en sont des exemples emblématiques."
+    },
+    {
+      "id": 26,
+      "niveau": 1,
+      "question": "Comment appelle-t-on l'action de chanter sans accompagnement instrumental ?",
+      "reponse": "A cappella",
+      "variantes": [
+        "acapella",
+        "a capella"
+      ],
+      "anecdote": "L'expression italienne « a cappella » signifie littéralement « à la manière de la chapelle ». Ce style met en valeur uniquement les voix humaines."
+    },
+    {
+      "id": 27,
+      "niveau": 3,
+      "question": "Comment s'appelle la voix de soprano masculine haute-contre développée dans l'opéra baroque ?",
+      "reponse": "castrat",
+      "variantes": [
+        "castrat",
+        "castrati",
+        "haute-contre castrat",
+        "sopraniste castrat"
+      ],
+      "anecdote": "Les castrats étaient des chanteurs masculins castrés avant la puberté pour préserver une tessiture aiguë combinée à la capacité pulmonaire d'un adulte. Ils dominèrent l'opéra baroque entre le XVIIe et le XVIIIe siècle. Farinelli est le plus célèbre. La castration fut interdite au XIXe siècle, remplacée progressivement par les contre-ténors et les mezzos-sopranos."
+    },
+    {
+      "id": 28,
+      "niveau": 4,
+      "question": "Quel terme désigne la répétition d'un motif musical à différentes hauteurs de ton ?",
+      "reponse": "séquence",
+      "variantes": [
+        "séquence",
+        "sequence",
+        "marche harmonique",
+        "transposition",
+        "progression"
+      ],
+      "anecdote": "La séquence (ou marche harmonique) est un procédé compositionnel où un motif mélodique ou harmonique est répété à des degrés différents de la gamme. C'est un outil structurant très utilisé en musique baroque et classique pour créer tension et progression. La 'règle de l'octave' baroque exploite systématiquement ce principe."
+    },
+    {
+      "id": 29,
+      "niveau": 3,
+      "question": "Quel compositeur romantique polonais est célèbre pour ses nocturnes et ses mazurkas pour piano ?",
+      "reponse": "Chopin",
+      "variantes": [
+        "chopin",
+        "frédéric chopin",
+        "frederic chopin"
+      ],
+      "anecdote": "Frédéric Chopin (1810-1849) est l'un des plus grands compositeurs pour piano de l'histoire. D'origine polonaise et française, il passa la majeure partie de sa vie à Paris. Il souffrit de tuberculose et mourut à 39 ans. Ses nocturnes, mazurkas, préludes et études restent au répertoire fondamental des pianistes. Il fut aussi le compagnon de l'écrivaine George Sand."
+    },
+    {
+      "id": 30,
+      "niveau": 4,
+      "question": "Comment appelle-t-on la technique de chant gutturale des chamans de Mongolie et de Touva ?",
+      "reponse": "chant diphonique",
+      "variantes": [
+        "chant diphonique",
+        "chant harmonique",
+        "khöömei",
+        "khoomei",
+        "chant de gorge",
+        "throat singing"
+      ],
+      "anecdote": "Le chant diphonique (ou chant de gorge, khöömei en mongol) est une technique vocale permettant au chanteur de produire deux sons simultanément : un bourdon grave et une mélodie aiguë d'harmoniques suraiguës. Pratiqué dans les régions de Touva, Mongolie et Tibet, il est lié à des traditions chamaniques. L'UNESCO l'a inscrit au patrimoine immatériel de l'humanité."
+    },
+    {
+      "id": 31,
+      "niveau": 2,
+      "question": "Quel compositeur est l'auteur de l'opéra « La Flûte enchantée » ?",
+      "reponse": "Mozart",
+      "variantes": [
+        "wolfgang amadeus mozart",
+        "w. a. mozart"
+      ],
+      "anecdote": "« La Flûte enchantée » a été créée en 1791, quelques mois avant la mort de Mozart. Cet opéra est aujourd'hui l'un des plus joués au monde."
+    },
+    {
+      "id": 32,
+      "niveau": 1,
+      "question": "Comment appelle-t-on l'instrument à vent souvent utilisé dans le jazz et inventé par Adolphe Sax ?",
+      "reponse": "Saxophone",
+      "variantes": [
+        "un saxophone",
+        "le saxophone",
+        "saxo"
+      ],
+      "anecdote": "Le saxophone a été inventé dans les années 1840 par le facteur d'instruments belge Adolphe Sax. Bien qu'il soit fabriqué en métal, il appartient à la famille des bois."
+    },
+    {
+      "id": 33,
+      "niveau": 4,
+      "question": "Comment s'appelle la technique de composition où les 12 notes de la gamme chromatique sont utilisées dans un ordre fixe avant d'être répétées ?",
+      "reponse": "dodécaphonisme",
+      "variantes": [
+        "dodécaphonisme",
+        "dodecaphonisme",
+        "série de douze sons",
+        "sérialisme",
+        "technique des douze tons"
+      ],
+      "anecdote": "Le dodécaphonisme fut développé par Arnold Schoenberg vers 1921 comme réponse à la 'crise tonale' du XIXe siècle. Dans cette technique, les 12 notes de l'octave sont organisées en une série fixe (aucune répétée avant que les 12 aient été jouées), utilisable sous quatre formes : originale, rétrograde, inversée, et rétrograde inversée. Ses élèves Berg et Webern développèrent leurs propres styles à partir de ce système."
+    },
+    {
+      "id": 34,
+      "niveau": 5,
+      "question": "Quel compositeur américain du XXe siècle est l'auteur de 'Rhapsody in Blue' ?",
+      "reponse": "Gershwin",
+      "variantes": [
+        "gershwin",
+        "george gershwin"
+      ],
+      "anecdote": "'Rhapsody in Blue' (1924) de George Gershwin est une œuvre emblématique fusionnant jazz et musique classique. Commandée par le chef d'orchestre Paul Whiteman, elle fut composée en quelques semaines. Le célèbre glissando de clarinette qui l'ouvre est l'une des phrases musicales les plus reconnaissables du XXe siècle. Gershwin mourut d'une tumeur cérébrale à seulement 38 ans."
+    },
+    {
+      "id": 37,
+      "niveau": 4,
+      "question": "Quel est le nom du système d'écriture musicale développé par John Cage, où le hasard détermine la composition ?",
+      "reponse": "musique aléatoire",
+      "variantes": [
+        "musique aléatoire",
+        "aléatoire",
+        "musique du hasard",
+        "indétermination",
+        "chance music"
+      ],
+      "anecdote": "John Cage développa la musique aléatoire (ou d'indétermination) à partir des années 1950, s'inspirant du bouddhisme zen et du Yi King. Dans '4'33\"' (1952), l'interprète ne joue aucune note pendant 4 minutes et 33 secondes — les sons ambiants devenant la 'musique'. Cage voulait remettre en question toutes nos définitions de la musique et du silence."
+    },
+    {
+      "id": 38,
+      "niveau": 2,
+      "question": "Comment s'appelle la forme musicale cyclique en plusieurs actes développée par Wagner, mettant en scène des mythes germaniques ?",
+      "reponse": "tétralogie",
+      "variantes": [
+        "tétralogie",
+        "tetralogie",
+        "la tétralogie",
+        "ring",
+        "l'anneau du nibelung",
+        "der ring des nibelungen"
+      ],
+      "anecdote": "Richard Wagner composa entre 1848 et 1874 son monumental 'Ring des Nibelungen' (L'Anneau du Nibelung), une tétralogie en quatre opéras : Das Rheingold, Die Walküre, Siegfried, Götterdämmerung. La tétralogie, qui dure environ 16 heures au total, est jouée sur quatre soirées consécutives. Wagner conçut aussi un théâtre spécial à Bayreuth pour la représenter."
+    },
+    {
+      "id": 39,
+      "niveau": 2,
+      "question": "Quelle technique de jeu à la guitare consiste à pincer les cordes avec les doigts plutôt qu'à utiliser un médiator ?",
+      "reponse": "fingerpicking",
+      "variantes": [
+        "fingerpicking",
+        "finger picking",
+        "jeu aux doigts",
+        "pizzicato à la guitare",
+        "technique des doigts"
+      ],
+      "anecdote": "Le fingerpicking (jeu aux doigts) est la technique de base de la guitare classique, mais aussi du blues, du folk et du country. Chaque doigt de la main droite est assigné à une corde : le pouce pour les trois cordes graves, l'index, le majeur et l'annulaire pour les trois cordes aiguës. Chet Atkins et Tommy Emmanuel sont des maîtres du fingerpicking en guitare country."
+    },
+    {
+      "id": 42,
+      "niveau": 3,
+      "question": "Quel compositeur russe du XXe siècle est l'auteur du ballet 'Le Sacre du Printemps' ?",
+      "reponse": "Stravinsky",
+      "variantes": [
+        "stravinsky",
+        "igor stravinsky",
+        "igor strawinsky"
+      ],
+      "anecdote": "La première du 'Sacre du Printemps' (Le Sacre du printemps) en 1913 à Paris provoqua une véritable émeute dans la salle. La musique de Stravinsky, avec ses rythmes asymétriques violents et ses dissonances, et la chorégraphie de Nijinski, totalement novatrice, choquèrent le public habitué au ballet classique. L'œuvre est aujourd'hui considérée comme un tournant de la musique du XXe siècle."
+    },
+    {
+      "id": 43,
+      "niveau": 5,
+      "question": "Quel compositeur autrichien a inventé le dodécaphonisme (système sériel à douze sons) au début du XXe siècle ?",
+      "reponse": "Arnold Schönberg",
+      "variantes": [
+        "schönberg",
+        "schoenberg",
+        "arnold schoenberg"
+      ],
+      "anecdote": "Arnold Schönberg développa la méthode dodécaphonique dans les années 1920, organisant les douze sons de la gamme chromatique sans hiérarchie tonale. Cette révolution, poursuivie par ses élèves Alban Berg et Anton Webern (la 'Seconde École de Vienne'), a profondément marqué la musique du XXe siècle en rompant avec plus de trois siècles de tonalité."
+    },
+    {
+      "id": 44,
+      "niveau": 5,
+      "question": "Quel castrat italien du XVIIIe siècle est considéré comme le plus grand chanteur lyrique de son époque ?",
+      "reponse": "Farinelli",
+      "variantes": [
+        "farinelli",
+        "carlo broschi"
+      ],
+      "anecdote": "Carlo Broschi, dit Farinelli, fut castré enfant pour préserver sa voix et devint la plus grande star lyrique d'Europe. Engagé par le roi d'Espagne Philippe V, il chanta chaque soir les mêmes airs pendant des années pour soulager la dépression du monarque."
+    },
+    {
+      "id": 45,
+      "niveau": 5,
+      "question": "Quel terme désigne le procédé d'écriture musicale inventé par John Cage où le hasard détermine certains paramètres de l'œuvre ?",
+      "reponse": "Musique aléatoire",
+      "variantes": [
+        "musique aléatoire",
+        "chance music",
+        "musique du hasard"
+      ],
+      "anecdote": "Dans 'Music of Changes' (1951), John Cage utilisa le Yi-King, livre chinois de divination, pour déterminer hauteurs, durées et dynamiques. Cette démarche, qu'il distinguait de l'improvisation, visait à libérer la composition de l'intention et du goût personnel du compositeur."
+    },
+    {
+      "id": 46,
+      "niveau": 5,
+      "question": "Quelle est l'œuvre la plus célèbre de John Cage, composée uniquement de silence ?",
+      "reponse": "4'33\"",
+      "variantes": [
+        "4'33",
+        "4 minutes 33",
+        "quatre minutes trente-trois"
+      ],
+      "anecdote": "Créée en 1952, '4'33\"' demande à l'interprète de ne jouer aucune note pendant quatre minutes et trente-trois secondes. Cage voulait faire entendre les bruits ambiants de la salle comme une musique à part entière, remettant en question la frontière entre silence et son."
+    },
+    {
+      "id": 47,
+      "niveau": 5,
+      "question": "Quel compositeur estonien contemporain a développé le style minimaliste dit 'tintinnabuli' ?",
+      "reponse": "Arvo Pärt",
+      "variantes": [
+        "arvo part",
+        "arvo pärt"
+      ],
+      "anecdote": "Le style tintinnabuli, qu'Arvo Pärt élabore à partir de 1976, repose sur l'association d'une voix mélodique et d'une voix arpégeant les notes de la triade, évoquant le son des cloches ('tintinnabulum' en latin). Son œuvre 'Spiegel im Spiegel' en est l'exemple le plus célèbre."
+    },
+    {
+      "id": 48,
+      "niveau": 5,
+      "question": "Quel théoricien et moine du XIe siècle est à l'origine des syllabes ut-ré-mi-fa-sol-la utilisées pour nommer les notes ?",
+      "reponse": "Guido d'Arezzo",
+      "variantes": [
+        "guido d'arezzo",
+        "guy d'arezzo"
+      ],
+      "anecdote": "Guido d'Arezzo conçut ce système de solmisation à partir des premières syllabes d'un hymne à saint Jean-Baptiste, 'Ut queant laxis'. Il inventa aussi les premières portées à plusieurs lignes, posant les bases de la notation musicale occidentale moderne."
+    },
+    {
+      "id": 49,
+      "niveau": 5,
+      "question": "Quel terme allemand désigne la technique de déclamation à mi-chemin entre le chant et la parole utilisée par Schönberg dans 'Pierrot Lunaire' ?",
+      "reponse": "Sprechgesang",
+      "variantes": [
+        "sprechgesang",
+        "sprechstimme"
+      ],
+      "anecdote": "Le Sprechgesang ('chant parlé') indique une hauteur approximative à suivre sans tenue de note précise, contrairement au chant lyrique classique. Schönberg l'utilisa en 1912 dans 'Pierrot Lunaire', une œuvre expressionniste pour voix et ensemble instrumental."
+    },
+    {
+      "id": 50,
+      "niveau": 5,
+      "question": "Quel compositeur français, chef de file de l'avant-garde sérielle, a composé 'Le Marteau sans maître' en 1955 ?",
+      "reponse": "Pierre Boulez",
+      "variantes": [
+        "pierre boulez",
+        "boulez"
+      ],
+      "anecdote": "'Le Marteau sans maître', sur des poèmes de René Char, marqua un tournant dans la musique sérielle d'après-guerre. Pierre Boulez, également chef d'orchestre de renom et fondateur de l'IRCAM, fut l'une des figures les plus influentes de la musique contemporaine du XXe siècle."
+    },
+    {
+      "id": 51,
+      "niveau": 5,
+      "question": "Quelle œuvre inachevée de Jean-Sébastien Bach explore systématiquement les possibilités du contrepoint fugué sur un même thème ?",
+      "reponse": "L'Art de la fugue",
+      "variantes": [
+        "l'art de la fugue",
+        "die kunst der fuge"
+      ],
+      "anecdote": "Composée à la fin de sa vie, 'L'Art de la fugue' contient 14 fugues et 4 canons sur un même sujet, d'une complexité contrapuntique croissante. Bach mourut en la laissant inachevée, la dernière fugue s'interrompant brutalement après l'introduction de son propre nom en notes (B-A-C-H)."
+    },
+    {
+      "id": 52,
+      "niveau": 5,
+      "question": "En musicologie, quel terme allemand désigne une édition se voulant la plus fidèle possible au manuscrit original du compositeur ?",
+      "reponse": "Urtext",
+      "variantes": [
+        "urtext"
+      ],
+      "anecdote": "Les éditions Urtext, popularisées notamment par Henle Verlag, cherchent à restituer la partition sans les ajouts d'interprétation (doigtés, nuances) accumulés au fil des éditions successives. Elles sont la référence pour les musicologues et interprètes soucieux d'authenticité historique."
+    },
+    {
+      "id": 53,
+      "niveau": 5,
+      "question": "Quel est le nom de la technique de composition consistant à associer un thème musical récurrent à un personnage ou une idée, popularisée par Richard Wagner ?",
+      "reponse": "Leitmotiv",
+      "variantes": [
+        "leitmotiv",
+        "leitmotif"
+      ],
+      "anecdote": "Wagner généralisa cette technique dans sa tétralogie 'L'Anneau du Nibelung' (1876), où chaque personnage, objet ou sentiment possède son propre thème musical, transformé et entrelacé tout au long du cycle. Le terme fut popularisé après sa mort par les musicologues analysant son œuvre."
+    },
+    {
+      "id": 54,
+      "niveau": 5,
+      "question": "Quel musicologue allemand du XIXe siècle a établi le catalogue chronologique des œuvres de Mozart, dont les numéros 'K.' portent son nom ?",
+      "reponse": "Ludwig von Köchel",
+      "variantes": [
+        "köchel",
+        "ludwig von köchel",
+        "koechel"
+      ],
+      "anecdote": "Publié en 1862, le catalogue Köchel répertorie plus de 600 œuvres de Mozart par ordre chronologique présumé de composition. Ainsi, la 'Petite musique de nuit' porte la référence K. 525, et le Requiem inachevé K. 626, sa dernière œuvre."
+    },
+    {
+      "id": 55,
+      "niveau": 5,
+      "question": "Quel compositeur hongrois a théorisé et utilisé le nombre d'or et la suite de Fibonacci dans la structure de ses œuvres, comme dans 'Musique pour cordes, percussion et célesta' ?",
+      "reponse": "Béla Bartók",
+      "variantes": [
+        "bartok",
+        "béla bartók",
+        "bela bartok"
+      ],
+      "anecdote": "Les analyses musicologiques d'Ernő Lendvai ont révélé que Bartók structurait souvent la durée de ses mouvements selon des proportions liées au nombre d'or. Il fut aussi un collecteur infatigable de musique folklorique d'Europe de l'Est, qu'il intégra à un langage harmonique très personnel."
+    },
+    {
+      "id": 56,
+      "niveau": 5,
+      "question": "Quel terme italien désigne la basse jouée au clavecin ou à l'orgue dans la musique baroque, improvisée à partir d'une ligne de basse chiffrée ?",
+      "reponse": "Basso continuo",
+      "variantes": [
+        "basso continuo",
+        "basse continue"
+      ],
+      "anecdote": "Le continuiste improvise les accords indiqués par des chiffres au-dessus de la basse (la 'basse chiffrée'), un système comparable aux grilles d'accords du jazz actuel. Cette pratique, centrale du début du XVIIe à la fin du XVIIIe siècle, disparut avec l'avènement du romantisme et de l'orchestration entièrement écrite."
+    },
+    {
+      "id": 57,
+      "niveau": 5,
+      "question": "Quel compositeur français du XXe siècle, ornithologue passionné, a transcrit des chants d'oiseaux dans des œuvres comme 'Catalogue d'oiseaux' ?",
+      "reponse": "Olivier Messiaen",
+      "variantes": [
+        "olivier messiaen",
+        "messiaen"
+      ],
+      "anecdote": "Messiaen passa des années à noter sur le terrain les chants d'oiseaux de toute la France, qu'il retranscrivit avec une précision quasi scientifique dans ses partitions pour piano. Profondément croyant, il développa aussi un langage harmonique et rythmique très personnel, notamment dans le 'Quatuor pour la fin du temps', composé en captivité en 1941."
+    }
+  ]
+}
